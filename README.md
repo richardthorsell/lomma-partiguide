@@ -38,6 +38,11 @@ Sök och jämför de politiska partierna i Lomma kommun inför valet 2026.
 Allt innehåll (partier, sakfrågor, nyheter) ligger i `data/seed/` som JSON-filer. Redigera filerna och kör
 `npm run db:seed` igen — det är säkert att köra om (idempotent, uppdaterar via `upsert`).
 
+**Obs:** `npm run build` (och därmed varje Vercel-deploy) kör `prisma db push --force-reset`, vilket
+nollställer och återskapar hela databasschemat från `schema.prisma` innan det seedas om från JSON-filerna.
+Databasen är med andra ord helt engångsbar &mdash; `data/seed/` är den enda källan till sanning. Gör aldrig
+manuella ändringar direkt i databasen (t.ex. via Prisma Studio) och förvänta dig att de består.
+
 - `data/seed/parties/*.json` &mdash; ett parti per fil
 - `data/seed/issue-areas.json` &mdash; sakfrågeområden
 - `data/seed/election-periods.json` &mdash; valperioder

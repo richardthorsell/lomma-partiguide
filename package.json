@@ -4,11 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "prisma generate && prisma db push --skip-generate && tsx prisma/seed.ts && next build",
+    "build": "prisma generate && prisma db push --force-reset --accept-data-loss --skip-generate && tsx prisma/seed.ts && next build",
     "start": "next start",
     "lint": "next lint",
     "postinstall": "prisma generate",
-    "db:push": "prisma db push",
+    "db:push": "prisma db push --force-reset --accept-data-loss",
     "db:seed": "prisma db seed",
     "db:studio": "prisma studio",
     "fetch:sources": "tsx scripts/fetch-sources.ts"
