@@ -1,0 +1,1337 @@
+                                                             SAMMANTRÄDESPROTOKOLL
+                                                             Sida 1 av 28
+
+                                                             Sammanträdesdatum
+                                                             2023-10-26
+
+KOMMUNFULLMÄKTIGE
+
+Plats: Lomma kommun, Stora Sessionssalen
+
+Tid: 2023-10-26, klockan 09:00-18:32
+
+Beslutande:
+Ordinarie ledamöter
+Se bifogad närvarolista
+
+Tjänstgörande ersättare
+Se bifogad närvarolista
+
+Icke tjänstgörande ersättare
+Se bifogad närvarolista
+
+Övriga deltagare
+Maria Zingmark, Kommunsekreterare
+Christian Almström, Informationstekniker
+Sandra Stjärna, Nämndsekreterare
+Jane Isgren, Ekonomichef
+Elisabet Andersson, Budgetekonom
+
+Utses att justera: Rune Netterlid och Lars-Göran Svensson
+Ersättare: Per Bengtsson
+
+Justeringens plats och datum: Digital justering, 2023-10-31
+
+Paragraf: §95-§103
+
+Protokollet har justerats av:
+Sekreterare Maria Zingmark
+Ordförande Lena Wahlgren
+Justerande Rune Netterlid, Lars-Göran Svensson
+
+Justerande                                      Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 2 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+ANSLAG/BEVIS
+
+Protokollet är justerat. Justeringen har tillkännagivits genom anslag
+Beslutande organ: Kommunfullmäktige
+Sammanträdesdatum: 2023-10-26
+Paragrafer: §95-§103
+Datum när anslaget sätts upp: 2023-11-01
+Datum när anslaget tas ned: 2023-11-23
+Förvaringsplats för protokollet: Kommunhuset i Lomma
+Anslaget har justerats av: Maria Zingmark
+Anslaget har signerats digitalt
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 3 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+Närvarolista vid sammanträde med kommunfullmäktige i Lomma kommun 2023-10-26
+Lena Wahlgren (M) ordförande
+
+Marie Nilsson (M) 1:e vice ordförande
+Rune Netterlid (S) 2:e vice ordförande
+
+Ordinarie ledamöter
+Robert Wenglén (M)
+Susanne Borgelius (M)
+Fredrik Karström (M)
+Oscar Magnusson (M) §§ 101-102
+Eva Banheden Lindblad (M)
+Aron Regnéll (M)
+Charlott Enocson (M)
+Caroline Lindberg (M)
+Jens Thystrup (M)
+Anders Olin (M)
+Ann Haluzova (M)
+Stefan Wojnicki Högberg (M)
+Bert Larsson (M)
+Richard Jerneborg (M)
+Per Bengtsson (S)
+Pia Johnson (S)
+Thomas Eneström (S)
+Nina Jägroth (S)
+Lennart Nilsson (S)
+Sandra Pilemalm (L)
+Åsa Mikkelsen (L)
+Gun Larsson (L)
+Lars-Göran Svensson (C)
+Martin Uncyk (KD)
+Ingrid Ascard (MP)
+Viveka Berger Pålsson (MP)
+Oscar Sedira (SD)
+Jeanette Larson (SD)
+Natalia Engstedt (SD)
+Jonas Olsson (SD)
+Tony Ljungström (SD) del av § 102
+Jenny Morau (FB)
+Fredrik Sverkersten (FB)
+Ulf Richeberg (FB)
+Delphine Raimbault (FB)
+
+Tjänstgörande ersättare
+Carl Hammarström (M) ersätter Emma Köster (M)
+Anna Ericson (M) ersätter Oscar Magnusson (M) §§ 95-100
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 4 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+Martin Holtz (M) ersätter Jerry Ahlström (M) §§ 95-101
+Anna Ericson (M) ersätter Jerry Ahlström (M) § 102
+Mikael Pankko (M) ersätter Jesper Wiman (M)
+Karl-Gustav Nilsson (S) ersätter Marie Sand (S)
+Paul Andersson (S) ersätter Eva Netterlid (S)
+Lena Svensson (C) ersätter Martha Henriksson Witt (C)
+Thomas Engstedt (SD) ersätter Tony Ljungström (SD) § 95-del av § 102
+Andreas Svensson (FB) ersätter Kristina Thored (FB)
+
+Icke tjänstgörande ersättare
+Martin Holtz (M) §§ 102
+Jeanette Schönknecht (M)
+Peter Brobäck (M) § 95-del av § 102
+Ingrid Strömgren (M)
+Krister Wiman (M)
+Henri Gossé (S) del av § 102
+Lena Hörgren (S)
+Ida Alm (L)
+Christer Philipsson (KD)
+Thomas Engstedt (SD)
+Patrik Hult (SD)
+Micael Carnil (SD)
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 5 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+KF § 95                             KS KF/2023:3
+
+Meddelanden
+
+Ärendebeskrivning
+Föreligger förteckning över meddelanden:
+
+    a) Beslut 2023-10-06 från Länsstyrelsen i Skåne om ny ledamot och ny ersättare i
+         kommunfullmäktige
+
+    b) Beslut 2023-10-06 från Länsstyrelsen i Skåne om ny ersättare i kommunfullmäktige
+
+    c) Överklagan av kommunfullmäktiges beslut 2023-09-28, § 94, om antagande av detaljplan för
+         Lomma 34:1 m.fl. i Lomma, Lomma kommun (gymnasieskola/kommunhus)
+
+    d) Beslut 2023-10-16 från Länsstyrelsen i Skåne om att länsstyrelsen inte överprövar
+         kommunfullmäktiges beslut 2023-09-28, § 94, om antagande av detaljplan för Lomma 34:1
+         m.fl. i Lomma, Lomma kommun (gymnasieskola/kommunhus)
+
+Beslut:
+    - Kommunfullmäktige har tagit del av informationen.
+
+_________________________________
+Beslutet expedieras till:
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 6 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+KF § 96                             KS KF/2023:245
+
+Fyllnadsval av uppdraget som god man med sakkunskap i tätortsfrågor för
+Liberalerna för tiden till och med 2026-12-31
+
+Ärendebeskrivning
+Kommunfullmäktige beslutade 2023-09-28, § 90, att godkänna avsägelse från Jonas Benke (L) och att
+ny god man med sakkunskap i tätortsfrågor för Liberalerna för tiden till och med 2026-12-31 skulle
+utses vid kommunfullmäktiges nästkommande sammanträde.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunfullmäktige 2023-09-28, § 90
+
+Beslut:
+    - Kommunfullmäktige beslutar att till god man med sakkunskap i tätortsfrågor för Liberalerna
+         för tiden till och med 2026-12-31, väljs Åsa Mikkelsen (L).
+
+_________________________________
+
+Beslutet expedieras till:
+Den valde
+Troman
+HR
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 7 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+KF § 97                             KS KF/2023:257
+
+Fyllnadsval av uppdraget som ledamot i kultur- och fritidsnämnden för Liberalerna
+för tiden till och med 2026-12-31
+
+Ärendebeskrivning
+Kommunfullmäktige beslutade 2023-09-28, § 93, att godkänna avsägelse från Åsa Mikkelsen (L) och
+att ny ledamot i kultur- och fritidsnämnden för Liberalerna för tiden till och med 2026-12-31 skulle
+utses vid kommunfullmäktiges nästkommande sammanträde.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunfullmäktige 2023-09-28, § 93
+
+Beslut:
+    - Kommunfullmäktige beslutar att till ledamot i kultur- och fritidsnämnden för Liberalerna för
+         tiden till och med 2026-12-31, väljs tidigare ersättaren Lily Burel Nilsson (L).
+
+    - Kommunfullmäktige beslutar att till ny ersättare i kultur- och fritidsnämnden för Liberalerna
+         för tiden till och med 2026-12-31, väljs Björn, Birch-Jensen (L).
+
+_________________________________
+
+Beslutet expedieras till:
+De valda
+Nämndsekreteraren
+Troman
+HR
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 8 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+KF § 98                             KS KF/2023:249
+
+Fyllnadsval av uppdraget som ersättare i barn-och utbildningsnämnden för
+Moderaterna för tiden till och med 2026-12-31
+
+Ärendebeskrivning
+Kommunfullmäktige beslutade 2023-09-28, § 92, att godkänna avsägelse från Anders Florén (M) och
+att ny ersättare i barn-och utbildningsnämnden för Moderaterna för tiden till och med 2026-12-31
+skulle utses vid kommunfullmäktiges nästkommande sammanträde.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunfullmäktige 2023-09-28, § 92
+
+Beslut:
+    - Kommunfullmäktige beslutar att 3:e ersättaren Janina Pettersson (M) och 4:e ersättaren Tina
+         Falk (M) flyttar upp ett steg.
+
+    - Kommunfullmäktige beslutar att till ny 4:e ersättare i barn-och utbildningsnämnden för
+         Moderaterna för tiden till och med 2026-12-31, väljs Andreas Björklund (M).
+
+_________________________________
+
+Beslutet expedieras till:
+De valda
+Nämndsekreteraren
+Troman
+HR
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 9 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+KF § 99                             KS KF/2023:251
+
+Fyllnadsval avseende uppdraget som ersättare i miljö- och byggnadsnämnden för
+Socialdemokraterna för tiden till och med 2026-12-31
+
+Ärendebeskrivning
+Kommunfullmäktige har att utse fyllnadsval av ersättare i miljö- och byggnadsnämnden för
+Socialdemokraterna för tiden till och med 2026-12-31.
+
+Beslut:
+    - Kommunfullmäktige beslutar att 2:e ersättaren Lena Hörgren (S) flyttar upp ett steg.
+
+    - Kommunfullmäktige beslutar att till nu 2:e ersättare i miljö- och byggnadsnämnden för
+         Socialdemokraterna för tiden till och med 2026-12-31, väljs Tomas Vinnersten (S).
+
+_________________________________
+
+Beslutet expedieras till:
+De valda
+Nämndsekreteraren
+Troman
+HR
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 10 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+KF § 100                            KS KF/2023:145
+
+Beslut om godkännande av delårsrapport januari-augusti 2023 för Lomma kommun
+
+Ärendebeskrivning
+Föreligger delårsrapport för Lomma kommun, 2023-01-01 – 2023-08-31.
+
+Ärendet har behandlats av kommunstyrelsen 2023-10-04, § 136.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunstyrelsen 2023-10-04 § 136
+    - Skrivelse 2023-09-22 från kommunledningsförvaltningen
+    - Delårsrapport för Lomma kommun, 2023-01-01 – 2023-08-31
+
+Kommunfullmäktiges handläggning
+Vid kommunfullmäktiges sammanträde lämnar kommunstyrelsens ordförande Robert Wenglén (M)
+en redogörelse.
+
+Överläggning
+Robert Wenglén (M), Per Bengtsson (S), Fredrik Sverkersten (FB) och Ingrid Ascard (MP) yrkar att
+kommunfullmäktige ska besluta i enlighet med kommunstyrelsens förslag i ärendet.
+
+Beslut:
+    - Kommunfullmäktige godkänner föreliggande delårsrapport för Lomma kommun, 2023-01-01
+         – 2023-08-31.
+
+_________________________________
+
+Beslutet expedieras till:
+Ekonomiavdelningen
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 11 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+KF § 101                            KS KF/2023:243
+
+Beslut om vision och övergripande mål för åren 2024-2027
+
+Ärendebeskrivning
+Vid en ny mandatperiod ska en översyn av vision och övergripande mål göras. På strategidagen den 1
+mars 2023 diskuterades nuvarande och framtida utmaningar. Utifrån dessa diskussioner har fokus
+riktats mot tre utmaningar:
+
+    - Kompetensförsörjning
+    - Demografiska förändringar
+    - Klimatförändringar
+
+Ärendet har behandlats av kommunstyrelsen 2023-10-04, § 137.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunstyrelsen 2023-10-04 § 137
+    - Tjänsteskrivelse 2023-09-11 från kommunledningsförvaltningen
+    - Sammanställning av inkomna synpunkter från partigrupperna
+
+Kommunfullmäktiges handläggning
+Vid kommunfullmäktiges sammanträde lämnar kommunstyrelsens ordförande Robert Wenglén (M)
+en redogörelse.
+
+Överläggning
+Robert Wenglén (M), Ingrid Ascard (MP) och Per Bengtsson (S) yrkar att kommunfullmäktige ska
+besluta i enlighet med kommunstyrelsens förslag i ärendet.
+
+Fredrik Sverkersten (FB) yrkar att kommunfullmäktige ska besluta i enlighet med kommunstyrelsens
+förslag i ärendet med förändringen att visionen ändras till ”Lomma kommun sätter medborgarna i
+fokus och erbjuder högsta kvalitet till alla som lever och verkar här” samt att ”Övergripande mål”
+ändras till ”Fokusområde”.
+
+Natalia Engstedt (SD) yrkar att kommunfullmäktige ska besluta i enlighet med kommunstyrelsens
+förslag i ärendet med förändring att det nuvarande 4:e målet ”Lomma kommun ska vara en öppen
+och kommunikativ organisation där invånarna känner ett högt förtroende för verksamheten” ska
+behållas.
+
+Propositionsordning
+Sedan överläggningen förklarats avslutad meddelar ordföranden att hon först avser att ställa
+proposition på frågan om bifall respektive avslag på Robert Wengléns, Ingrid Ascards och Per
+Bengtssons yrkande.
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 12 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+Ordföranden meddelar att hon därefter avser att ställa proposition på frågan om bifall respektive
+avslag på Fredrik Sverkerstens och Natalia Engstedts resta ändringsyrkanden.
+
+Denna propositionsordning godkänns.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Robert Wengléns, Ingrid
+Ascards och Per Bengtssons yrkande, varefter kommunfullmäktige bifaller detsamma.
+
+Ordförande ställer därefter proposition på frågan om bifall respektive avslag på Fredrik Sverkerstens
+yrkande, varefter kommunfullmäktige avslår detsamma.
+
+Ordförande ställer därefter proposition på frågan om bifall respektive avslag på Natalia Engstedts
+yrkande vartefter ordföranden finner att kommunfullmäktige avslår detsamma.
+
+Votering begärs och följande voteringsproposition godkänns:
+
+Den som önskar avslå Natali Engsteds yrkande röstar Ja, den som önskar bifalla det röstar Nej.
+
+Votering utfaller enligt följande, vilket närmare framgår av till protokollet bifogad voteringslista.
+
+Bilaga
+
+Ja 40, Nej 5.
+
+Ordföranden förklarar att kommunfullmäktige därmed har beslutat att avslå Natalia Engstedt
+yrkande
+
+Beslut:
+    - Kommunfullmäktige fastställer ny vision och övergripande mål för åren 2024-2027 i enlighet
+         med föreliggande förslag.
+
+_________________________________
+
+Beslutet expedieras till:
+Ekonomiavdelningen
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 13 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+KF § 102                            KS KF/2023:109
+
+Beslut om fastställande av budget för år 2024 samt plan för ekonomin åren 2025-
+2027, innefattande driftbudget, investeringsbudget, exploateringsbudget,
+finansiella mål enligt god ekonomisk hushållning för åren 2024 – 2027,
+verksamhetsmässiga mål enligt god ekonomisk hushållning för år 2024 samt
+nämndsmål, bemyndigande till kommunstyrelsen avseende upptagande av lån och
+omsättande av lån, ingående av borgen för Lomma Servicebostäder AB,
+upprätthållande av likvidmässigt låneutrymme avseende VA SYD samt fastställande
+av skattesats för år 2024
+
+Ärendebeskrivning
+Kommunfullmäktige fastställde 2022-11-10, § 90, budget för år 2023 samt plan för ekonomin för
+åren 2024 - 2026. Kommunstyrelsen fastställde 2023-03-29, § 54, budgetramar för åren 2024 - 2027
+och investeringsramar för åren 2024 - 2031. Kommunstyrelsen beslutade därefter, 2023-04-26 § 75,
+om justering av nämndernas budgetramar för 2024 – 2027 avseende Ofördelat sparbeting.
+
+Samtliga nämnder har upprättat förslag till budget för år 2024 och plan för ekonomin för åren 2025 -
+2027 i form av preliminär nämndsbudget, vad gäller driftbudget, investeringsbudget och
+exploateringsbudget. Inför budgetberedningen har framför allt poster under finansförvaltningen
+uppdaterats utifrån nya förutsättningar. Bland annat har hänsyn tagits till skatteprognos 2023-08-24
+från Sveriges kommuner och regioner (SKR).
+
+Kommunstyrelsens arbetsutskott har vid sammanträde 2023-08-16, § 157 - 159, 2023-08-23, § 167, §
+169, § 171, 2023-08-30 § 175 och 2023-09-05 – 2023-09-06, § 178, gjort en genomgång av
+budgetförutsättningarna och nämndernas budgetförslag för år 2024 samt plan för ekonomin för åren
+2025 – 2027.
+
+Ärendet har behandlats av kommunstyrelsen 2023-10-04, § 138.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunstyrelsen 2023-10-04 § 138
+    - Protokollsutdrag från kommunstyrelsen 2023-03-29 § 54, Beslut om budgetförutsättningar
+         och ramar 2024-2027 samt mål enligt god ekonomisk hushållning
+    - Protokollsutdrag från kommunstyrelsen 2023-04-26 § 75, Justering av nämndernas
+         budgetramar för 2024-2027 avseende ofördelat sparbeting
+    - Protokollsutdrag från kommunstyrelsen 2023-06-21 § 106, Beslut om preliminär
+         nämndsbudget för kommunstyrelsen 2024 samt plan för åren 2025-2027
+    - Protokollsutdrag från socialnämnden 2023-06-20 § 35, Beslut om preliminär nämndsbudget
+         2024 samt plan för 2025-2027
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 14 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+     - Protokollsutdrag från socialnämnden 2023-06-20 § 37, Beslut om socialnämndens bostads-
+         och lokalbehovsplan 2023-2032
+
+    - Protokollsutdrag från barn- och utbildningsnämnden 2023-06-19 § 43, Beslut om
+         godkännande av preliminär nämndsbudget för 2024 samt plan för åren 2025-2027
+
+    - Protokollsutdrag från barn- och utbildningsnämnden 2023-05-16 § 32, Fastställande av
+         Lokalbehovsplan för år 2023
+
+    - Protokollsutdrag från kultur- och fritidsnämnden 2023-06-12 § 49, Godkännande av
+         preliminär nämndsbudget för år 2024 samt plan för ekonomin för åren 2025-2027
+
+    - Protokollsutdrag från kultur- och fritidsnämnden 2023-05-15 § 37, Fastställande av
+         lokalbehovsplan för år 2023
+
+    - Protokollsutdrag från samhällsbyggnadsnämnden 2023-06-19 § 36, Godkännande av
+         preliminär nämndsbudget 2024 samt plan för 2025-2027
+
+    - Protokollsutdrag från miljö- och byggnadsnämnden 2023-06-13 § 68, Beslut om preliminär
+         nämndsbudget 2024 samt plan för 2025-2027
+
+    - Överförmyndaren, ordförandebeslut 2023-06-29, Förslag till preliminär budget för
+         överförmyndarens verksamhet år 2024 respektive plan för åren 2025-2027
+
+    - Valnämnd, ordförandebeslut 2023-09-25, Förslag till budget för valnämndens verksamhet år
+         2024 respektive plan för åren 2025-2027
+
+    - Protokollsutdrag från revisionen 2023-06-19 § 4, Förslag till budget för revisionens
+         verksamhet år 2024 samt plan för ekonomin åren 2025-2027
+
+    - Protokollsutdrag från kommunfullmäktige 2023-08-31 § 81, Beslut om utökad budget för IT-
+         investeringar 2023
+
+    - Yrkande på budgetförslag för 2024 från Sveriges Lärare, 2023-06-09 och 2023-10-03
+    - Yrkande på budgetförslag för 2024 från Sveriges skolledare, 2023-06-12 och 2023-10-03
+
+Kommunfullmäktiges handläggning
+Vid kommunfullmäktiges sammanträde lämnar kommunstyrelsens ordförande Robert Wenglén (M)
+en redogörelse avseende kommunstyrelsens förslag till budget för år 2024 och plan för ekonomin
+föråren 2025-2027.
+
+Överläggning
+Kommunstyrelsens ordförande Robert Wenglén (M) yrkar att kommunfullmäktige besluta fastställa
+budget, innefattande driftbudget, investeringsbudget, exploateringsbudget, finansiella mål enligt god
+ekonomisk hushållning för åren 2024 – 2027, verksamhetsmässiga mål enligt god ekonomisk
+hushållning för år 2024 samt nämndsmål, ingående av borgen för Lomma Servicebostäder AB,
+upprätthållande av likvidmässigt låneutrymme avseende VA SYD samt fastställande av skattesats för
+år 2024 i enlighet med kommunstyrelsens förslag i ärendet, med förändringen att
+kommunfullmäktige ska bemyndiga kommunstyrelsen att, vid behov för kommunens räkning,
+nyupplåna, det vill säga öka kommunens låneskuld under år 2024 till totalt 910 mnkr.
+Kommunstyrelsen har under 2024 rätt att omsätta lån, det vill säga låna upp motsvarande belopp på
+de lån som förfaller till betalning år 2024.
+
+Lars-Göran Svensson (C), Martin Uncyk (KD) och Sandra Pilemalm (L), Richard Jerneborg (M), Aron
+Regnéll (M), Susanne Borgelius (M), Fredrik Karström (M), Oscar Magnusson (M), Charlott Enocson
+(M), Jens Thystrup (M) yrkar bifall till Robert Wengléns yrkande.
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 15 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+Driftbudget
+Socialnämnden
+Per Bengtsson (S) yrkar socialnämndens budget ska utökas med 4 mnkr för att Lomma kommun ska
+bli en attraktiv arbetsgivare.
+
+Fredrik Sverkersten (FB) yrkar att socialnämndens budget ska utökas med 10 mnkr för att säkra ökad
+kvalitet.
+
+Fredrik Sverkersten (FB) yrkar att socialnämndens budget ska utökas med 500 tkr för
+luftkonditioneringar i gemensamma utrymmen i äldreboenden.
+
+Fredrik Sverkersten (FB) yrkar att socialnämndens budget ska utökas med 100 tkr för att rusta upp
+utemiljön på Jonasgården.
+
+Oscar Sedira (SD) yrkar att socialnämndens budget ska utökas med 4 mnkr till HVO:s budget för att
+höja kvalitén på äldrevården och på maten till de äldre.
+
+Oscar Sedira (SD) yrkar att socialnämndens budget ska minskas med 1 mnkr från budgeten för
+försörjningsstöd.
+
+Ingrid Ascard (MP) yrkar att socialnämndens budget ska utökas med 4,9 mnkr för att upphäva
+beslutet om besparingskrav.
+
+Socialnämndens ordförande Susanne Borgelius (M) yrkar att kommunfullmäktige ska besluta avslå
+Per Bengtssons, Fredrik Sverkerstens, Oscar Sediras och Ingrid Ascards yrkanden.
+
+Barn- och utbildningsnämnden
+Per Bengtsson (S), Thomas Eneström (S) och Ingrid Ascard (MP) yrkar att barn- och
+utbildningsnämndens budget ska utökas med 9,5 mnkr för att upphäva beslutat besparingskrav.
+
+Per Bengtsson (S) och Thomas Eneström (S) yrkar att barn- och utbildningsnämndens budget ska
+utökas med 1,8 mnkr för att ta bort avgift för skolmåltid för gymnasieelever.
+
+Per Bengtsson (S) och Thomas Eneström (S) yrkar att barn- och utbildningsnämndens budget ska
+utökas med 6 mnkr för satsning på de mest utsatta eleverna.
+
+Ulf Richeberg (FB) yrkar att barn- och utbildningsnämndens budget ska utökas med 9,5 mnkr för att
+minska barngrupper och öka vuxennärvaro.
+
+Natalia Engstedt (SD) yrkar att barn- och utbildningsnämndens budget ska utökas med 2 mnkr för att
+öka kvalitén på skolmaten i kommunens skolor.
+
+Natalia Engstedt (SD) yrkar att barn- och utbildningsnämndens budget ska utökas med 4 mnkr för att
+öka lärartätheten och minska barngrupperna.
+
+Ingrid Ascard (MP) yrkar att barn- och utbildningsnämndens budget ska utökas med 2,5 mnkr för
+satsning på de mest utsatta eleverna.
+
+Barn- och utbildningsnämndens ordförande Fredrik Karström (M) yrkar att kommunfullmäktige ska
+besluta avslå Per Bengtssons, Thomas Eneströms, Ulf Richebergs, Natalia Engstedts och Ingrid
+Ascards yrkanden.
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 16 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+Kultur- och fritidsnämnden
+Per Bengtsson (S) och Ingrid Ascard (MP) yrkar att kultur- och fritidsnämndens budget ska utökas
+med 300 tkr för att införa maxtaxa på 1300 kr/familj och termin för kulturskolan.
+
+Andreas Svensson (FB) yrkar att kultur- och fritidsnämndens budget ska utökas med 250 tkr till
+föreningsstöd.
+
+Kultur- och fritidsnämndens ordförande Oscar Magnusson (M) yrkar att kommunfullmäktige ska
+besluta avslå Per Bengtssons, Ingrid Ascards och Andreas Svenssons yrkanden.
+
+Samhällsbyggnadsnämnden
+Andreas Svensson (FB) yrkar att samhällsbyggnadsnämndens budget ska minskas med 250 tkr från
+sommargågatan.
+
+Samhällsbyggnadsnämndens ordförande Charlott Enocson (M) yrkar att kommunfullmäktige ska
+besluta avslå Andreas Svenssons yrkande.
+
+Mål
+Charlott Enocsson (M) yrkar att första meningen under beskrivningen av samhällsbyggnadsnämndens
+mål ”Samhällsbyggnadsnämnden ser till helheten genom hela samhällsbyggnadsprocessen”
+Ändras från:
+Nämnden fokuserar på hållbarhetsfrågor och god ekonomisk hushållning genom att arbeta
+strukturerat för att främja goda strategiska val.
+Till:
+Nämnden fokuserar på hållbarhetsfrågor och god ekonomisk hushållning genom ett strukturerat
+arbetssätt som främjar goda strategiska val, god planering och uppföljning av investeringar, underhåll
+och byggprojekt.
+
+Fredrik Sverkersten (FB) yrkar att kommunstyrelsens mål:
+    • Kommunstyrelsen leder kommunens övergripande utvecklingsarbete med fokus på kvalitet,
+         effektivitet och innovation.
+    • Kommunstyrelsen skapar effektiva, tydliga och kvalitetssäkra arbetsprocesser
+
+Ersätts med:
+    • Kommunstyrelsen ska leda och stärka kommunens utvecklingsarbete för att uppnå högre
+         kvalitet och ökad effektivitet
+    • Kommunstyrelsen säkrar en effektiv och ändamålsenlig organisation
+
+Fredrik Sverkersten (FB) och Ingrid Ascard (MP) yrkar att kommunstyrelsens mål:
+    • Kommunstyrelsen verkar för att stärka näringslivet.
+
+Ersätts med:
+    • Kommunstyrelsen säkrar förutsättningar för nyetablering av företag i kommunen samt en
+         tydlighet i mötet med näringslivet.
+
+Fredrik Sverkersten (FB), Per Bengtsson (S) och Ingrid Ascard (MP) yrkar att socialnämndens mål:
+    • Effektivitet, kontinuitet och kvalitet präglar socialnämndens verksamhet
+
+Ersätts med:
+    • Trygghet, kontinuitet och kvalitet präglar socialnämndens verksamhet
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 17 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+Fredrik Sverkersten (FB) yrkar att socialnämndens mål:
+    • Socialnämnden bygger förtroende genom en tydlig och proaktiv dialog.
+
+Ersätts med:
+    • Socialnämnden säkrar förtroende genom en tydlig och proaktiv dialog.
+
+Fredrik Sverkersten yrkar barn- och utbildningsnämndens mål:
+    • Alla barn och elever får en likvärdig utbildning av hög kvalitet som ger en god grund för
+         fortsatt utbildning.
+
+Ersätts med:
+    • Alla barn och elever får en likvärdig utbildning av hög kvalitet
+
+Fredrik Sverkersten (FB) yrkar att kommunfullmäktige ska besluta stryka kultur och fritidsnämndens
+mål:
+
+    • Kultur- och fritidsnämnden verkar för samhällets demokratiska utveckling.
+
+Fredrik Sverkersten (FB) och Ingrid Ascard (MP) yrkar att kultur och fritidsnämndens mål:
+    • I Lomma kommun erbjuds invånarna en meningsfull fritid och ett rikt kulturliv av hög kvalitet.
+
+Ersätts med:
+    • Invånarna i kommunen erbjuds ett rikt och varierat fritidsliv
+    • Invånarna i kommunen erbjuds ett rikt och varierat kulturliv
+
+Fredrik Sverkersten (FB) yrkar att samhällsbyggnadsnämndens mål:
+    • Samhällsbyggnadsnämnden ser till helheten genom hela samhällsbyggnadsprocessen.
+
+Ersätts med:
+    • Nämnden levererar god kvalitet, utveckling av kommunen och en ökad trivsel i tydlig
+         delaktighet med medborgarna
+
+Fredrik Sverkersten (FB) yrkar att samhällsbyggnadsnämndens mål:
+    • Samhällsbyggnadsnämnden arbetar med en öppen och tydlig dialog i syfte att utveckla
+         medborgarnas delaktighet.
+
+Ersätts med:
+    • Samhällsbyggnadsnämnden säkrar ett välplanerat och kostnadseffektivt fastighetsunderhåll,
+         vilket leder till lång teknisk livslängd samt energisnåla lokaler
+
+Robert Wenglén (M) yrkar att kommunfullmäktige ska besluta bifalla Charlott Enocsons yrkande och
+avslå Fredrik Sverkerstens, Ingrid Ascards och Per Bengtssons yrkanden.
+
+Investeringsbudget
+Per Bengtsson (S) yrkar att det angörs en permanent förskola i Alnarp.
+
+Per Bengtsson (S) och Ingrid Ascard (MP) yrkar att totalutgiften för projekt ”Båtklubb, Strandvägen
+Bjärred sänks till 5 mnkr.
+
+Per Bengtsson (S) yrkar totalavgiften för projektet ”Folkets Hus/Dansrotundan” höjs till 10 mnkr.
+
+Per Bengtsson (S) yrkar att projekt ”Övergång Löddeå” utgår.
+
+Per Bengtsson (S) yrkar att 20 mnkr avsätts för att ett nytt projekt ”Kommunstyrelsens oförutsedda
+investeringar för strategiska markförvärv”.
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 18 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+Jenny Morau (FB) yrkar att projekt Kommunhuset utgår.
+
+Jenny Morau (FB) yrkar att projekt Gymnasieskolan utgår.
+
+Jenny Morau (FB) yrkar att lägga till ersättningsförskola Äpplegården/Trollets, 5 mnkr 2024, totalt 60
+mnkr.
+
+Jenny Morau (FB) yrkar att lägga till Upprustning Borgeby IP, 10 mnkr 2024, totalt 20 mnkr.
+
+Jenny Morau (FB) yrkar att lägga till Renovering av kommunhuset, 25 mnkr 2025.
+
+Natalia Engstedt (SD) och Oscar Sedira (SD) yrkar att investeringarna för gymnasieskolan och
+kommunhuset ska frysas på obestämd tid.
+
+Oscar Sedira (SD) yrkar att 3 mnkr investeras i övervakningskameror.
+
+Ingrid Ascard (MP) yrkar att projekt ”Övergång Löddeå” senareläggs till efter 2027 och därmed inte
+ingår i aktuell period.
+
+Ingrid Ascard (MP) yrkar att medel avsätts till framtida kostnader för klimatanpassning av låglänta
+delar längs Höje Å, 10 mnkr årligen i tre år.
+
+Oscar Magnusson (M) och Charlott Enocson (M) yrkar avslag på Per Bengtssons, Ingrid Ascards, Jenny
+Morau, Natalia Engsteds och Oscar Sediras yrkanden.
+
+Uppdrag
+Jenny Morau (FB) yrkar att kommunfullmäktige ska besluta uppdra åt kommunstyrelsen att
+implementera ett kommunikationsverktyg för medborgardialog.
+
+Andreas Svensson (FB) yrkar att kommunfullmäktige ska besluta uppdra åt kultur- och
+fritidsnämnden att säkra förbättringar i Löddesnäsparken för att tillse säkerhet och tillgänglighet.
+
+Skattesatsen
+Per Bengtsson (S) yrkar att skattesatsen höjs med 0,25 procentenheter till 19,89 procent, under
+förutsättning att övriga socialdemokratiska yrkanden bifalles.
+
+Propositionsordning
+När överläggningen har förklarats avslutad meddelar ordförande Lena Wahlgren (M) att hon först
+avser att ställa proposition på frågan om bifall respektive avslag på Robert Wengléns (M) yrkande
+avseende att fastställa budget, innefattande driftbudget, investeringsbudget, exploateringsbudget,
+finansiella mål enligt god ekonomisk hushållning för åren 2024 – 2027, verksamhetsmässiga mål
+enligt god ekonomisk hushållning för år 2024 samt nämndsmål, ingående av borgen för Lomma
+Servicebostäder AB samt upprätthållande av likvidmässigt låneutrymme avseende VA SYD, i enlighet
+med kommunstyrelsens förslag i ärendet, med förändringen att kommunfullmäktige ska bemyndiga
+kommunstyrelsen att, vid behov för kommunens räkning, nyupplåna, det vill säga öka kommunens
+låneskuld under år 2024 till totalt 910 mnkr. Kommunstyrelsen har under 2024 rätt att omsätta lån,
+det vill säga låna upp motsvarande belopp på de lån som förfaller till betalning år 2024.
+
+Ordföranden meddelar att hon därefter avser att ställa proposition på frågan om bifall respektive
+avslag på Per Bengtssons, Fredrik Sverkerstens, Oscar Sediras, Ingrid Ascards, Thomas Eneströms, Ulf
+Richebergs, Natalia Engstedts, Andreas Svenssons, Jenny Moraus, och Charlott Enocsons yrkanden.
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 19 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+Denna propositionsordning godkänns.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Robert Wengléns yrkande
+om att besluta i enlighet med kommunstyrelsens förslag om att fastställa budget, innefattande
+driftbudget, investeringsbudget, exploateringsbudget, finansiella mål enligt god ekonomisk
+hushållning för åren 2024 – 2027, verksamhetsmässiga mål enligt god ekonomisk hushållning för år
+2024 samt nämndsmål, ingående av borgen för Lomma Servicebostäder AB samt upprätthållande av
+likvidmässigt låneutrymme avseende VA SYD, i enlighet med kommunstyrelsens förslag i ärendet,
+med förändringen att kommunfullmäktige ska bemyndiga kommunstyrelsen att, vid behov för
+kommunens räkning, nyupplåna, det vill säga öka kommunens låneskuld under år 2024 till totalt 910
+mnkr. Kommunstyrelsen har under 2024 rätt att omsätta lån, det vill säga låna upp motsvarande
+belopp på de lån som förfaller till betalning år 2024, vartefter kommunfullmäktige bifaller det
+samma.
+
+Driftbudget
+Socialnämnden
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Per Bengtssons yrkande om
+att socialnämndens budget ska utökas med 4 mnkr för att Lomma kommun ska bli en attraktiv
+arbetsgivare, vartefter ordföranden finner att kommunfullmäktige avslår detsamma.
+
+Votering begärs och följande voteringsproposition godkänns:
+
+Den som önska avslå Per Bengtssons yrkande röstar Ja, den som önskar bifalla det samma röstar Nej.
+
+Votering utfaller enligt följande, vilket närmare framgår av till protokollet bifogad voteringslista.
+
+Bilaga A
+
+Ja 35, Nej 10.
+
+Ordföranden förklarar att kommunfullmäktige därmed beslutat avslå Per Bengtssons yrkande.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Fredrik Sverkerstens yrkande
+om att socialnämndens budget ska utökas med 10 mnkr för att säkra ökad kvalitet, vartefter
+ordföranden finner att kommunfullmäktige avslår detsamma.
+
+Votering begärs och följande voteringsproposition godkänns:
+
+Den som önska avslå Fredrik Sverkerstens yrkande röstar Ja, den som önskar bifalla det samma röstar
+Nej.
+
+Votering utfaller enligt följande, vilket närmare framgår av till protokollet bifogad voteringslista.
+
+Bilaga B
+
+Ja 40, Nej 5.
+
+Ordföranden förklarar att kommunfullmäktige därmed beslutat avslå Fredrik Sverkerstens yrkande.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Fredrik Sverkerstens yrkande
+om att socialnämndens budget ska utökas med 500 tkr för luftkonditioneringar i gemensamma
+utrymmen i äldreboenden, vartefter kommunfullmäktige avslår detsamma.
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 20 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Fredrik Sverkerstens yrkande
+om att socialnämndens budget ska utökas med 100 tkr för att rusta upp utemiljön på Jonasgården,
+vartefter kommunfullmäktige avslår detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Oscar Sediras yrkande om
+att socialnämndens budget ska utökas med 4 mnkr till HVO:s budget för att höja kvalitén på
+äldrevården och på maten till de äldre, vartefter ordföranden finner att kommunfullmäktige avslår
+detsamma.
+
+Votering begärs och följande voteringsproposition godkänns:
+
+Den som önska avslå Oscar Sediras yrkande röstar Ja, den som önskar bifalla det samma röstar Nej.
+
+Votering utfaller enligt följande, vilket närmare framgår av till protokollet bifogad voteringslista.
+
+Bilaga C
+
+Ja 33, Nej 5, Avstår 7.
+
+Ordföranden förklarar att kommunfullmäktige därmed beslutat avslå Oscar Sediras yrkande.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Oscar Sediras yrkande om
+att socialnämndens budget ska minskas med 1 mnkr från budgeten för försörjningsstöd, vartefter
+kommunfullmäktige avslår detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Ingrid Ascards yrkande om
+att socialnämndens budget ska utökas med 4,9 mnkr för att upphäva beslutet om besparingskrav,
+vartefter kommunfullmäktige avslår detsamma.
+
+Barn- och utbildningsnämnden
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Per Bengstssons, Thomas
+Eneströms och Ingrid Ascards yrkande om att barn- och utbildningsnämndens budget ska utökas med
+9,5 mnkr för att upphäva beslutat besparingskrav, vartefter ordföranden finner att
+kommunfullmäktige avslår detsamma.
+
+Votering begärs och följande voteringsproposition godkänns:
+
+Den som önska avslå Per Bengstssons, Thomas Eneströms och Ingrid Ascards yrkande röstar Ja, den
+som önskar bifalla det samma röstar Nej.
+
+Votering utfaller enligt följande, vilket närmare framgår av till protokollet bifogad voteringslista.
+
+Bilaga D
+
+Ja 30, Nej 15.
+
+Ordföranden förklarar att kommunfullmäktige därmed beslutat avslå Per Bengstssons, Thomas
+Eneströms och Ingrid Ascards yrkande.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Per Bengstssons och Thomas
+Eneströms yrkande om att barn- och utbildningsnämndens budget ska utökas med 1,8 mnkr för att ta
+bort avgift för skolmåltid för gymnasieelever, vartefter kommunfullmäktige avslår detsamma.
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 21 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Per Bengstssons och Thomas
+Eneströms yrkande om att barn- och utbildningsnämndens budget ska utökas med 6 mnkr för
+satsning på de mest utsatta eleverna, vartefter ordföranden finner att kommunfullmäktige avslår
+detsamma.
+
+Votering begärs och följande voteringsproposition godkänns:
+
+Den som önska avslå Per Bengstssons och Thomas Eneströms yrkande röstar Ja, den som önskar
+bifalla det samma röstar Nej.
+
+Votering utfaller enligt följande, vilket närmare framgår av till protokollet bifogad voteringslista.
+
+Bilaga E
+
+Ja 34, Nej 8, Avstår 3.
+
+Ordföranden förklarar att kommunfullmäktige därmed beslutat avslå Per Bengstssons och Thomas
+Eneströms yrkande.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Ulf Richebergs yrkande om
+att barn- och utbildningsnämndens budget ska utökas med 9,5 mnkr för att minska barngrupper och
+öka vuxennärvaro, vartefter ordföranden finner att kommunfullmäktige avslår detsamma.
+
+Votering begärs och följande voteringsproposition godkänns:
+
+Den som önska avslå Ulf Richebergs yrkande röstar Ja, den som önskar bifalla det samma röstar Nej.
+
+Votering utfaller enligt följande, vilket närmare framgår av till protokollet bifogad voteringslista.
+
+Bilaga F
+
+Ja 30, Nej 15.
+
+Ordföranden förklarar att kommunfullmäktige därmed beslutat avslå Ulf Richebergs yrkande.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Natalia Engstedt yrkande om
+att barn- och utbildningsnämndens budget ska utökas med 2 mnkr för att öka kvalitén på skolmaten i
+kommunens skolor, vartefter ordföranden finner att kommunfullmäktige avslår detsamma.
+
+Votering begärs och följande voteringsproposition godkänns:
+
+Den som önska avslå Natalia Engstedt yrkande röstar Ja, den som önskar bifalla det samma röstar
+Nej.
+
+Votering utfaller enligt följande, vilket närmare framgår av till protokollet bifogad voteringslista.
+
+Bilaga G
+
+Ja 40, Nej 5.
+
+Ordföranden förklarar att kommunfullmäktige därmed beslutat avslå Natalia Engstedt yrkande.
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 22 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Natalia Engstedt yrkande om
+att barn- och utbildningsnämndens budget ska utökas med 4 mnkr för att öka lärartätheten och
+minska barngrupperna, vartefter ordföranden finner att kommunfullmäktige avslår detsamma.
+
+Votering begärs och följande voteringsproposition godkänns:
+
+Den som önska avslå Natalia Engstedt yrkande röstar Ja, den som önskar bifalla det samma röstar
+Nej.
+
+Votering utfaller enligt följande, vilket närmare framgår av till protokollet bifogad voteringslista.
+
+Bilaga H
+
+Ja 32, Nej 7, Avstår 6.
+
+Ordföranden förklarar att kommunfullmäktige därmed beslutat avslå Natalia Engstedt yrkande.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Ingrid Ascards yrkande om
+att barn- och utbildningsnämndens budget ska utökas med 2,5 mnkr för satsning på de mest utsatta
+eleverna, vartefter kommunfullmäktige avslår detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Per Bengtssons och Ingrid
+Ascards yrkande om att kultur- och fritidsnämndens budget ska utökas med 300 tkr för att införa
+maxtaxa på 1300 kr/familj och termin för kulturskolan, vartefter kommunfullmäktige avslår
+detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Andreas Svenssons yrkande
+om att kultur- och fritidsnämndens budget ska utökas med 250 tkr till föreningsstöd, vartefter
+kommunfullmäktige avslår detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Andreas Svenssons yrkande
+om att samhällsbyggnadsnämndens budget ska minskas med 250 tkr från sommargågatan, vartefter
+kommunfullmäktige avslår detsamma.
+
+Mål
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Charlott Enocsons yrkande
+om att första meningen under beskrivningen av samhällsbyggnadsnämndens mål
+”Samhällsbyggnadsnämnden ser till helheten genom hela samhällsbyggnadsprocessen” ändras från
+”Nämnden fokuserar på hållbarhetsfrågor och god ekonomisk hushållning genom att arbeta
+strukturerat för att främja goda strategiska val” till ”Nämnden fokuserar på hållbarhetsfrågor och god
+ekonomisk hushållning genom ett strukturerat arbetssätt som främjar goda strategiska val, god
+planering och uppföljning av investeringar, underhåll och byggprojekt”, vartefter kommunfullmäktige
+bifaller detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Fredrik Sverkerstens yrkande
+om att kommunstyrelsens mål ”Kommunstyrelsen leder kommunens övergripande utvecklingsarbete
+med fokus på kvalitet, effektivitet och innovation” och ”Kommunstyrelsen skapar effektiva, tydliga
+och kvalitetssäkra arbetsprocesser” ersätts med ”Kommunstyrelsen ska leda och stärka kommunens
+utvecklingsarbete för att uppnå högre kvalitet och ökad effektivitet” och ”Kommunstyrelsen säkrar
+en effektiv och ändamålsenlig organisation”, vartefter kommunfullmäktige avslår detsamma.
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 23 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Fredrik Sverkerstens och
+Ingrid Ascards yrkande om att kommunstyrelsens mål ”Kommunstyrelsen verkar för att stärka
+näringslivet” ersätts med ”Kommunstyrelsen säkrar förutsättningar för nyetablering av företag i
+kommunen samt en tydlighet i mötet med näringslivet”, vartefter kommunfullmäktige avslår
+detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Fredrik Sverkerstens, Per
+Bengtssons och Ingrid Ascards yrkande om att socialnämndens mål ”Effektivitet, kontinuitet och
+kvalitet präglar socialnämndens verksamhet” ersätts med ”Trygghet, kontinuitet och kvalitet präglar
+socialnämndens verksamhet”, vartefter kommunfullmäktige avslår detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Fredrik Sverkerstens yrkande
+om att socialnämndens mål ”Socialnämnden bygger förtroende genom en tydlig och proaktiv dialog”
+ersätts med ”Socialnämnden säkrar förtroende genom en tydlig och proaktiv dialog”, vartefter
+kommunfullmäktige avslår detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Fredrik Sverkerstens yrkande
+om att barn- och utbildningsnämndens mål ”Alla barn och elever får en likvärdig utbildning av hög
+kvalitet som ger en god grund för fortsatt utbildning” ersätts med ”Alla barn och elever får en
+likvärdig utbildning av hög kvalitet”, vartefter kommunfullmäktige avslår detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Fredrik Sverkerstens yrkande
+om att stryka kultur och fritidsnämndens mål ”Kultur- och fritidsnämnden verkar för samhällets
+demokratiska utveckling”, vartefter kommunfullmäktige avslår detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Fredrik Sverkerstens och
+Ingrid Ascards yrkande om att kultur och fritidsnämndens mål ”I Lomma kommun erbjuds invånarna
+en meningsfull fritid och ett rikt kulturliv av hög kvalitet” ersätts med ”Invånarna i kommunen
+erbjuds ett rikt och varierat fritidsliv” och ”Invånarna i kommunen erbjuds ett rikt och varierat
+kulturliv”, vartefter kommunfullmäktige avslår detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Fredrik Sverkerstens yrkande
+om att samhällsbyggnadsnämndens mål ”Samhällsbyggnadsnämnden ser till helheten genom hela
+samhällsbyggnadsprocessen” ersätts med ”Nämnden levererar god kvalitet, utveckling av kommunen
+och en ökad trivsel i tydlig delaktighet med medborgarna”, vartefter kommunfullmäktige avslår
+detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Fredrik Sverkerstens yrkande
+om att samhällsbyggnadsnämndens mål ”Samhällsbyggnadsnämnden arbetar med en öppen och
+tydlig dialog i syfte att utveckla medborgarnas delaktighet” ersätts med ”Samhällsbyggnadsnämnden
+säkrar ett välplanerat och kostnadseffektivt fastighetsunderhåll, vilket leder till lång teknisk livslängd
+samt energisnåla lokaler”, vartefter kommunfullmäktige avslår detsamma.
+
+Investeringsbudget
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Per Bengtssons yrkande om
+att det angörs en permanent förskola i Alnarp, vartefter kommunfullmäktige avslår detsamma.
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 24 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Per Bengtssons och Ingrid
+Ascards yrkande om att totalutgiften för projekt ”Båtklubb, Strandvägen Bjärred sänks till 5 mnkr,
+vartefter kommunfullmäktige avslår detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Per Bengtssons yrkande om
+att totalavgiften för projektet ”Folkets Hus/Dansrotundan” höjs till 10 mnkr, vartefter
+kommunfullmäktige avslår detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Per Bengtssons yrkande om
+att projekt ”Övergång Löddeå” utgår, vartefter kommunfullmäktige avslår detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Per Bengtssons yrkande om
+att 20 mnkr avsätts för att ett nytt projekt ”Kommunstyrelsens oförutsedda investeringar för
+strategiska markförvärv”, vartefter kommunfullmäktige avslår detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Jenny Moraus yrkande om
+att projekt Kommunhuset utgår, vartefter ordföranden finner att kommunfullmäktige avslår
+detsamma.
+
+Votering begärs och följande voteringsproposition godkänns:
+
+Den som önska avslå Jenny Moraus yrkande röstar Ja, den som önskar bifalla det samma röstar Nej.
+
+Votering utfaller enligt följande, vilket närmare framgår av till protokollet bifogad voteringslista.
+
+Bilaga I
+
+Ja 40, Nej 5.
+
+Ordföranden förklarar att kommunfullmäktige därmed beslutat avslå Jenny Moraus yrkande.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Jenny Moraus yrkande om
+att projekt Gymnasieskolan utgår, vartefter ordföranden finner att kommunfullmäktige avslår
+detsamma.
+
+Votering begärs och följande voteringsproposition godkänns:
+
+Den som önska avslå Jenny Moraus yrkande röstar Ja, den som önskar bifalla det samma röstar Nej.
+
+Votering utfaller enligt följande, vilket närmare framgår av till protokollet bifogad voteringslista.
+
+Bilaga J
+
+Ja 40, Nej 5.
+
+Ordföranden förklarar att kommunfullmäktige därmed beslutat avslå Jenny Moraus yrkande.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Jenny Moraus yrkande om
+att lägga till ersättningsförskola Äpplegården/Trollets, 5 mnkr 2024, totalt 60 mnkr, vartefter
+kommunfullmäktige avslår detsamma.
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 25 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Jenny Moraus yrkande om
+att lägga till Upprustning Borgeby IP, 10 mnkr 2024, totalt 20 mnkr, vartefter kommunfullmäktige
+avslår detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Jenny Moraus yrkande om
+att lägga till renovering av kommunhuset, 25 mnkr 2025, vartefter kommunfullmäktige avslår
+detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Natalia Engstedts och Oscar
+Sediras yrkande om att frysa investeringarna för gymnasieskolan och kommunhuset på obestämd tid,
+vartefter ordföranden finner att kommunfullmäktige avslår detsamma.
+
+Votering begärs och följande voteringsproposition godkänns:
+
+Den som önska avslå Natalia Engstedts och Oscar Sediras yrkande röstar Ja, den som önskar bifalla
+det samma röstar Nej.
+
+Votering utfaller enligt följande, vilket närmare framgår av till protokollet bifogad voteringslista.
+
+Bilaga K
+
+Ja 35, Nej 5, Avstår 5.
+
+Ordföranden förklarar att kommunfullmäktige därmed beslutat avslå Natalia Engstedts och Oscar
+Sediras yrkande.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Oscar Sediras yrkande om
+att 3 mnkr investeras i övervakningskameror, vartefter ordföranden finner att kommunfullmäktige
+avslår detsamma.
+
+Votering begärs och följande voteringsproposition godkänns:
+
+Den som önska avslå Oscar Sediras yrkande röstar Ja, den som önskar bifalla det samma röstar Nej.
+
+Votering utfaller enligt följande, vilket närmare framgår av till protokollet bifogad voteringslista.
+
+Bilaga L
+
+Ja 38, Nej 5, Avstår 2.
+
+Ordföranden förklarar att kommunfullmäktige därmed beslutat avslå Oscar Sediras yrkande.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Ingrid Ascards yrkande om
+att projekt ”Övergång Löddeå” senareläggs till efter 2027 och därmed inte ingår i aktuell period,
+vartefter kommunfullmäktige avslår detsamma.
+
+Ordföranden ställer proposition på frågan om bifall respektive avslag på Ingrid Ascards yrkande om
+att medel avsätts till framtida kostnader för klimatanpassning av låglänta delar längs Höje Å, 10 mnkr
+årligen i tre år, vartefter kommunfullmäktige avslår detsamma.
+
+Ordföranden ställer slutligen proposition på frågan om bifall respektive avslag på Robert Wengléns
+yrkande om att kommunfullmäktige ska beslut fastställa skattesatsen för år 2024 till 19,64 procent,
+vartefter kommunfullmäktige bifaller detsamma.
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 26 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+Beslut:
+    - Kommunfullmäktige fastställer budget för år 2024 och plan för ekonomin för åren 2025 -
+         2027 i enlighet med bilaga.
+
+Bilaga M
+
+- Kommunfullmäktige beslutar att avsteg från finansiellt mål görs för budgetår 2024 då
+    budgeterat resultat inte uppgår till minst 2 % av skatteintäkter, generella statsbidrag och
+    utjämning.
+
+- Kommunfullmäktige beslutar att avsteg görs från finansiellt mål för budgetåren 2024, 2025
+    och 2026 då budgeterade investeringar finansieras till en lägre nivå än målet på minst 60 %
+    med egna medel.
+
+- Kommunfullmäktige bemyndigar kommunstyrelsen att, vid behov för kommunens räkning,
+    nyupplåna, det vill säga öka kommunens låneskuld under år 2024 till totalt 910 mnkr.
+    Kommunstyrelsen har under 2024 rätt att omsätta lån, det vill säga låna upp motsvarande
+    belopp på de lån som förfaller till betalning år 2024.
+
+- Kommunfullmäktige beslutar, att såsom för egen skuld ingå borgen för Lomma
+    Servicebostäder AB:s låneförpliktelser upp till ett totalt högsta lånebelopp om 99 mnkr,
+    jämte därpå löpande ränta och kostnader.
+
+- Kommunfullmäktige beslutar att Lomma kommun likvidmässigt ska upprätthålla ett
+    låneutrymme om 40 mnkr årligen, åren 2024 - 2027, för VA-SYD:s räkning, enligt
+    bestämmelser i förbundsordningen om delägarkommunernas finansfunktioner för
+    finansiering av verksamheten.
+
+- Kommunfullmäktige fastställer finansiella mål enligt god ekonomisk hushållning för åren
+    2024 - 2027 och verksamhetsmässiga mål enligt god ekonomisk hushållning för år 2024, i
+    enlighet med bilaga.
+
+- Kommunfullmäktige beslutar att nämndsmålen fastställs i enlighet med bilaga.
+
+    - Kommunfullmäktige beslutar att skattesatsen för år 2024 fastställs till 19,64 procent.
+
+Reservation
+Per Bengtsson (S), Pia Johnson (S), Rune Netterlid (S), Kar-Gustav Nilsson (S), Thomas Eneström (S),
+Nina Jägroth (S), Lennart Nilsson (S) och Paul Andersson (S) reserverar sig muntligt till förmån för
+Socialdemokraternas yrkanden.
+
+Jenny Morau (FB), Fredrik Sverkersten (FB), Delphine Raimbault (FB), Ulf Richeberg (FB) och Andreas
+Svenson (FB) reserverar sig skriftligt mot beslutet.
+
+Bilaga N
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 27 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+Oscar Sedira (SD), Natalia Engstedt (SD), Jeanette Larson (SD), Jonas Olsson (SD) och Tony Ljungström
+(SD) reserverar sig skriftligt mot beslutet.
+
+Bilaga O
+
+Ingrid Ascard (MP) och Viveka Berger Pålsson (MP) reserverar sig skriftligt mot beslutet.
+
+Bilaga P
+
+_________________________________
+
+Beslutet expedieras till:
+Samtliga nämnder
+Revisionen
+Överförmyndaren
+Ekonomiavdelningen
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 28 av 28
+
+                                    Sammanträdesdatum
+                                    2023-10-26
+
+KF § 103                            KS KF/2023:275
+
+Besvarande av fråga från Oscar Sedira (SD) till kultur- och fritidsnämndens
+ordförande Oscar Magnusson (M) om Drag Story Hour
+
+Ärendebeskrivning
+Oscar Sedira har 2023-10-23 inkommit med en fråga till kultur- och fritidsnämndens ordförande
+Oscar Magnusson (M) om Drag Story Hour.
+
+Beslutsunderlag
+    - Fråga från Oscar Sedira (SD) till kultur- och fritidsnämndens ordförande Oscar Magnusson
+         (M) om Drag Story Hour
+
+Beslut:
+    - Kommunfullmäktige beslutar enhälligt att ärendet får behandlas vid dagens sammanträde
+         trots att det inte har kungjorts.
+
+    - Kommunfullmäktige beslutar att frågan ska besvaras på kommunfullmäktiges nästkommande
+         sammanträde.
+
+_________________________________
+
+Beslutet expedieras till:
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+

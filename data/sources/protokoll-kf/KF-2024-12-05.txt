@@ -1,0 +1,1568 @@
+KOMMUNFULLMÄKTIGE                                                                SAMMANTRÄDESPROTOKOLL
+Plats:                                                                           Sida 1 av 38
+Tid:
+                                                                                 Sammanträdesdatum
+                                                                                         2024-12-05
+
+                                    Lomma kommun, Sessionssalen Kärnan
+
+                                    2024-12-05, klockan 18:00-20:00
+
+Beslutande ledamöter:               Se nästa sida
+Tjänstgörande ersättare:            Se nästa sida
+Övriga deltagare:                   Se nästa sida
+
+Utses att justera:                  Pia Johnson och Jeanette Larson
+                                    Ersättare: Per Bengtsson
+Justering:
+Paragraf:                           Digital justering, 2024-12-09
+
+                                    §122-§147
+
+Protokollet har justerats digitalt av:
+
+Sekreterare:                        Maria Zingmark
+
+Ordförande:                         Marie Nilsson
+
+Justerande:                         Pia Johnson och Jeanette Larson
+
+ANSLAG/BEVIS
+
+Protokollet är justerat. Justeringen har tillkännagivits genom anslag på kommunens digitala
+anslagstavla på kommunens webbplats www.lomma.se.
+
+Beslutande organ:                   Kommunfullmäktige
+
+Sammanträdesdatum:                  2024-12-05
+
+Paragrafer:                         §122-§147
+
+Anslaget sätts upp:                 2024-12-10
+
+Anslaget tas ned:                   2024-12-31
+
+Protokollets förvaringsplats: Lomma kommun
+
+Underskrift:                        Maria Zingmark
+
+Anslaget har signerats digitalt
+
+Justerande                                             Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                                     SAMMANTRÄDESPROTOKOLL
+                                                      Sida 2 av 38
+
+                                                      Sammanträdesdatum
+                                                             2024-12-05
+
+Beslutande ledamöter:
+Marie Nilsson (M) ordförande
+Bert Larsson (M) 1:e vice ordförande
+Rune Netterlid (S) 2:e vice ordförande
+Susanne Borgelius (M)
+Fredrik Karström (M) §§ 122-125, 127-147
+Emma Köster (M)
+Oscar Magnusson (M) §§ 122-125, 127-147
+Eva Banheden Lindblad (M)
+Aron Regnéll (M)
+Charlott Enocson (M) §§ 122-125, 127-147
+Jerry Ahlström (M)
+Jens Thystrup (M) §§ 122, 124-125, 127-147
+Carl Hammarström (M)
+Martin Holtz (M)
+Ann Haluzova (M)
+Stefan Wojnicki Högberg (M)
+Richard Jerneborg (M) §§ 122-131, 133-147
+Anna Ericson (M)
+Per Bengtsson (S)
+Pia Johnson (S)
+Thomas Eneström (S)
+Nina Jägroth (S)
+Lennart Nilsson (S)
+Eva Netterlid (S)
+Sandra Pilemalm (L)
+Ida Alm (L)
+Gun Larsson (-)
+Lars-Göran Svensson (C) §§ 122-127, 129-130, 132-147
+Martin Uncyk (KD) §§ 122-127, 129-147
+Ingrid Ascard (MP)
+Viveka Berger Pålsson (MP)
+Jeanette Larson (SD)
+Natalia Engstedt (SD)
+Jonas Olsson (SD)
+Tony Ljungström (SD)
+Jenny Morau (F)
+Fredrik Sverkersten (F)
+Delphine Raimbault (F)
+
+Tjänstgörande ersättare:
+Jeanette Schönknecht (M) ersätter Robert Wenglén (M)
+Ingrid Strömgren (M) ersätter Jonna Tingberg (M)
+Karl-Gustav Nilsson (S) ersätter Marie Sand (S)
+Lena Svensson (C) ersätter Martha Henriksson Witt (C) §§ 122-127, 129-130, 132-147
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                         SAMMANTRÄDESPROTOKOLL
+                                          Sida 3 av 38
+
+                                          Sammanträdesdatum
+                                                 2024-12-05
+
+Patrik Hult (SD) ersätter Oscar Sedira (SD)
+Andreas Svensson (F) ersätter Kristina Thored (F)
+Bo Nors (F) ersätter Ulf Richeberg (F)
+Marcus Magnusson Bergfors (M) Jens Thystrup (M) § 123
+Nicklas Säfström (M) ersätter Fredrik Karström (M) § 126
+Camilla Cronsjö (M) ersätter Jens Thystrup (M) § 126
+Bengt Göransson (M) ersätter Charlott Enocson § 126
+Christer Philipsson (KD) ersätter Martin Uncyk (KD) § 128
+Marcus Magnusson Bergfors (M) ersätter Richard Jerneborg (M) § 132
+
+Ej tjänstgörande ersättare:
+Marcus Magnusson Bergfors (M) §§ 122, 124-125, 127-131, 133-147
+Nicklas Säfström (M) §§ 122-125, 127-147
+Camilla Cronsjö (M) §§ 122-125, 127-147
+Bengt Göransson (M) §§ 122-125, 127-147
+Paul Andersson (S)
+Henri Gossé (S)
+Lena Hörgren (S)
+Bo Polsten (L)
+Christer Philipsson (KD) §§ 122-127, 129-147
+Michelle Vithal Bergström (KD)
+
+Övriga deltagare:
+Maria Zingmark, kommunsekreterare
+Christian Almström, informationstekniker
+Ola Halleus, IKT-pedagog
+
+Justerande                                Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 4 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+Ärendelista
+
+§ 122        KS KF/2024:8
+§ 123        Meddelanden
+
+§ 124        KS KF/2024:340
+             Avsägelse från Susanne Borgelius (M) avseende uppdraget som ordförande och
+§ 125        ledamot i socialnämnden, från och med 2025-01-01, samt fyllnadsval med anledning
+             härav
+§ 126
+§ 127        KS KF/2024:357
+§ 128        Avsägelse från Jens Thystrup (M) av uppdraget som ordförande och ledamot i miljö-
+§ 129        och byggnadsnämnden, från och med 2025-01-01, samt fyllnadsval med anledning
+§ 130        härav
+§ 131
+             KS KF/2024:358
+             Avsägelse från Tina Falk (M) av uppdraget som 1:e vice ordförande och ledamot i barn-
+             och utbildningsnämnden, från och med 2025-01-01, samt fyllnadsval med anledning
+             härav
+
+             KS KF/2024:341
+             Avsägelse från Susanne Borgelius (M) avseende uppdraget som ersättare i
+             kommunstyrelsen, från och med 2025-01-01, samt fyllnadsval med anledning härav
+
+             KS KF/2024:355
+             Avsägelse från Lars-Göran Svensson (C) avseende uppdraget som ledamot i
+             kommunstyrelsen, från och med 2025-01-01, samt fyllnadsval med anledning härav
+
+             KS KF/2024:354
+             Avsägelse från Mikael Pankko (M) avseende uppdraget som ersättare i
+             kommunstyrelsen, från och med 2025-01-01, samt fyllnadsval med anledning härav
+
+             KS KF/2024:329
+             Avsägelse från Jacob Hobér (C) av uppdraget som ersättare i kommunfullmäktige
+
+             KS KF/2024:330
+             Avsägelse från Jacob Hobér (C) av uppdraget som ledamot i kultur- och fritidsnämnden
+             samt fyllnadsval med anledning härav
+
+             KS KF/2024:353
+             Avsägelse från Martha Henriksson Witt (C) av uppdraget som ersättare i kultur- och
+             fritidsnämnden, från och med 2025-01-01, samt fyllnadsval med anledning härav
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 5 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+§ 132  KS KF/2024:326
+§ 133  Avsägelse från Denise Rydblom (C) av uppdraget som ledamot i barn- och
+§ 134  utbildningsnämnden samt fyllnadsval med anledning härav
+§ 135
+§ 136  KS KF/2024:75
+§ 137  Beslut om förvärv respektive försäljning av mark samt optionsavtal inom Bjärreds
+§ 138  vångar
+§ 139
+§ 140  KS KF/2024:333
+§ 141  Beslut om att inte genomföra investeringsprojekt Båtklubb, Strandvägen i Bjärred - KF-
+§ 142  projekt 2209 utgår
+
+§ 143  KS KF/2024:118
+§ 144  Beslut om slutredovisning nr 3 av investeringsprojekt inom samhällsbyggnadsnämnden
+§ 145  2024
+
+       KS KF/2024:312
+       Beslut om ställningstagande till Kraftringen avseende breddat ägande i Modity Energy
+       Trading AB
+
+       KS KF/2024:140
+       Inriktningsbeslut om SYSAVs koldioxidsinfångningsanläggning
+
+       KS KF/2024:286
+       Revidering av avfallstaxa för Lomma kommun
+
+       KS KF/2024:285
+       Revidering av slamtaxa för Lomma kommun
+
+       KS KF/2024:303
+       Beslut om revidering av avgifter vid familjerådgivningsverksamhet
+
+       KS KF/2024:138
+       Beslut om kommunalt partistöd 2025 samt reviderade bidragsregler
+
+       KS KF/2024:343
+       Delredovisning av uppdrag till barn- och utbildningsnämnden om att genomföra en
+       utvärdering av nämndens beslut om att pausa intaget till f-klass på två av kommunens
+       skolenheter
+
+       KS KF/2024:344
+       Delredovisning av uppdrag till barn- och utbildningsnämnden om att genomföra en
+       utredning av grundskoleorganisationen
+
+       KS KF/2023:325
+       Beslut om att revidera tidigare givna utredningsuppdrag till barn- och
+       utbildningsnämnden
+
+       KS KF/2024:215
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 6 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+§ 146  Besvarande av motion från Jenny Morau m.fl. (F) om att öka elevintaget Löddesnäs och
+§ 147  Pilängskolan
+
+       KS KF/2024:68
+       Redovisning av ej slutbehandlade motioner hösten 2024
+
+       KS KF/2024:287
+       Beslut om gallring av inaktuella styrdokument
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 7 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 122                            KS KF/2024:8
+
+Meddelanden
+
+Ärendebeskrivning
+Föreligger förteckning över meddelanden
+
+    a) Protokollsutdrag från socialnämnden 2024-10-01, § 45, Redovisning av rapporterade ej
+         verkställda beslut kvartal 2 år 2024, KS KF/2024:234
+
+    b) Motion från Oscar Sedira (SD) och Jeanette Larson (SD) om att införa valfrihet i hemtjänsten,
+         KS KF/2024:361
+
+    c) Motion från Oscar Sedira (SD) och Tony Ljungström (SD) om att upplösa kommunens
+         arbetsutskott, KS KF/2024:362
+
+Beslut:
+    - Kommunfullmäktige har tagit del av informationen.
+
+_________________________________
+Beslutet expedieras till:
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 8 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 123                            KS KF/2024:340
+
+Avsägelse från Susanne Borgelius (M) avseende uppdraget som ordförande och
+ledamot i socialnämnden, från och med 2025-01-01, samt fyllnadsval med
+anledning härav
+
+Ärendebeskrivning
+Susanne Borgelius (M) har inkommit till kommunfullmäktige med en anhållan om avsägelse av
+uppdraget som ordförande och ledamot i socialnämnden från och med 2025-01-01.
+
+Beslutsunderlag
+    - Avsägelse från Susanne Borgelius (M)
+
+Beslut:
+    - Kommunfullmäktige beslutar att avsägelsen godkänns.
+
+    - Kommunfullmäktige beslutar att till ny ordförande och ledamot i socialnämnden för tiden
+         från och med 2025-01-01 till och med 2026-12-31 väljs Jens Thystrup (M).
+
+Jäv
+Med anledning av jäv har Jens Thystrup (M) inte deltagit i ärendets handläggning.
+
+_________________________________
+
+Beslutet expedieras till:
+Den valde
+Nämndsekreteraren
+Troman
+HR
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 9 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 124                            KS KF/2024:357
+
+Avsägelse från Jens Thystrup (M) av uppdraget som ordförande och ledamot i miljö-
+och byggnadsnämnden, från och med 2025-01-01, samt fyllnadsval med anledning
+härav
+
+Ärendebeskrivning
+Jens Thystrup (M) har inkommit till kommunfullmäktige med en anhållan om avsägelse av uppdraget
+som ordförande och ledamot i miljö- och byggnadsnämnden från och med 2025-01-01.
+
+Beslutsunderlag
+    - Avsägelse från Jens Thystrup (M)
+
+Beslut:
+    - Kommunfullmäktige beslutar enhälligt att ärendet får behandlas vid dagens sammanträde
+         trots att det inte har kungjorts.
+
+    - Kommunfullmäktige beslutar att avsägelsen godkänns.
+
+    - Kommunfullmäktige beslutar att till ny ordförande och ledamot i miljö- och
+         byggnadsnämnden för tiden från och med 2025-01-01 till och med 2026-12-31 väljs Tina Falk
+         (M).
+
+_________________________________
+
+Beslutet expedieras till:
+Den valde
+Nämndsekreteraren
+Troman
+HR
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 10 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 125                            KS KF/2024:358
+
+Avsägelse från Tina Falk (M) av uppdraget som 1:e vice ordförande och ledamot i
+barn- och utbildningsnämnden, från och med 2025-01-01, samt fyllnadsval med
+anledning härav
+
+Ärendebeskrivning
+Tina Falk (M) har inkommit till kommunfullmäktige med en anhållan om avsägelse av uppdraget som
+1:e vice ordförande och ledamot i barn- och utbildningsnämnden från och med 2025-01-01.
+
+Beslutsunderlag
+    - Avsägelse från Tina Falk (M)
+
+Beslut:
+    - Kommunfullmäktige beslutar enhälligt att ärendet får behandlas vid dagens sammanträde
+         trots att det inte har kungjorts.
+
+    - Kommunfullmäktige beslutar att avsägelsen godkänns.
+
+    - Kommunfullmäktige beslutar att till ny 1:e vice ordförande i barn- och utbildningsnämnden
+         för tiden från och med 2025-01-01 till och med 2026-12-31 väljs ledamoten Leslie Qvandrup
+         (M).
+
+    - Kommunfullmäktige beslutar att fyllnadsval av ledamot i barn- och utbildningsnämnden för
+         Moderaterna för tiden till och med 2026-12-31 väljs vid kommunfullmäktiges nästkommande
+         sammanträde.
+
+_________________________________
+
+Beslutet expedieras till:
+Den valde
+Nämndsekreteraren
+Troman
+HR
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 11 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 126                            KS KF/2024:341
+
+Avsägelse från Susanne Borgelius (M) avseende uppdraget som ersättare i
+kommunstyrelsen, från och med 2025-01-01, samt fyllnadsval med anledning härav
+
+Ärendebeskrivning
+Susanne Borgelius (M) har inkommit till kommunfullmäktige med en anhållan om avsägelse av
+uppdraget som ersättare i kommunstyrelsen från och med 2025-01-01.
+
+Beslutsunderlag
+    - Avsägelse från Susanne Borgelius (M)
+
+Beslut:
+    - Kommunfullmäktige beslutar att avsägelsen godkänns.
+
+    - Kommunfullmäktige beslutar att till ny ersättare i kommunstyrelsen för tiden från och med
+         2025-01-01 till och med 2026-12-31 väljs Tina Falk (M).
+
+    - Kommunfullmäktige beslutar att ordningen för ersättarna för Moderaterna för tiden från och
+         med 2025-01-01 till och med 2026-12-31 ändras till:
+         Fredrik Karström (M)
+         Jens Thystrup (M)
+         Charlott Enocson (M)
+         Oscar Magnusson (M)
+         Tina Falk (M)
+         Mikael Pankko (M)
+
+Jäv
+Med anledning av jäv har Fredrik Karström (M), Jens Thystrup (M), Charlott Enocson (M) och Oscar
+Magnusson (M) inte deltagit i ärendets handläggning.
+
+_________________________________
+
+Beslutet expedieras till:
+De valda
+Kommunsekreteraren
+Troman
+HR
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 12 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 127                            KS KF/2024:355
+
+Avsägelse från Lars-Göran Svensson (C) avseende uppdraget som ledamot i
+kommunstyrelsen, från och med 2025-01-01, samt fyllnadsval med anledning härav
+
+Ärendebeskrivning
+Lars-Göran Svensson (C) har inkommit till kommunfullmäktige med en anhållan om avsägelse av
+uppdraget som ledamot i kommunstyrelsen från och med 2025-01-01.
+
+Beslutsunderlag
+    - Avsägelse från Lars-Göran Svensson (C)
+
+Beslut:
+    - Kommunfullmäktige beslutar enhälligt att ärendet får behandlas vid dagens sammanträde
+         trots att det inte har kungjorts.
+
+    - Kommunfullmäktige beslutar att avsägelsen godkänns.
+
+    - Kommunfullmäktige beslutar att till ny ledamot i kommunstyrelsen för tiden från och med
+         2025-01-01 till och med 2026-12-31 väljs Martha Henriksson Witt (C).
+
+_________________________________
+
+Beslutet expedieras till:
+Den valde
+Nämndsekreteraren
+Troman
+HR
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 13 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 128                            KS KF/2024:354
+
+Avsägelse från Mikael Pankko (M) avseende uppdraget som ersättare i
+kommunstyrelsen, från och med 2025-01-01, samt fyllnadsval med anledning härav
+
+Ärendebeskrivning
+Mikael Pankko (M) har inkommit till kommunfullmäktige med en anhållan om avsägelse av
+uppdraget som ersättare i kommunstyrelsen från och med 2025-01-01.
+
+Beslutsunderlag
+    - Avsägelse från Mikael Pankko (M)
+
+Beslut:
+    - Kommunfullmäktige beslutar att avsägelsen godkänns.
+
+    - Kommunfullmäktige beslutar att ersättaren Martin Uncyk (KD) utses på Mikael Pankkos plats
+         samt att till ny ersättare i kommunstyrelsen för tiden från och med 2025-01-01 till och med
+         2026-12-31 väljs Lars-Göran Svensson (C).
+
+Jäv
+Med anledning av jäv har Martin Uncyk (KD), Lars-Göran Svensson (C) och Lena Svensson (C) inte
+deltagit i ärendets handläggning.
+
+_________________________________
+
+Beslutet expedieras till:
+De valda
+Kommunsekreteraren
+Troman
+HR
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 14 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 129                            KS KF/2024:329
+
+Avsägelse från Jakob Hobér (C) av uppdraget som ersättare i kommunfullmäktige
+
+Ärendebeskrivning
+Jakob Hobér (C) har inkommit till kommunfullmäktige med en anhållan om avsägelse av uppdraget
+som ersättare i kommunfullmäktige.
+
+Beslutsunderlag
+    - Avsägelse från Jakob Hobér (C)
+
+Beslut:
+    - Kommunfullmäktige beslutar enhälligt att ärendet får behandlas vid dagens sammanträde
+         trots att det inte har kungjorts.
+
+    - Kommunfullmäktige beslutar att avsägelsen godkänns.
+
+    - Kommunfullmäktige hemställer hos länsstyrelsen om ny röstsammanräkning för uppdraget
+         som ersättare i kommunfullmäktige efter Jakob Hobér (C).
+
+_________________________________
+
+Beslutet expedieras till:
+Länsstyrelsen
+Kommunsekreteraren
+Troman
+HR
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 15 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 130                            KS KF/2024:330
+
+Avsägelse från Jakob Hobér (C) av uppdraget som ledamot i kultur- och
+fritidsnämnden samt fyllnadsval med anledning härav
+
+Ärendebeskrivning
+Jakob Hobér (C) har inkommit till kommunfullmäktige med en anhållan om avsägelse av uppdraget
+som ledamot i kultur- och fritidsnämnden.
+
+Beslutsunderlag
+    - Avsägelse från Jakob Hobér (C)
+
+Beslut:
+    - Kommunfullmäktige beslutar enhälligt att ärendet får behandlas vid dagens sammanträde
+         trots att det inte har kungjorts.
+
+    - Kommunfullmäktige beslutar att avsägelsen godkänns.
+
+    - Kommunfullmäktige beslutar att till ny ledamot i kultur- och fritidsnämnden för tiden till och
+         med 2026-12-31 väljs Denise Rydblom (C).
+
+_________________________________
+
+Beslutet expedieras till:
+Den valde
+Nämndsekreteraren
+Troman
+HR
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 16 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 131                            KS KF/2024:353
+
+Avsägelse från Martha Henriksson Witt (C) av uppdraget som ersättare i kultur- och
+fritidsnämnden, från och med 2025-01-01, samt fyllnadsval med anledning härav
+
+Ärendebeskrivning
+Martha Henriksson Witt (C) har inkommit till kommunfullmäktige med en anhållan om avsägelse av
+uppdraget som ersättare i kultur- och fritidsnämnden från och med 2025-01-01.
+
+Beslutsunderlag
+    - Avsägelse från Martha Henriksson Witt (C)
+
+Beslut:
+    - Kommunfullmäktige beslutar enhälligt att ärendet får behandlas vid dagens sammanträde
+         trots att det inte har kungjorts.
+
+    - Kommunfullmäktige beslutar att avsägelsen godkänns.
+
+    - Kommunfullmäktige beslutar att till ny ersättare i kultur- och fritidsnämnden för tiden från
+         och med 2025-01-01 till och med 2026-12-31 väljs Lena Svensson (C).
+
+Jäv
+Med anledning av jäv har Lena Svensson (C) och Lars-Göran Svensson (C) inte deltagit i ärendets
+handläggning.
+
+_________________________________
+
+Beslutet expedieras till:
+Den valde
+Nämndsekreteraren
+Troman
+HR
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 17 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 132                            KS KF/2024:326
+
+Avsägelse från Denise Rydblom (C) av uppdraget som ledamot i barn- och
+utbildningsnämnden samt fyllnadsval med anledning härav
+
+Ärendebeskrivning
+Denise Rydblom (C) har inkommit till kommunfullmäktige med en anhållan om avsägelse av
+uppdraget som ledamot i barn- och utbildningsnämnden.
+
+Beslutsunderlag
+    - Avsägelse från Denise Rydblom (C)
+
+Beslut:
+    - Kommunfullmäktige beslutar enhälligt att ärendet får behandlas vid dagens sammanträde
+         trots att det inte har kungjorts.
+
+    - Kommunfullmäktige beslutar att avsägelsen godkänns.
+
+    - Kommunfullmäktige beslutar att till ny ledamot i barn- och utbildningsnämnden för tiden till
+         och med 2026-12-31 väljs ersättaren Amy Bergstrand (C).
+
+    - Kommunfullmäktige beslutar att till ny ersättare i barn- och utbildningsnämnden för tiden till
+         och med 2026-12-31 väljs Jakob Hobér (C).
+
+Jäv
+Med anledning av jäv har Richard Jerneborg (M) inte deltagit i ärendets handläggning.
+
+_________________________________
+
+Beslutet expedieras till:
+Den valde
+Nämndsekreteraren
+Troman
+HR
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 18 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 133                            KS KF/2024:75
+
+Beslut om förvärv respektive försäljning av mark samt optionsavtal inom Bjärreds
+vångar
+
+Ärendebeskrivning
+Kommunen planerar att bygga ett kulturhus i Bjärreds vångar. Kulturhuset föreslås lokaliseras till den
+mark i etapp 2 som ägs av Wihlborgs Borgeby AB. För att möjliggöra för kommunen att själv bygga
+och äga kulturhuset på utsedd plats föreslås att kommunen förvärvar berörd mark, del av fastigheten
+Bjärred 9:1.
+
+I gengäld önskar säljaren erhålla annan byggbar mark inom Bjärreds vångar. Därför föreslås
+kommunen överlåta ett markområde (del av Bjärred 17:23) i etapp 1 som planeras för radhus.
+
+Ärendet har behandlats av kommunstyrelsen 2024-11-20, § 150.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunstyrelsen 2024-11-20 § 150
+    - Tjänsteskrivelse 2024-10-30 från planeringsavdelningen
+    - Förslag till köpeavtal mellan Lomma kommun och Wihlborgs Borgeby AB avseende del av
+         fastigheten Bjärred 9:1
+    - Förslag till köpeavtal mellan Wihlborgs Borgeby AB och Lomma kommun och avseende del av
+         fastigheten Borgeby 17:23
+    - Förslag till optionsavtal mellan Lomma kommun och Wihlborgs Borgeby AB avseende del av
+         Bjärreds vångar
+    - Värdeutlåtande avseende fastigheterna Borgeby 17:23 & 17:38, del av, Bjärred 9:1, del av,
+         Bjärreds vångar etapp 1 & 2, Lomma kommun”, Forum Fastighetsekonomi (2024-06-24) på
+         uppdrag av Lomma kommun
+
+Kommunfullmäktiges handläggning
+Vid kommunfullmäktiges sammanträde lämnar kommunstyrelsens 1:e vice ordförande Aron Regnéll
+(M) en redogörelse.
+
+Överläggning
+Aron Regnéll (M), Per Bengtsson (S) och Sandra Pilemalm (L) yrkar att kommunfullmäktige ska
+besluta i enlighet med kommunstyrelsens förslag i ärendet.
+
+Fredrik Sverkersten (F) yrkar att kommunfullmäktige ska besluta avslå ärendet.
+
+I ärendet yttrar sig även Richard Jerneborg (M).
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 19 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+Propositionsordning
+Sedan överläggningen har förklarats avslutad ställer ordförande Marie Nilsson (M) yrkandena mot
+varandra, vartefter kommunfullmäktige beslutar i enlighet med Aron Regnélls m.fl. yrkande.
+
+Beslut:
+    - Kommunfullmäktige beslutar att förvärva mark inom Bjärreds vångar etapp 2 genom att
+         godkänna föreliggande förslag till köpeavtal mellan Wihlborgs Borgeby AB (säljare) och
+         Lomma kommun (köpare) avseende del av fastigheten Bjärred 9:1 för en köpeskilling om 13
+         470 tkr.
+
+    - Kommunfullmäktige beslutar att sälja mark inom Bjärreds vångar etapp 1 genom att
+         godkänna föreliggande förslag till köpeavtal mellan Lomma kommun (säljare) och Wihlborgs
+         Borgeby AB (köpare) avseende del av fastigheten Borgeby 17:23 för en köpeskilling om
+         37 500 tkr.
+
+    - Kommunfullmäktige beslutar att godkänna föreliggande förslag till optionsavtal mellan
+         Wihlborgs Borgeby AB (köpare) och Lomma kommun (säljare) avseende möjlighet till förvärv
+         av mark inom Bjärreds vångar för det fall att ovan angiven överlåtelse avseende del av
+         Borgeby 17:23 inte genomförs.
+
+    - Inom samhällsbyggnadsnämndens verksamhet Markförvaltning avsätts en totalutgift på 13
+         550 tkr, köpeskilling plus fastighetsbildning, i ett nytt investeringsprojekt ”Strategiskt
+         markförvärv del av Bjärred 9:1, Bjärreds Vångar”.
+
+    - Investeringsprojektet finansieras genom utökad upplåning.
+
+    - Budgeten för samhällsbyggnadsnämndens verksamhet Markförvaltning utökas avseende
+         faktisk internränta (kostnad helår 365 tkr) och finansförvaltningens budget justeras med
+         motsvarande internränteintäkt.
+
+_________________________________
+
+Beslutet expedieras till:
+Mark- och exploateringsenheten
+Ekonomiavdelningen
+Wihlborgs Borgeby AB
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 20 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 134                            KS KF/2024:333
+
+Beslut om att inte genomföra investeringsprojekt Båtklubb, Strandvägen i Bjärred -
+KF-projekt 2209 utgår
+
+Ärendebeskrivning
+Kultur- och fritidsnämnden återkallar 2024-09-30, § 43, beställning gällande projekt vid Strandvägen
+(BOJK). Efter beställningen gjorts har, enligt kultur- och fritidsnämnden, Lomma kommun och
+föreningen fört samtal om hur projektet ska genomföras och hur finansiering ska ske. Vid en
+avslutande överläggning mellan parterna görs en överenskommelse om att inte genomföra projektet.
+
+Ärendet har behandlats av kommunstyrelsen 2024-11-20, § 151.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunstyrelsen 2024-11-20 § 151
+    - Tjänsteskrivelse 2024-11-06
+    - Protokollsutdrag från kultur- och fritidsnämnden, 2024-09-30 § 43
+    - Förstudieoffert från 2021-04-20, Föreningsbyggnader för BOJK
+
+Kommunfullmäktiges handläggning
+Vid kommunfullmäktiges sammanträde lämnar kultur- och fritidsnämndens ordförande Oscar
+Magnusson (M) en redogörelse.
+
+Överläggning
+Oscar Magnusson (M) yrkar att kommunfullmäktige ska besluta i enlighet med kommunstyrelsens
+förslag i ärendet.
+
+Beslut:
+    - Kommunfullmäktige beslutar att inte genomföra investeringsprojekt Båtklubb, Strandvägen i
+         Bjärred vilket innebär att KF-projekt 2209 utgår.
+
+_________________________________
+
+Beslutet expedieras till:
+Kultur- och fritidsnämnden
+Samhällsbyggnadsnämnden
+Ekonomiavdelningen
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                                                SAMMANTRÄDESPROTOKOLL
+                                                                 Sida 21 av 38
+
+                                                                 Sammanträdesdatum
+                                                                        2024-12-05
+
+KF § 135                                                         KS KF/2024:118
+
+Beslut om slutredovisning nr 3 av investeringsprojekt inom
+samhällsbyggnadsnämnden 2024
+
+Ärendebeskrivning
+Slutredovisningen fyller en viktig funktion för att kunna dra lärdom från genomförda projekt och
+därigenom förbättra förutsättningarna inför beslut om kommande investeringar. Genom att beskriva
+beslutsgången, för de projekt där totalutgiften blivit ändrad över tid, samt beskriva orsaken till
+reviderad totalutgift tydliggörs även projektets historik. Detta utgör ytterligare utgångspunkt för att
+kunna dra lärdom av projektets planerings- och genomförandeprocess.
+
+Samhällsbyggnadsnämnden beslutade 2024-09-30, § 51 att godkänna slutredovisningen för
+nedanstående projekt.
+
+Kfproj    KF-projekt                                             Ack. utfall Totalutgift  B-avv.
+1518      Åtgärder i trafiksäkerhetsplan och cykelplan, etapp 1                               -725
+1913      Bjärehovskolan, nybyggnation ersättningsbyggnad         15 725 15 000
+2012      Ombyggnad av stationen Lomma                                                      17 161
+2208      Basketplan, Bjärred 3x3                                 98 839 116 000              -707
+                                                                                                -45
+          Summa (tkr)                                             11 707 11 000
+                                                                                            15 684
+                                                                  1 245          1 200
+
+                                                                  127 516 143 200
+
+          Negativa avvikelser godkänns:                                                   -1 477
+          Positiva avvikelser återlämnas:                                                 17 161
+          D.v.s nämndens budget minskar med:                                              15 684
+
+Ärendet har behandlats av kommunstyrelsen 2024-11-20, § 152.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunstyrelsen 2024-11-20 § 152
+    - Tjänsteskrivelse 2024-10-28 från kommunledningsförvaltningen
+    - Protokollsutdrag från samhällsbyggnadsnämnden 2024-09-30 § 51
+    - Tjänsteskrivelse 2024-08-26 från samhällsbyggnadsnämnden
+    - Slutredovisning av KF-projekt inom samhällsbyggnadsnämnden, september 2024
+
+Kommunfullmäktiges handläggning
+Vid kommunfullmäktiges sammanträde lämnar samhällsbyggnadsnämndens ordförande Charlott
+Enocson (M) en redogörelse.
+
+Överläggning
+Charlott Enocson (M) och Per Bengtsson (S) yrkar att kommunfullmäktige ska besluta i enlighet med
+kommunstyrelsens förslag i ärendet.
+
+Justerande                                    Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 22 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+Beslut:
+    - Kommunfullmäktige godkänner föreliggande slutredovisning, vilket innebär att negativa
+         avvikelser på 1.477 tkr godkänns och att positiva avvikelser på 17.161 tkr återlämnas.
+         Investeringsbudgeten minskar därmed med totalt 15.684 tkr.
+
+_________________________________
+
+Beslutet expedieras till:
+Samhällsbyggnadsnämnden
+Ekonomiavdelningen
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 23 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 136                            KS KF/2024:312
+
+Beslut om ställningstagande till Kraftringen avseende breddat ägande i Modity
+Energy Trading AB
+
+Ärendebeskrivning
+Styrelsen i Kraftringen Energi AB beslutade den 24 september 2024 att uppdra åt bolagets VD samt
+styrelsens arbetsutskott att inhämta ägarnas ställningstagande till ett breddat ägande i
+energihandelsbolaget Modity Energy Trading AB samt till förslag till reviderad bolagsordning för
+Modity Energy Trading AB.
+
+Ärendet har behandlats av kommunstyrelsen 2024-11-20, § 153.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunstyrelsen 2024-11-20 § 153
+    - Tjänsteskrivelse 2024-10-24 från kommunledningsförvaltningen
+    - fd Styrelsen i Kraftringen AB:s begäran om särskilt ställningstagande 2024-10-17
+    - Ny bolagsordning för Modity Energy Trading AB
+    - Nu gällande bolagsordning för Modity Energy Trading AB
+    - Protokollsutdrag styrelsen i Kraftringen Energi AB 2024-09-24
+
+Kommunfullmäktiges handläggning
+Vid kommunfullmäktiges sammanträde lämnar Martin Holtz (M) en redogörelse.
+
+Överläggning
+Martin Holtz (M) yrkar att kommunfullmäktige ska besluta i enlighet med kommunstyrelsens förslag i
+ärendet.
+
+Beslut:
+Kommunfullmäktige beslutar följande:
+
+    - att ge Kraftringen AB i uppdrag att verka för ett breddat ägande i Modity Energy Trading AB,
+         samt
+
+    - att godkänna upprättat förslag till reviderad bolagsordning för Modity Energy Trading AB.
+
+_________________________________
+
+Beslutet expedieras till:
+Kraftringen Energi AB
+Eslövs kommun
+Lunds kommun
+Hörby kommun
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 24 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 137                            KS KF/2024:140
+
+Inriktningsbeslut om SYSAVs koldioxidsinfångningsanläggning
+
+Ärendebeskrivning
+Sydskånes Avfallsaktiebolag, SYSAV (”Sysav”) har den 20 juni 2024 tillskrivit ägarkommunerna med
+en hemställan om aktieägarnas ställningstagande om att uppföra en koldioxidinfångningsanläggning
+med en fungerande värdekedja (Carbon Capture, Utilization and Storage, ”CCUS”). Efter utskicket har
+ett kompletterande underlag skickats till ägarkommunerna den 2024-10-03.
+
+Ärendet har behandlats av kommunstyrelsen 2024-11-20, § 154.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunstyrelsen 2024-11-20 § 154
+    - Tjänsteskrivelse 2024-10-24 från planeringsavdelningen
+    - Komplettering daterad 2024-10-03
+    - Sysav SkyZero – Ägarnas ställningstagande till Sysavs inriktning att uppföra en
+         koldioxidinfångningsanläggning
+
+Kommunfullmäktiges handläggning
+Vid kommunfullmäktiges sammanträde lämnar Martin Holtz (M) en redogörelse.
+
+Överläggning
+Martin Holtz (M) yrkar att kommunfullmäktige ska besluta i enlighet med kommunstyrelsens förslag i
+ärendet.
+
+Tony Ljungström (SD) yrkar att kommunfullmäktige ska besluta i enlighet med kommunstyrelsens
+förslag i ärendet med tillägget att när ärendet kommer tillbaka för beslut, om det ska utredas vidare,
+ska en fullständig ekonomisk kalkyl medföras ärendet, inklusive eventuella kostnader för
+medlemskommunerna.
+
+Propositionsordning
+Sedan överläggningen har förklarats avslutad ställer ordförande Marie Nilsson (M) yrkandena mot
+varandra, vartefter kommunfullmäktige beslutar i enlighet med Martin Holtzs yrkande.
+
+Beslut:
+    - Kommunfullmäktige besluta att som sitt ställningstagande tillstyrka att Sysav ska arbeta för
+         att uppföra en koldioxidinfångningsanläggning med den inriktning som har redovisats i
+         ärendet, med tillägget att även om kommunen genom sitt ställningstagande tillstyrker
+         inriktning utifrån miljömässiga bedömningar, kan Lomma kommun i dagsläget inte lämna
+         några garantier för att köp av negativa utsläppscertifikat kommer att ske.
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 25 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+Reservation
+Jeanette Larson (SD), Natalia Engstedt (SD), Jonas Olsson (SD), Tony Ljungström (SD) och Patrik Hult
+(SD) reserverar sig till förmån för Tony Ljungströms yrkande.
+
+_________________________________
+
+Beslutet expedieras till:
+Sysav
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                           SAMMANTRÄDESPROTOKOLL
+                                            Sida 26 av 38
+
+                                            Sammanträdesdatum
+                                                   2024-12-05
+
+KF § 138                                    KS KF/2024:286
+
+Revidering av avfallstaxa för Lomma kommun
+
+Ärendebeskrivning
+Genom tjänstekoncessionsavtal bedriver SYSAV sedan 1 januari 2017 avfallsverksamheten i Lomma
+kommun samt administrerar avfallskollektivet med dess intäkter och kostnader. I och med ny
+lagstiftning har SYSAV föreslagit ändringar av avfallstaxan i Lomma kommun.
+Samhällsbyggnadsnämnden beslutade den 2024-09-30, § 46, att föreslå kommunfullmäktige att anta
+förslag till reviderad taxa. Reviderad avfallstaxa träder i kraft den 1 januari 2025.
+
+Ärendet har behandlats av kommunstyrelsen 2024-11-20, § 155.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunstyrelsen 2024-11-20 § 155
+    - Tjänsteskrivelse 2024-10-23 från kommunledningsförvaltningen
+    - Protokollsutdrag från samhällsbyggnadsnämnden 2024-09-30 § 46
+    - Förslag till Avfallstaxa för Lomma kommun 1 januari 2025
+
+Kommunfullmäktiges handläggning
+Vid kommunfullmäktiges sammanträde lämnar samhällsbyggnadsnämndens ordförande Charlott
+Enocson (M) en redogörelse.
+
+Överläggning
+Charlott Enocson (M) yrkar att kommunfullmäktige ska besluta i enlighet med kommunstyrelsens
+förslag i ärendet.
+
+Beslut:
+    - Kommunfullmäktige antar föreslagen avfallstaxa för Lomma kommun.
+
+_________________________________
+
+Beslutet expedieras till:
+SYSAV
+Samhällsbyggnadsnämnden
+Författningssamlingen
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                        SAMMANTRÄDESPROTOKOLL
+                                         Sida 27 av 38
+
+                                         Sammanträdesdatum
+                                                2024-12-05
+
+KF § 139                                 KS KF/2024:285
+
+Revidering av slamtaxa för Lomma kommun
+
+Ärendebeskrivning
+Genom tjänstekoncessionsavtal bedriver Sysav sedan 1 januari 2017 avfallsverksamheten i Lomma
+kommun, samt administrerar avfallskollektivet med dess intäkter och kostnader. Ny upphandling för
+tömning av slam- och fettavskiljare är gjord tillsammans med Kävlinge kommun. I samband med det,
+samt revidering av avfallstaxan, har SYSAV föreslagit revideringar av slamtaxan för Lomma kommun.
+Samhällsbyggnadsnämnden beslutade den 2024-09-30, § 47, att föreslå kommunfullmäktige att anta
+föreslagen slamtaxa.
+
+Ärendet har behandlats av kommunstyrelsen 2024-11-20, § 156.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunstyrelsen 2024-11-20 § 156
+    - Tjänsteskrivelse 2024-10-23 från kommunledningsförvaltningen
+    - Prokollsutdrag från samhällsbyggnadsnämnden 2024-09-30 § 47
+    - Förslag till Slamtaxa för Lomma kommun 1 januari 2025
+
+Överläggning
+Samhällsbyggnadsnämndens ordförande Charlott Enocson (M) yrkar att kommunfullmäktige ska
+besluta i enlighet med kommunstyrelsens förslag i ärendet.
+
+Beslut:
+    - Kommunfullmäktige antar föreslagen slamtaxa för Lomma kommun.
+
+_________________________________
+
+Beslutet expedieras till:
+SYSAV
+Samhällsbyggnadsnämnden
+Författningssamlingen
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 28 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 140                            KS KF/2024:303
+
+Beslut om revidering av avgifter vid familjerådgivningsverksamhet
+
+Ärendebeskrivning
+Familjerådgivning är en lagstadgad verksamhet och Lomma kommun bedriver detta genom
+Familjerådgivningen i Lund. Verksamheten bedrivs i samverkan med fem andra kommuner i
+mellersta Skåne. Upptagningsområdet är kommunerna Burlöv, Lomma, Staffanstorp, Kävlinge, Höör
+och Lund. Med anledning av bland annat förändrade arbetssätt föreslås att nu gällande
+taxedokument kompletteras med en avgift för familjerådgivning i kursform och avgiftsbefrielse i vissa
+fall. Avgifterna föreslås gälla från och med den 1 januari 2025.
+
+Ärendet har behandlats av kommunstyrelsen 2024-11-20, § 157.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunstyrelsen 2024-11-20 § 157
+    - Tjänsteskrivelse 2024-10-23 från kommunledningsförvaltningen
+    - Protokollsutdrag från socialnämnden 2024-10-01 § 42
+    - Förslag till avgift vid familjerådgivningsverksamhet
+
+Överläggning
+Socialnämndens ordförande Susanne Borgelius (M) yrkar att kommunfullmäktige ska besluta i
+enlighet med kommunstyrelsens förslag i ärendet.
+
+Beslut:
+    - Kommunfullmäktige fastställer föreslagna avgifter för familjerådgivning i kursform och
+         avgiftsbefrielse i vissa fall. Avgifterna gäller från den 1 januari 2025.
+
+_________________________________
+
+Beslutet expedieras till:
+Socialnämnden
+Författningssamlingen
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 29 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 141                            KS KF/2024:138
+
+Beslut om kommunalt partistöd 2025 samt reviderade bidragsregler
+
+Ärendebeskrivning
+I enlighet med vad som föreskrivs i kommunallagen och bidragsreglerna för kommunalt partistöd i
+Lomma kommun utgår varje år partistöd till de partier som finns representerade i
+kommunfullmäktige och som har lämnat in en skriftlig redovisning som visar hur det tidigare
+partistödet har använts för att stärka partiets ställning i den lokala demokratin. För kommande år
+föreslås en ändring i bidragsreglerna avseende formerna för återrapportering.
+
+Ärendet har behandlats av kommunstyrelsen 2024-11-20, § 158.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunstyrelsen 2024-11-20 § 158
+    - Tjänsteskrivelse 2024-10-24 från kommunledningsförvaltningen
+    - Partiernas redovisningar, inklusive granskningsrapporter
+    - Förslag till reviderade bidragsregler för kommunalt partistöd i Lomma kommun
+    - ”Partistöd – redovisnings- och granskrapportsmall” – utkast
+
+Kommunfullmäktiges handläggning
+Vid kommunfullmäktiges sammanträde lämnar kommunstyrelsens 1:e vice ordförande Aron Regnéll
+(M) en redogörelse.
+
+Överläggning
+Aron Regnéll (M) yrkar att kommunfullmäktige ska besluta i enlighet med kommunstyrelsens förslag i
+ärendet.
+
+Beslut:
+    - Kommunfullmäktige beslutar att kommunalt partistöd betalas ut år 2025 enligt följande:
+         Moderata samlingspartiet 187 572 kr,
+         Arbetarpartiet Socialdemokraterna 84 084 kr,
+         Fokus 55 860 kr,
+         Sverigedemokraterna 55 860 kr,
+         Liberalerna 37 044 kr,
+         Centerpartiet 27 636 kr,
+         Miljöpartiet de gröna 27 636kr,
+         Kristdemokraterna 18 228 kr.
+
+    - Kommunfullmäktige antar reviderade bidragsregler med tillägget under rubriken
+         ”Redovisning och granskning”:
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 30 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+         ”Redovisningen och granskarens rapport ska utgå från av Lomma kommun framtagna
+         mallar.”
+
+_________________________________
+
+Beslutet expedieras till:
+Ekonomiavdelningen
+Författningssamlingen
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 31 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 142                            KS KF/2024:343
+
+Delredovisning av uppdrag till barn- och utbildningsnämnden om att genomföra en
+utvärdering av nämndens beslut om att pausa intaget till f-klass på två av
+kommunens skolenheter
+
+Ärendebeskrivning
+Kommunfullmäktige beslutade den 29 augusti 2024 att uppdra åt barn- och utbildningsnämnden att
+genomföra en utvärdering av nämndens beslut om att pausa intaget till f-klass på två av kommunens
+skolenheter. Utvärderingen ska slutredovisas för kommunfullmäktige senast vid junisammanträdet
+2025. En delredovisning ska redovisas för kommunfullmäktige senast vid sista sammanträdet 2024, i
+syfte att utgöra underlag för beslut om möjliga skolval inför hösten 2025. Barn- och
+utbildningsnämnden behandlade delredovisningen av ärendet den 1 oktober 2024.
+
+Ärendet har behandlats av kommunstyrelsen 2024-11-20, § 159.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunstyrelsen 2024-11-20 § 159
+    - Tjänsteskrivelse 2024-11-14 från kommunledningsförvaltningen
+    - Protokollsutdrag barn- och utbildningsnämnden, § 46, 2024-10-01
+    - Powerpointpresentation med redogörelsen
+
+Kommunfullmäktiges handläggning
+Vid kommunfullmäktiges sammanträde lämnar barn- och utbildningsnämndens ordförande Fredrik
+Karström (M) en redogörelse.
+
+Överläggning
+Fredrik Karström (M) yrkar att kommunfullmäktige ska besluta i enlighet med kommunstyrelsens
+förslag i ärendet.
+
+I ärendet yttrar sig även Thomas Eneström (S) och Sandra Pilemalm (L).
+
+Beslut:
+    - Kommunfullmäktige har tagit del av informationen.
+
+Protokollsanteckning
+Sandra Pilemalm (L) och Ida Alm (L) lämnar en skriftlig protokollsanteckning.
+
+Bilaga
+
+_________________________________
+
+Beslutet expedieras till:
+Barn- och utbildningsnämnden
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 32 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 143                            KS KF/2024:344
+
+Delredovisning av uppdrag till barn- och utbildningsnämnden om att genomföra en
+utredning av grundskoleorganisationen
+
+Ärendebeskrivning
+Kommunfullmäktige beslutade den 29 augusti 2024 att uppdra åt barn- och utbildningsnämnden att
+genomföra en utredning av grundskoleorganisationen. Utredningen ska slutredovisas för
+kommunfullmäktige senast vid sista sammanträdet 2025. En delredovisning ska redovisas för
+kommunfullmäktige senast vid sista sammanträdet 2024, i syfte att utgöra underlag för beslut om
+möjliga skolval inför hösten 2025.
+
+Ärendet har behandlats av kommunstyrelsen 2024-11-20, § 160.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunstyrelsen 2024-11-20 § 160
+    - Tjänsteskrivelse 2024-11-14 från kommunledningsförvaltningen
+    - Protokollsutdrag från barn- och utbildningsnämnden 2024-11-19 § 62
+    - Delredovisning: Utredning av grundskoleorganisationen - Rapport
+
+Kommunfullmäktiges handläggning
+Vid kommunfullmäktiges sammanträde lämnar barn- och utbildningsnämndens ordförande Fredrik
+Karström (M) en redogörelse.
+
+Överläggning
+Fredrik Karström (M) yrkar att kommunfullmäktige ska besluta i enlighet med kommunstyrelsens
+förslag i ärendet.
+
+Sandra Pilemalm (L) och Natalia Engstedt (SD) yrkar att ärendet ska återremitteras.
+
+Thomas Eneström (S) yrkar avslag på Sandra Pilemalms yrkande.
+
+I ärendet yttrar sig även Per Bengtsson (S)
+
+Propositionsordning
+Sedan överläggningen har förklarats avslutad ställer ordförande Marie Nilsson (M) först proposition
+på frågan om ärendet ska återremitteras eller avgöras idag, varefter kommunfullmäktige beslutar att
+avgöra ärendet vid dagens sammanträde.
+
+Därefter ställer ordföranden proposition på Fredrik Karströms yrkande, varefter kommunfullmäktige
+bifaller det samma.
+
+Beslut:
+    - Kommunfullmäktige har tagit del av informationen.
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                                               SAMMANTRÄDESPROTOKOLL
+                                                                Sida 33 av 38
+Reservation
+Sandra Pilemalm (L) och Ida Alm (L) reserverar sig skriftligt.  Sammanträdesdatum
+Bilaga                                                                 2024-12-05
+_________________________________
+Beslutet expedieras till:
+Barn- och utbildningsnämnden
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 34 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 144                            KS KF/2023:325
+
+Beslut om att revidera tidigare givna utredningsuppdrag till barn- och
+utbildningsnämnden
+
+Ärendebeskrivning
+Kommunfullmäktige beslutade vid sammanträde 2024-08-28 §101 att ge barn- och
+utbildningsnämnden fem utredningsuppdrag som ska slutrapporteras under 2025.
+
+Då ny information har blivit känd efter att beslutet fattades av kommunfullmäktige samt i syfte att
+inte dubbelarbeta utredningar föreslår kommunledningsförvaltningen
+kommunstyrelsen/kommunfullmäktige att revidera utredningsuppdragen till barn- och
+utbildningsnämnden enligt nedanstående förslag.
+
+Ärendet har behandlats av kommunstyrelsen 2024-11-20, § 161.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunstyrelsen 2024-11-20 § 161
+    - Tjänsteskrivelse 2024-10-31 från kommunledningskontoret
+    - Protokollsutdrag från kommunfullmäktige 2024-08-29 § 101
+
+Kommunfullmäktiges handläggning
+Vid kommunfullmäktiges sammanträde lämnar Richard Jerneborg (M) en redogörelse.
+
+Överläggning
+Richard Jerneborg (M) yrkar att kommunfullmäktige ska besluta i enlighet med kommunstyrelsens
+förslag i ärendet.
+
+Beslut:
+    - Kommunfullmäktige beslutar att redovisning av det fjärde uppdraget (Genomföra en
+         utredning av resursfördelningssystemet) flyttas från sista sammanträdet 2025 till våren 2026.
+
+    - Kommunfullmäktige besluta att femte uppdraget (Genomföra en utredning av en
+         nybyggnation av skolområdet på Löddesnäs) återkallas.
+
+_________________________________
+
+Beslutet expedieras till:
+Barn- och utbildningsnämnden
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 35 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 145                            KS KF/2024:215
+
+Besvarande av motion från Jenny Morau m.fl. (F) om att öka elevintaget Löddesnäs
+och Pilängskolan
+
+Ärendebeskrivning
+Den 2024-05-27 inkom Jenny Morau m.fl. (F) om att öppna elevintaget på Löddesnässkolan och
+Pilängskolan till höstterminen 2025. Motionen har beretts av barn- och utbildningsnämnden vilka
+föreslår kommunfullmäktige att anse motionen besvarad där beslutsunderlaget redogör för de
+utredningsuppdrag som redan givits förvaltningen för utbildning, kost, kultur och fritid från barn- och
+utbildningsnämnden och kommunfullmäktige.
+
+Ärendet har behandlats av kommunstyrelsen 2024-11-20, § 162.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunstyrelsen 2024-11-20 § 162
+    - Tjänsteskrivelse 2024-10-24 från kommunledningsförvaltningen
+    - Protokollsutdrag från barn- och utbildningsnämnden § 53, 2024-10-01
+    - Motion från Jenny Morau m.fl. (F) om att öppna elevintaget på Löddesnässkolan och
+         Pilängskolan till höstterminen 2025, 2024-05-27
+
+Kommunfullmäktiges handläggning
+Vid kommunfullmäktiges sammanträde lämnar Richard Jerneborg (M) en redogörelse.
+
+Överläggning
+Richard Jerneborg (M), Jenny Morau (F), Thomas Eneström (S), Fredrik Karström (M) och Natalia
+Engstedt (SD) yrkar att kommunfullmäktige ska besluta avslå motionen med hänvisning till de
+uppdrag som fullmäktige redan givits barn- och utbildningsnämnden samt det beslut som barn- och
+utbildningsnämnden tagit 2024-11-19 om att inte rekommendera återupptagande hösten 2025.
+
+Ida Alm (L) yrkar bifall till motionen
+
+Propositionsordning
+Sedan överläggningen har förklarats avslutad ställer ordförande Marie Nilsson (M) yrkandena mot
+varandra, vartefter kommunfullmäktige beslutar i enlighet med Richard Jernebors m.fl. yrkande.
+
+Beslut:
+    - Kommunfullmäktige avslår motionen med hänvisning till de uppdrag som fullmäktige redan
+         givits barn- och utbildningsnämnden samt det beslut som barn- och utbildningsnämnden
+         tagit 2024-11-19 om att inte rekommendera återupptagande hösten 2025.
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 36 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+Protokollsanteckning
+Jenny Morau (F), Fredrik Sverkersten (F), Delphine Raimbault (F), Andreas Svensson (F) och Bo Nors
+(F) lämnar en skriftlig protokollsanteckning.
+
+Bilaga
+
+_________________________________
+
+Beslutet expedieras till:
+Barn- och utbildningsnämnden
+Motionärerna
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                   SAMMANTRÄDESPROTOKOLL
+                                    Sida 37 av 38
+
+                                    Sammanträdesdatum
+                                           2024-12-05
+
+KF § 146                            KS KF/2024:68
+
+Redovisning av ej slutbehandlade motioner hösten 2024
+
+Ärendebeskrivning
+Årligen ska ej slutbehandlade motioner redovisas till kommunfullmäktige. Det konstateras att det för
+närvarande finns tre motioner som inte är slutbehandlade. Den ena är i slutfasen av beredning och
+de andra två är under beredning och avses behandlas av kommunfullmäktige våren 2025.
+
+Ärendet har behandlats av kommunstyrelsen 2024-11-20, § 163.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunstyrelsen 2024-11-20 § 163
+    - Tjänsteskrivelse 2024-10-24 från kommunledningsförvaltningen
+    - Motion från Per Bengtsson (S) gällande övertagande av ansvar från socialnämnden,
+         inkommen 2024-10-22
+    - Motion från Ida Alm och Sandra Pilemalm (L) avseende bättre kvalitet i äldreomsorgen,
+         inkommen 2024-09-26
+    - Motion från Jenny Morau med flera (F) om att öppna elevintaget på Löddesnässkolan och
+         Pilängskolan till höstterminen 2025, inkommen 2024-05-27
+
+Kommunfullmäktiges handläggning
+Vid kommunfullmäktiges sammanträde lämnar Richard Jerneborg (M) en redogörelse.
+
+Överläggning
+Richard Jerneborg (M) yrkar att kommunfullmäktige ska besluta i enlighet med kommunstyrelsens
+förslag i ärendet.
+
+Beslut:
+Kommunfullmäktige besluta följande:
+
+    - att lägga redovisningen av ej slutbehandlade motioner till handlingarna,
+
+    - att besluta att redovisning av ej slutbehandlade motioner ska göras en gång per år i samband
+         med årsredovisningen samt,
+
+    - att revidera kommunfullmäktiges arbetsordning, § 30, sista stycket, till ”Ej slutbehandlade
+         motioner ska redovisas kommunfullmäktige en gång per år i samband med
+         årsredovisningen”.
+
+_________________________________
+
+Beslutet expedieras till:
+Motionärerna
+Författningssamlingen
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+KOMMUNFULLMÄKTIGE                              SAMMANTRÄDESPROTOKOLL
+                                               Sida 38 av 38
+
+                                               Sammanträdesdatum
+                                                      2024-12-05
+
+KF § 147                                       KS KF/2024:287
+
+Beslut om gallring av inaktuella styrdokument
+
+Ärendebeskrivning
+Kommunledningsförvaltningen har gjort en översyn av nuvarande författningssamling i dialog med
+samtliga förvaltningar. Gemensamt har inaktuella styrdokument identifierats, vilka föreslås gallras.
+
+Ärendet har behandlats av kommunstyrelsen 2024-11-20, § 164.
+
+Beslutsunderlag
+    - Protokollsutdrag från kommunstyrelsen 2024-11-20 § 164
+    - Protokollsutdrag miljö- och byggnadsnämnden § 64, 2024-10-01
+    - Protokollsutdrag samhällsbyggnadsnämnden § 53, 2024-09-30
+    - Samtliga styrdokument som föreslås gallras.
+
+Kommunfullmäktiges handläggning
+Vid kommunfullmäktiges sammanträde lämnar kommunstyrelsens 1:e vice ordförande Aron Regnéll
+(M) en redogörelse.
+
+Överläggning
+Aron Regnéll (M) yrkar att kommunfullmäktige ska besluta i enlighet med kommunstyrelsens förslag i
+ärendet.
+
+Beslut:
+    - Kommunfullmäktige beslutar gallra följande styrdokument:
+
+               E.03 Lokala föreskrifter för att skydda människors hälsa och miljön i Lomma kommun
+                   gällande från och med 2017-01-01
+
+               F.02.3 Taxa för Lomma kommuns allmänna vatten- och avloppsanläggning
+               J.05 Alkohol- och drogpolitiskt program i Lomma kommun
+               M.05.6 Riktlinjer för basanpassning av bostäder i Lomma Kommun
+               O.01 Policy för internationellt arbete
+               O 03 Arbetsgivarpolitisk strategi för Lomma kommun
+               O. 06 Länspolicy för miljöanpassad kommunal upphandling
+               O.08 IT-policy för Lomma kommun
+
+_________________________________
+
+Beslutet expedieras till:
+Författningssamlingen
+Samtliga nämnder
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+

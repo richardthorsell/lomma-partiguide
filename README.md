@@ -92,11 +92,36 @@ byggnadsnämnden är undantaget: den kanalen anger istället att handlingar beg�
 miljo-byggnadsnamnd@lomma.se.
 
 Detta är den primära källan för riktig röstningsdata (`hur man röstat i olika frågor`), inte bara
-nyhetssammanfattningar. Ett fullständigt exempel finns redan inarbetat: kommunfullmäktiges möte
-2025-10-16 (§ 76&ndash;77) om att stänga Strandskolan och Löddesnässkolan, med exakta röstsiffror
-(23&ndash;22 i båda ärendena) och namngivna voteringslistor, se `data/seed/news.json`. Vill du gräva
-djupare i fler ärenden: gå till arkivet ovan, hitta rätt möte, ladda ner "Protokoll ... med bilagor" och
-läs in det &mdash; för hand, som med all annan data i det här projektet.
+nyhetssammanfattningar.
+
+**Alla 39 kommunfullmäktigeprotokoll från 2022-01-27 till 2026-06-17 är nedladdade** i
+`data/sources/protokoll-kf/` (både originalPDF och en textkonverterad `.txt`-version per möte). Sex av
+dem har lästs i sin helhet och gett upphov till konkreta poster i `data/seed/news.json` med exakta
+röstsiffror:
+
+- 2024-08-29 (§ 100&ndash;101) &mdash; de två folkomröstningarna hanterades; Sandra Pilemalms (L)
+  tilläggsyrkande om skolfinansiering röstades ner 23&ndash;22 samma dag som Alliansen fortfarande var
+  enig &mdash; den dokumenterade första sprickan inför att L senare lämnade det styrande blocket
+- 2025-10-16 (§ 76&ndash;77) &mdash; besluten att stänga Strandskolan/Löddesnässkolan, båda 23&ndash;22
+- 2025-11-13 (§ 88) &mdash; budget 2026, alla fem oppositionspartiers alternativbudgetar avslogs,
+  skattesatsen fastställd 23&ndash;21
+- 2026-04-09 (§ 34) &mdash; ett exempel på att oppositionen faktiskt vinner en votering (23&ndash;19) när
+  den samlar sig
+- 2026-05-07 (§ 50) &mdash; en votering slutade exakt lika (22&ndash;22) och avgjordes av ordförandens
+  utslagsröst; Miljöpartiets reservation bekräftar uttryckligen att skolstängningsbeslutet "togs med
+  minimal majoritet och tack vare en politisk vilde" (dvs. Gun Larsson)
+
+**Öppen research-tråd:** Liberalernas reservation i 2026-05-07-mötet nämner en grupp kallad "Den
+alternativa moderata listan" i kommunfullmäktige, vars ledamöter offentligt sagt sig vilja stoppa
+skolstängningarna men som inte röstade för motionen. Sökningar gav inga träffar &mdash; oklart om det
+är en ny lista/utbrytning inför valet 2026, enskilda kritiska M-ledamöter, eller något annat. Flaggas
+här för framtida uppföljning snarare än att gissa.
+
+De resterande ~33 protokollen är nedladdade men olästa. Vill du gräva djupare: läs `.txt`-filerna
+direkt (snabbare än att öppna PDF:er), sök efter `Votering`/`Voteringsprotokoll`/`reserverar sig` för att
+hitta kontroversiella ärenden, och för in fynden i `data/seed/news.json` eller relevant partis
+`policyPositions` &mdash; för hand, som med all annan data i det här projektet. Fler protokoll (t.ex. 2027
+och framåt) hämtas genom att navigera arkivet ovan och ladda ner på samma sätt.
 
 ## Kända begränsningar i v1
 
@@ -107,10 +132,11 @@ läs in det &mdash; för hand, som med all annan data i det här projektet.
 - **Facebook-inlägg saknas.** `SocialPost`-modellen och `data/seed/social.json` finns förberedda, men inga
   poster har seedats ännu &mdash; exakta publiceringsdatum och engagemangssiffror gick inte att verifiera
   tillförlitligt via sökning i denna omgång och kräver manuell insamling (inloggad i Facebook).
-- **Bara ett fullständigt genomläst protokoll hittills.** Protokollarkivet (se ovan) är stort &mdash; bara
-  ett möte (2025-10-16) är hittills läst i sin helhet och inarbetat med exakta röstsiffror. Övriga
-  nyhetsposter i `data/seed/news.json` bygger fortfarande på kommunens nyhetssammanfattningar, inte
-  originalprotokoll.
+- **~33 av 39 nedladdade protokoll är olästa.** Sex möten (se ovan) är lästa i sin helhet med exakta
+  röstsiffror inarbetade. Övriga nyhetsposter i `data/seed/news.json` bygger fortfarande på kommunens
+  egna nyhetssammanfattningar, inte originalprotokoll.
+- **"Den alternativa moderata listan" är oidentifierad.** Nämns i en reservation 2026-05-07 men gick
+  inte att verifiera vad den är &mdash; se research-tråden ovan.
 - **En person utan parti.** En ledamot (Gun Larsson) sitter som politiskt oberoende i flera organ, utan
   partibeteckning i kommunens förtroendemannaregister. Hon har ingen egen partisida men syns i
   `/namnder`-listorna som "Oberoende" &mdash; och har visat sig ha en de facto vågmästarroll i minst två

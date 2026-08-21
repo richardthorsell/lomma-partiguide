@@ -9,13 +9,34 @@
     "partySlugs": ["m", "l", "c", "kd", "s", "fokus-bjarred", "mp", "sd"]
   },
   {
-    "title": "Liberalerna lämnar det styrande blocket i Lomma",
-    "url": "https://lomma.se/kommun-och-politik/politik-och-demokrati/kommunal-folkomrostning/resultat-folkomrostning-2024.html",
-    "sourceName": "Lomma kommun / Liberalerna Lomma-Bjärred",
-    "publishedAt": "2024-09-01",
-    "summary": "Efter 2024 års kommunala folkomröstning om förskoleklasserna, där 5 172 Lommabor röstade för att avsätta resurser så att alla skolor kunde fortsätta ta emot förskoleklasser, ville Liberalerna höja skolpengen i linje med resultatet. M, Centerpartiet och Kristdemokraterna gick inte med på det, och Liberalerna lämnade det styrande blocket. Kvar styr M, C och KD med 22 av 45 mandat — en formell minoritet som i praktiken beror på stöd från den partipolitiskt oberoende ledamoten Gun Larsson för att nå en majoritet på 23 röster i kontroversiella voteringar (se t.ex. beslutet om skolstängningarna 2025-10-16).",
+    "title": "Kommunfullmäktige hanterar 2024 års folkomröstningar – och Liberalernas skolpengsyrkande röstas ner",
+    "url": "https://docs.netpublicator.com/api/public/r01696490/document/ff8fe62de2d98316b4e5-7e10-4bd9-af02-f0facbc09fa0?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-c072d3fd91109030704",
+    "sourceName": "Lomma kommun, sammanträdesprotokoll KF 2024-08-29 (§ 100–101)",
+    "publishedAt": "2024-08-29",
+    "summary": "Kommunfullmäktige behandlade utfallet av båda de rådgivande folkomröstningarna från 9 juni 2024. I ärendet om gymnasieskola/kommunhus röstade fullmäktige 25–20 för att fortsätta bygget som planerat, trots ett nej i omröstningen (M, L, C, KD, Gun Larsson för; S, Fokus Bjärred, MP, SD emot). I ärendet om förskoleklasser var Alliansen (M, L, C, KD) fortfarande enig om själva grundbeslutet (23–22) — men Sandra Pilemalms (L) och Kristina Thoreds (Fokus) egna tilläggsyrkanden om konkret riktad finansiering för att återöppna Löddesnässkolan och Pilängskolan röstades ner med exakt samma marginal, 23–22, av samma majoritet hon själv precis röstat med.",
+    "details": "Sandra Pilemalm (L) yrkade dels att kommunfullmäktige skulle avge en avsiktsförklaring om riktad förstärkning av elevpengen i F–åk 3 för att möjliggöra F-klassintag på Löddesnässkolan och Pilängskolan redan hösten 2025, dels att barn- och utbildningsnämnden skulle få i uppdrag att göra skolorna valbara i skolvalet januari 2025. Båda yrkandena avslogs 23–22 (samma dag, samma röstsiffra som huvudbeslutet). Hon reserverade sig skriftligt mot utfallet trots att hon suttit med i den grupp (Wenglén, Karström, Henriksson Witt, Uncyk, Pilemalm) som ursprungligen la fram huvudförslaget. Detta är den direkta, dokumenterade förhistorien till att Liberalerna någon gång efter detta möte lämnade det styrande blocket (enligt tidigare research tidfäst till september 2024) — hon fick inte igenom den konkreta finansiering hon krävde, trots att hon formellt röstade med Alliansen i sakfrågan.",
     "sentiment": "NEUTRAL",
-    "partySlugs": ["l", "m", "c", "kd"]
+    "partySlugs": ["l", "m", "c", "kd", "fokus-bjarred", "s", "sd", "mp"]
+  },
+  {
+    "title": "Budget 2026: Skattesatsen fastställs 23–21, alla oppositionsbudgetar avslås",
+    "url": "https://docs.netpublicator.com/api/public/r01696490/document/53d16b26a7dae57ca2a5-f50b-4ab6-b4c7-30b508177274?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-2d5bb2173c6e8967752",
+    "sourceName": "Lomma kommun, sammanträdesprotokoll KF 2025-11-13 (§ 88)",
+    "publishedAt": "2025-11-13",
+    "summary": "Kommunfullmäktige fastställde budget för 2026 enligt det styrande blockets (M, C, KD) förslag. Samtliga oppositionspartier — S, SD, Fokus Bjärred, Miljöpartiet och Liberalerna — lade fram egna, sinsemellan olika alternativbudgetar, som alla röstades ner. Skattesatsen fastställdes till 19,54 kronor istället för oppositionens önskade 19,64 kronor, med rösterna 23–21.",
+    "details": "Fokus föreslog bland annat en utredning av ett sportcenter med simhall, klart 2031. Liberalerna (Sandra Pilemalm och Ida Alm, fortfarande under L:s flagg vid detta möte) lade en egen budget skild från Fokus. Kommunen fick också klartecken att öka låneskulden till totalt 1 050 mnkr under 2026. S, Fokus, MP och SD reserverade sig skriftligt mot budgetbeslutet.",
+    "sentiment": "NEUTRAL",
+    "partySlugs": ["m", "c", "kd", "s", "sd", "fokus-bjarred", "mp", "l"]
+  },
+  {
+    "title": "Oavgjord votering om skolåterstart avgörs av ordförandens utslagsröst",
+    "url": "https://docs.netpublicator.com/api/public/r01696490/document/40d5a7235d5ab94e95ac-446c-4c61-a035-dca9e1d5c52d?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-e796ddb13eae9602222",
+    "sourceName": "Lomma kommun, sammanträdesprotokoll KF 2026-05-07 (§ 50)",
+    "publishedAt": "2026-05-07",
+    "summary": "En motion från Per Bengtsson och Thomas Eneström (S), som ville förbjuda kommunen att vidta åtgärder vid Strandskolan/Löddesnässkolan som försvårar en återöppning efter valet, ställdes mot styrets linje att bara anse motionen besvarad. Voteringen slutade exakt lika, 22–22, och avgjordes av kommunfullmäktiges ordförande Marie Nilssons (M) utslagsröst till förmån för styret.",
+    "details": "S, Fokus Bjärred, Liberalerna och Miljöpartiet reserverade sig skriftligt. I sin reservation skriver Miljöpartiet uttryckligen att skolstängningsbeslutet 2025-10-16 \"togs med minimal majoritet och tack vare en politisk vilde\" — en tydlig, källbelagd bekräftelse på Gun Larssons vågmästarroll. Liberalernas reservation (Ida Alm och Alexander Werne — Sandra Pilemalm förekommer inte längre i L:s ledamotslista vid detta möte, vilket bekräftar att hennes partibyte till Fokus Bjärred skedde någon gång mellan 2025-11-13 och 2026-05-07) nämner också \"Den alternativa moderata listan\" i kommunfullmäktige och kritiserar att ingen av dess ledamöter röstade för motionen trots offentliga uttalanden om att de vill stoppa skolstängningarna. Vad denna lista exakt är har inte gått att verifiera i denna omgång — flaggas som öppen fråga för framtida research. Fokus Bjärred bekräftar i sin reservation att de \"går till val på att återstarta Strandskolan och Löddesnässkolan\".",
+    "sentiment": "NEUTRAL",
+    "partySlugs": ["m", "s", "fokus-bjarred", "l", "mp"]
   },
   {
     "title": "Kommunfullmäktige avslår SD:s motion om att avskaffa utskotten",
@@ -45,6 +66,16 @@
     "details": "Fredrik Karström (M) yrkade bifall till stängningarna; oppositionen (S, L, MP, SD, Fokus Bjärred) förde fram flera alternativa förslag (B, D och E) som alla innebar att skolorna fick vara kvar, samt yrkanden om att bordlägga båda ärendena till efter valet 2026. Voteringen om att avgöra ärendena samma dag (istället för att bordlägga) vanns med 23 mot 22 röster, och slutomröstningarna om själva stängningarna vanns med exakt samma siffror: 23–22 i båda ärendena. Enligt de bifogade voteringsprotokollen röstade samtliga 19 M-ledamöter, båda C-ledamöterna, KD:s ledamot samt den partipolitiskt oberoende Gun Larsson för stängning — det är just Gun Larssons röst som ger M+C+KD (22 mandat) en majoritet på exakt 23 av 45. Hela oppositionen (S, L, MP, SD, Fokus Bjärred) röstade emot i båda ärendena. Samtliga oppositionspartier reserverade sig skriftligt mot besluten.",
     "sentiment": "NEUTRAL",
     "partySlugs": ["m", "c", "kd", "s", "fokus-bjarred", "l", "mp", "sd"]
+  },
+  {
+    "title": "Oppositionen vinner omröstning om årsredovisningens måltext, 23–19",
+    "url": "https://docs.netpublicator.com/api/public/r01696490/document/a6c2bdfa4a4e5071a3ea-c864-42be-aaa3-de60fcc63e0a?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-33c3af85ac6e9486314",
+    "sourceName": "Lomma kommun, sammanträdesprotokoll KF 2026-04-09 (§ 34)",
+    "publishedAt": "2026-04-09",
+    "summary": "Vid godkännandet av årsredovisning 2025 vann Per Bengtssons (S) ändringsyrkande — att bedöma vissa kommunala mål strängare (\"ingen förbättring\" istället för styrets mer positiva formulering) — med rösterna 23 mot 19, mot det styrande blockets egen linje.",
+    "details": "Ett exempel på att den styrande minoriteten (M, C, KD) inte alltid vinner voteringar när övriga partier samlar sig: S, SD, Fokus Bjärred, Liberalerna och Miljöpartiet röstade tillsammans för en mer kritisk bedömning av måluppfyllelsen, och kommunen beviljade samtidigt ansvarsfrihet för verksamhetsåret 2025 samt reserverade 88,4 miljoner kronor i resultatreserv.",
+    "sentiment": "NEUTRAL",
+    "partySlugs": ["s", "m", "c", "kd", "sd", "fokus-bjarred", "l", "mp"]
   },
   {
     "title": "Beslutat i kommunfullmäktige den 12 mars",
