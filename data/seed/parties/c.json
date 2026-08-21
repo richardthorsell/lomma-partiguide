@@ -3,13 +3,13 @@
   "name": "Centerpartiet",
   "shortName": "C",
   "colorHex": "#009933",
-  "description": "Centerliberalt parti och del av det styrande blocket i Lomma (tillsammans med M och KD, som sedan september 2024 styr som minoritet efter att Liberalerna lämnade). Lokal, detaljerad politisk plattform för 2026-2030 var inte tillgänglig i denna research-omgång — beskrivningen nedan speglar delvis partiets allmänna profil.",
+  "description": "Centerliberalt parti och del av det styrande blocket i Lomma (tillsammans med M och KD, som sedan september 2024 styr som minoritet efter att Liberalerna lämnade). Profilerar sig på att hålla nere skatten utan att kompromissa med skola eller äldreomsorg, och på att bygga fler bostäder för unga och barnfamiljer.",
   "ideologyTags": ["Centerliberalism", "Decentralisering", "Center-höger"],
-  "websiteUrl": "https://www.centerpartiet.se/lokal/skane/lomma-bjarred/startsida",
+  "websiteUrl": "https://www.centerpartiet.se/centerpartiet-lokalt/skane/lomma-bjarred/fokusomraden-2026-2030",
   "facebookUrl": null,
   "isLocalParty": false,
   "isCoalitionMember": true,
-  "contactEmail": null,
+  "contactEmail": "info@centerpartiet.se",
   "contactPhone": null,
   "sortOrder": 6,
   "mandate2022": {
@@ -29,10 +29,45 @@
   ],
   "policyPositions": [
     {
-      "issueAreaSlug": "ekonomi-skatt",
-      "summary": "Sidan hänvisar till partiets 'Fokusområden 2026-2030', men den specifika sidan gick inte att nå i research-omgången — behöver verifieras och kompletteras med faktiska lokala ståndpunkter.",
+      "issueAreaSlug": "skola",
+      "summary": "Vill värna en skola och fritidsverksamhet i toppklass med behöriga lärare, moderna lokaler och rimliga klasstorlekar, utan att kompromissa genom skattesänkningar.",
       "details": null,
-      "sourceUrl": "https://www.centerpartiet.se/lokal/skane/lomma-bjarred/startsida",
+      "sourceUrl": "https://www.centerpartiet.se/centerpartiet-lokalt/skane/lomma-bjarred/fragor-och-svar",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "bostader",
+      "summary": "Vill bygga fler prisvärda bostäder och öka utbudet av hyresrätter på lämpliga platser, så att unga och barnfamiljer kan etablera sig i Lomma.",
+      "details": null,
+      "sourceUrl": "https://www.centerpartiet.se/centerpartiet-lokalt/skane/lomma-bjarred/fokusomraden-2026-2030",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "miljo-klimat",
+      "summary": "Vill satsa på fossilfri energiproduktion, elektrifiera kommunens fordonsflotta, och bevara produktiv jordbruksmark i en balans mellan utveckling och bevarande.",
+      "details": null,
+      "sourceUrl": "https://www.centerpartiet.se/centerpartiet-lokalt/skane/lomma-bjarred/fragor-och-svar",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "trafik-infrastruktur",
+      "summary": "Vill stärka kollektivtrafiken mellan kommunens olika tätorter (bland annat fler bussturer mellan Lomma och Bjärred) och bygga ut säkra cykel- och gångvägar.",
+      "details": null,
+      "sourceUrl": "https://www.centerpartiet.se/centerpartiet-lokalt/skane/lomma-bjarred/fokusomraden-2026-2030",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "aldreomsorg",
+      "summary": "Vill säkerställa god bemanning och goda arbetsvillkor för personal, med samma personal som återkommande möter samma äldre för trygghet och kontinuitet. Vill även involvera aktiva seniorer som mentorer i kommunens verksamheter.",
+      "details": null,
+      "sourceUrl": "https://www.centerpartiet.se/centerpartiet-lokalt/skane/lomma-bjarred/fragor-och-svar",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "ekonomi-skatt",
+      "summary": "Vill sänka skatten när det är möjligt för att stimulera företagande, samtidigt som kvaliteten i välfärden hålls uppe — beskriver det som en balansgång mellan ansvarsfulla finanser och service.",
+      "details": null,
+      "sourceUrl": "https://www.centerpartiet.se/centerpartiet-lokalt/skane/lomma-bjarred/fokusomraden-2026-2030",
       "lastUpdated": "2026-08-21"
     }
   ]
