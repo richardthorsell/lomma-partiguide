@@ -16,18 +16,21 @@ export default async function Valkompass2022Page() {
   return (
     <div className="flex flex-col gap-8">
       <div>
-        <h1 className="text-2xl font-semibold tracking-tight">Valkompass 2022</h1>
-        <p className="mt-1 text-muted-light dark:text-muted-dark">
-          Vad partierna svarade i SVT:s lokala valkompass inför valet 2022 &mdash; 15 konkreta frågor om Lomma
-          kommun. Välj en fråga för att se alla partiers svar bredvid varandra, inklusive vad som faktiskt
-          hände på de punkter vi kunnat verifiera mot kommunfullmäktiges protokoll. Vänsterpartiet deltog
-          inte i den lokala valkompassen och saknas därför här.
+        <p className="mb-2 inline-block rounded-full border border-border-light bg-surface-light px-3 py-1 text-xs font-medium text-muted-light dark:border-border-dark dark:bg-surface-dark dark:text-muted-dark">
+          SVT:s lokala Valkompass, 2022 &rarr; idag
+        </p>
+        <h1 className="text-2xl font-semibold tracking-tight">Vallöften 2022 &mdash; Vad hände?</h1>
+        <p className="mt-2 max-w-2xl text-muted-light dark:text-muted-dark">
+          15 konkreta frågor om Lomma kommun som partierna svarade på inför valet 2022. Välj en fråga för att
+          se alla partiers löften bredvid varandra, och vad som faktiskt hände sedan &mdash; verifierat mot
+          kommunfullmäktiges protokoll där vi hunnit gräva. Vänsterpartiet deltog inte i den lokala
+          valkompassen och saknas därför här.
         </p>
       </div>
 
       <div className="card p-6">
         <h2 className="mb-3 text-sm font-semibold uppercase tracking-wide text-muted-light dark:text-muted-dark">
-          Löfte mot verklighet &mdash; det viktigaste vi hittat
+          Det viktigaste vi hittat hittills
         </h2>
         <ul className="flex flex-col gap-3">
           {HIGHLIGHTS.map((h) => (

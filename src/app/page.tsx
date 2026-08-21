@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Users, Scale, ListChecks, Newspaper, ArrowRight } from "lucide-react";
+import { Users, Scale, ListChecks, Newspaper, ArrowRight, History } from "lucide-react";
 import { getAllParties, getLatestElectionPeriod } from "@/lib/queries/parties";
 import { MandateChart } from "@/components/MandateChart";
 
@@ -7,6 +7,7 @@ const NAV_CARDS = [
   { href: "/partier", icon: Users, title: "Partier", desc: "Sök och filtrera bland alla partier." },
   { href: "/jamfor", icon: Scale, title: "Jämför partier", desc: "Ställ partier sida vid sida." },
   { href: "/sakfragor", icon: ListChecks, title: "Sakfrågor", desc: "Se alla partiers ståndpunkt i en fråga." },
+  { href: "/valkompass-2022", icon: History, title: "Vallöften 2022 — Vad hände?", desc: "Partiernas löften från 2022, jämfört med verkligheten." },
   { href: "/nyheter", icon: Newspaper, title: "Nyheter", desc: "Senaste lokalpolitiska nyheterna." },
 ];
 
@@ -82,7 +83,7 @@ export default async function HomePage() {
         </section>
       )}
 
-      <section className="grid grid-cols-1 gap-4 sm:grid-cols-2">
+      <section className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {NAV_CARDS.map(({ href, icon: Icon, title, desc }) => (
           <Link key={href} href={href} className="card card-hover group flex items-start gap-4 p-5">
             <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-brand-50 text-brand-600 dark:bg-brand-900/30 dark:text-brand-300">

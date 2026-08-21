@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 import { getPledgesByTopic } from "@/lib/queries/pledges";
-import { PledgeOutcomeBadge } from "@/components/PledgeOutcomeBadge";
+import { PledgeCard } from "@/components/PledgeCard";
 
 export default async function PledgeTopicPage({ params }: { params: { topic: string } }) {
   const pledges = await getPledgesByTopic(params.topic);
@@ -15,42 +15,26 @@ export default async function PledgeTopicPage({ params }: { params: { topic: str
           href="/valkompass-2022"
           className="mb-2 inline-flex items-center gap-1 text-sm text-muted-light hover:text-ink-light dark:text-muted-dark dark:hover:text-ink-dark"
         >
-          <ArrowLeft size={14} /> Alla frågor
+          <ArrowLeft size={14} /> Alla vallöften
         </Link>
         <h1 className="text-2xl font-semibold tracking-tight">{pledges[0].topic}</h1>
         <p className="mt-1 text-xs text-muted-light dark:text-muted-dark">
-          Ur SVT:s lokala Valkompass inför valet 2022 &mdash; partiernas svar då, inte nödvändigtvis idag.
+          Vallöften 2022 &mdash; Vad hände? Partiernas svar i SVT:s lokala Valkompass, jämfört med vad som
+          faktiskt beslutades i kommunfullmäktige sedan dess.
         </p>
       </div>
 
       <div className="flex flex-col gap-3">
         {pledges.map((pledge) => (
-          <div key={pledge.id} className="card p-5">
-            <div className="mb-2 flex flex-wrap items-center justify-between gap-2">
-              <div className="flex items-center gap-2">
-                <span
-                  className="flex h-7 w-7 items-center justify-center rounded-full text-xs font-semibold text-white"
-                  style={{ backgroundColor: pledge.party.colorHex }}
-                >
-                  {pledge.party.shortName}
-                </span>
-                <Link href={`/partier/${pledge.party.slug}`} className="text-sm font-medium hover:underline">
-                  {pledge.party.name}
-                </Link>
-              </div>
-              <PledgeOutcomeBadge status={pledge.outcomeStatus} />
-            </div>
-            <p className="text-sm font-medium text-ink-light dark:text-ink-dark">{pledge.position}</p>
-            {pledge.motivation && (
-              <p className="mt-1 text-sm text-muted-light dark:text-muted-dark">{pledge.motivation}</p>
-            )}
-            {pledge.outcomeDescription && (
-              <p className="mt-2 rounded-md bg-canvas-light p-3 text-sm text-ink-light dark:bg-canvas-dark dark:text-ink-dark">
-                <span className="font-medium">Vad hände: </span>
-                {pledge.outcomeDescription}
-              </p>
-            )}
-          </div>
+          <PledgeCard
+            key={pledge.id}
+            topic={pledge.topic}
+            position={pledge.position}
+            motivation={pledge.motivation}
+            outcomeStatus={pledge.outcomeStatus}
+            outcomeDescription={pledge.outcomeDescription}
+            party={pledge.party}
+          />
         ))}
       </div>
     </div>

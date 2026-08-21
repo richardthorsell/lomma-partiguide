@@ -6,7 +6,7 @@ import { getCommitteeMembershipsForParty } from "@/lib/queries/committees";
 import { getPledgesForParty } from "@/lib/queries/pledges";
 import { IssuePositionBlock } from "@/components/IssuePositionBlock";
 import { NewsCard } from "@/components/NewsCard";
-import { PledgeOutcomeBadge } from "@/components/PledgeOutcomeBadge";
+import { PledgeCard } from "@/components/PledgeCard";
 
 const ROLE_LABEL: Record<string, string> = {
   ORDFORANDE: "Ordförande",
@@ -180,36 +180,26 @@ export default async function PartyDetailPage({ params }: { params: { slug: stri
 
       {pledges2022.length > 0 && (
         <section>
-          <div className="mb-4 flex items-baseline justify-between gap-2">
-            <h2 className="text-lg font-semibold tracking-tight">Valplattform 2022</h2>
+          <div className="mb-1 flex flex-wrap items-baseline justify-between gap-2">
+            <h2 className="text-lg font-semibold tracking-tight">Vallöften 2022 &mdash; Vad hände?</h2>
             <Link href="/valkompass-2022" className="text-xs text-muted-light hover:underline dark:text-muted-dark">
               Jämför alla partier
             </Link>
           </div>
-          <p className="mb-3 text-xs text-muted-light dark:text-muted-dark">
-            Partiets svar i SVT:s lokala Valkompass inför valet 2022 &mdash; visar vad partiet gick till val på,
-            inte nödvändigtvis dagens politik.
+          <p className="mb-4 text-xs text-muted-light dark:text-muted-dark">
+            Partiets svar i SVT:s lokala Valkompass inför valet 2022, ställt mot vad som faktiskt beslutades i
+            kommunfullmäktige sedan dess.
           </p>
-          <div className="card divide-y divide-border-light dark:divide-border-dark">
+          <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
             {pledges2022.map((pledge) => (
-              <div key={pledge.id} className="p-4">
-                <div className="flex flex-wrap items-center justify-between gap-2">
-                  <div className="text-xs font-semibold uppercase tracking-wide text-muted-light dark:text-muted-dark">
-                    {pledge.topic}
-                  </div>
-                  <PledgeOutcomeBadge status={pledge.outcomeStatus} />
-                </div>
-                <p className="mt-1 text-sm font-medium">{pledge.position}</p>
-                {pledge.motivation && (
-                  <p className="mt-1 text-sm text-muted-light dark:text-muted-dark">{pledge.motivation}</p>
-                )}
-                {pledge.outcomeDescription && (
-                  <p className="mt-2 rounded-md bg-canvas-light p-3 text-sm text-ink-light dark:bg-canvas-dark dark:text-ink-dark">
-                    <span className="font-medium">Vad hände: </span>
-                    {pledge.outcomeDescription}
-                  </p>
-                )}
-              </div>
+              <PledgeCard
+                key={pledge.id}
+                topic={pledge.topic}
+                position={pledge.position}
+                motivation={pledge.motivation}
+                outcomeStatus={pledge.outcomeStatus}
+                outcomeDescription={pledge.outcomeDescription}
+              />
             ))}
           </div>
         </section>
