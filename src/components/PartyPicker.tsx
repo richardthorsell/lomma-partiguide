@@ -27,12 +27,12 @@ export function PartyPicker({ options, selected }: { options: PartyOption[]; sel
           <button
             key={party.slug}
             onClick={() => toggle(party.slug)}
-            className="flex items-center gap-1.5 rounded-full border px-3 py-1.5 text-sm"
-            style={
+            className={`rounded-full border px-3.5 py-1.5 text-sm font-medium transition-all ${
               isSelected
-                ? { backgroundColor: party.colorHex, color: "white", borderColor: party.colorHex }
-                : { borderColor: "#d6d3d1" }
-            }
+                ? "text-white shadow-sm"
+                : "border-border-light bg-surface-light text-ink-light hover:border-stone-400 dark:border-border-dark dark:bg-surface-dark dark:text-ink-dark dark:hover:border-stone-500"
+            }`}
+            style={isSelected ? { backgroundColor: party.colorHex, borderColor: party.colorHex } : undefined}
           >
             {party.shortName}
           </button>

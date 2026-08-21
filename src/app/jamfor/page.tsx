@@ -32,8 +32,8 @@ export default async function JamforPage({ searchParams }: { searchParams: { p?:
   return (
     <div className="flex flex-col gap-6">
       <div>
-        <h1 className="text-2xl font-semibold">Jämför partier</h1>
-        <p className="text-stone-600">Välj partier nedan för en sida-vid-sida-jämförelse.</p>
+        <h1 className="text-2xl font-semibold tracking-tight">Jämför partier</h1>
+        <p className="mt-1 text-muted-light dark:text-muted-dark">Välj partier nedan för en sida-vid-sida-jämförelse.</p>
       </div>
       <PartyPicker options={options} selected={selectedSlugs} />
       <ComparisonTable

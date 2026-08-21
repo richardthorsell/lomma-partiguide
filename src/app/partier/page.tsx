@@ -18,8 +18,10 @@ export default async function PartierPage() {
   return (
     <div className="flex flex-col gap-6">
       <div>
-        <h1 className="text-2xl font-semibold">Partier</h1>
-        <p className="text-stone-600">Alla partier som ställde upp i Lomma i valet 2022.</p>
+        <h1 className="text-2xl font-semibold tracking-tight">Partier</h1>
+        <p className="mt-1 text-muted-light dark:text-muted-dark">
+          Alla partier som ställde upp i Lomma i valet 2022.
+        </p>
       </div>
       <PartyListClient parties={items} />
     </div>

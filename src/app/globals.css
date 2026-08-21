@@ -2,7 +2,31 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  color-scheme: light dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
 body {
-  background-color: #fafaf9;
-  color: #1c1917;
+  @apply bg-canvas-light text-ink-light dark:bg-canvas-dark dark:text-ink-dark;
+  font-feature-settings: "cv11", "ss01";
+}
+
+::selection {
+  @apply bg-brand-200 text-brand-900;
+}
+
+.card {
+  @apply rounded-xl border border-border-light bg-surface-light shadow-card transition-all duration-200 dark:border-border-dark dark:bg-surface-dark;
+}
+
+.card-hover {
+  @apply hover:-translate-y-0.5 hover:shadow-card-hover hover:border-stone-300 dark:hover:border-stone-600;
+}
+
+.pill {
+  @apply inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs font-medium;
 }

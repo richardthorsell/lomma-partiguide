@@ -1,6 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import { Search } from "lucide-react";
 import { PartyCard } from "@/components/PartyCard";
 
 export type PartyListItem = {
@@ -45,32 +46,38 @@ export function PartyListClient({ parties }: { parties: PartyListItem[] }) {
   ];
 
   return (
-    <div className="flex flex-col gap-4">
+    <div className="flex flex-col gap-5">
       <div className="flex flex-wrap items-center gap-3">
-        <input
-          type="text"
-          placeholder="Sök parti eller förkortning..."
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          className="w-full max-w-xs rounded-md border border-stone-300 px-3 py-2 text-sm"
-        />
-        <div className="flex gap-1">
+        <div className="relative w-full max-w-xs">
+          <Search size={15} className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-muted-light dark:text-muted-dark" />
+          <input
+            type="text"
+            placeholder="Sök parti eller förkortning..."
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            className="w-full rounded-full border border-border-light bg-surface-light py-2 pl-9 pr-3 text-sm outline-none transition-colors focus:border-brand-400 dark:border-border-dark dark:bg-surface-dark"
+          />
+        </div>
+        <div className="flex gap-1 rounded-full border border-border-light p-1 dark:border-border-dark">
           {filterOptions.map((opt) => (
             <button
               key={opt.value}
               onClick={() => setFilter(opt.value)}
-              className={`rounded-full px-3 py-1 text-xs font-medium ${
-                filter === opt.value ? "bg-stone-900 text-white" : "bg-stone-100 text-stone-600 hover:bg-stone-200"
+              className={`rounded-full px-3 py-1 text-xs font-medium transition-colors ${
+                filter === opt.value
+                  ? "bg-ink-light text-canvas-light dark:bg-ink-dark dark:text-canvas-dark"
+                  : "text-muted-light hover:text-ink-light dark:text-muted-dark dark:hover:text-ink-dark"
               }`}
             >
               {opt.label}
             </button>
           ))}
         </div>
+        <span className="text-xs text-muted-light dark:text-muted-dark">{filtered.length} partier</span>
       </div>
 
       {filtered.length === 0 ? (
-        <p className="text-sm text-stone-500">Inga partier matchar din sökning.</p>
+        <p className="text-sm text-muted-light dark:text-muted-dark">Inga partier matchar din sökning.</p>
       ) : (
         <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
           {filtered.map((party) => (

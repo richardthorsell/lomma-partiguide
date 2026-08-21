@@ -9,31 +9,44 @@ export default async function NyheterPage({ searchParams }: { searchParams: { pa
   return (
     <div className="flex flex-col gap-6">
       <div>
-        <h1 className="text-2xl font-semibold">Nyheter</h1>
-        <p className="text-stone-600">Lokalpolitiska nyheter kopplade till partierna i Lomma.</p>
+        <h1 className="text-2xl font-semibold tracking-tight">Nyheter</h1>
+        <p className="mt-1 text-muted-light dark:text-muted-dark">
+          Lokalpolitiska nyheter kopplade till partierna i Lomma.
+        </p>
       </div>
 
-      <div className="flex flex-wrap gap-2 text-sm">
+      <div className="flex flex-wrap gap-1.5 text-sm">
         <Link
           href="/nyheter"
-          className={`rounded-full px-3 py-1 ${!searchParams.parti ? "bg-stone-900 text-white" : "bg-stone-100 text-stone-600"}`}
+          className={`rounded-full px-3 py-1.5 font-medium transition-colors ${
+            !searchParams.parti
+              ? "bg-ink-light text-canvas-light dark:bg-ink-dark dark:text-canvas-dark"
+              : "border border-border-light text-muted-light hover:text-ink-light dark:border-border-dark dark:text-muted-dark dark:hover:text-ink-dark"
+          }`}
         >
           Alla
         </Link>
-        {parties.map((party) => (
-          <Link
-            key={party.slug}
-            href={`/nyheter?parti=${party.slug}`}
-            className={`rounded-full px-3 py-1 ${searchParams.parti === party.slug ? "text-white" : "bg-stone-100 text-stone-600"}`}
-            style={searchParams.parti === party.slug ? { backgroundColor: party.colorHex } : undefined}
-          >
-            {party.shortName}
-          </Link>
-        ))}
+        {parties.map((party) => {
+          const isActive = searchParams.parti === party.slug;
+          return (
+            <Link
+              key={party.slug}
+              href={`/nyheter?parti=${party.slug}`}
+              className={`rounded-full px-3 py-1.5 font-medium transition-colors ${
+                isActive
+                  ? "text-white"
+                  : "border border-border-light text-muted-light hover:text-ink-light dark:border-border-dark dark:text-muted-dark dark:hover:text-ink-dark"
+              }`}
+              style={isActive ? { backgroundColor: party.colorHex } : undefined}
+            >
+              {party.shortName}
+            </Link>
+          );
+        })}
       </div>
 
       {news.length === 0 ? (
-        <p className="text-stone-500">Inga nyheter hittades.</p>
+        <p className="text-muted-light dark:text-muted-dark">Inga nyheter hittades.</p>
       ) : (
         <div className="flex flex-col gap-3">
           {news.map((item) => (

@@ -7,12 +7,19 @@ type IssuePositionBlockProps = {
 
 export function IssuePositionBlock({ issueAreaName, summary, details, sourceUrl }: IssuePositionBlockProps) {
   return (
-    <div className="rounded-lg border border-stone-200 bg-white p-4">
-      <h4 className="mb-1 text-sm font-semibold text-stone-500">{issueAreaName}</h4>
-      <p className="text-sm text-stone-800">{summary}</p>
-      {details && <p className="mt-1 text-sm text-stone-500">{details}</p>}
+    <div className="card p-5">
+      <h4 className="mb-1.5 text-xs font-semibold uppercase tracking-wide text-muted-light dark:text-muted-dark">
+        {issueAreaName}
+      </h4>
+      <p className="text-sm leading-relaxed text-ink-light dark:text-ink-dark">{summary}</p>
+      {details && <p className="mt-2 text-sm text-muted-light dark:text-muted-dark">{details}</p>}
       {sourceUrl && (
-        <a href={sourceUrl} target="_blank" rel="noreferrer" className="mt-2 inline-block text-xs text-stone-400 hover:underline">
+        <a
+          href={sourceUrl}
+          target="_blank"
+          rel="noreferrer"
+          className="mt-3 inline-block text-xs text-muted-light underline decoration-dotted underline-offset-2 hover:text-ink-light dark:text-muted-dark dark:hover:text-ink-dark"
+        >
           Källa
         </a>
       )}
