@@ -95,7 +95,7 @@ Detta är den primära källan för riktig röstningsdata (`hur man röstat i ol
 nyhetssammanfattningar.
 
 **Alla 39 kommunfullmäktigeprotokoll från 2022-01-27 till 2026-06-17 är nedladdade** i
-`data/sources/protokoll-kf/` (både originalPDF och en textkonverterad `.txt`-version per möte). Sex av
+`data/sources/protokoll-kf/` (både originalPDF och en textkonverterad `.txt`-version per möte). Åtta av
 dem har lästs i sin helhet och gett upphov till konkreta poster i `data/seed/news.json` med exakta
 röstsiffror:
 
@@ -110,6 +110,11 @@ röstsiffror:
 - 2026-05-07 (§ 50) &mdash; en votering slutade exakt lika (22&ndash;22) och avgjordes av ordförandens
   utslagsröst; Miljöpartiets reservation bekräftar uttryckligen att skolstängningsbeslutet "togs med
   minimal majoritet och tack vare en politisk vilde" (dvs. Gun Larsson)
+- 2025-04-24 (§ 18) och 2025-06-05 (§ 31) &mdash; revisionen riktade en formell anmärkning mot
+  socialnämnden för kvalitets- och verksamhetsbrister i äldreomsorgen 2024; fullmäktige röstade ner
+  (22&ndash;10) ett förslag om att själv skärpa anmärkningen ytterligare
+- 2025-08-28 (§ 53) &mdash; bekräftar samma 23&ndash;22-mönster redan vid minoritetsåterremissen som
+  föregick 2025-10-16-beslutet
 
 **Öppen research-tråd:** Liberalernas reservation i 2026-05-07-mötet nämner en grupp kallad "Den
 alternativa moderata listan" i kommunfullmäktige, vars ledamöter offentligt sagt sig vilja stoppa
@@ -117,7 +122,11 @@ skolstängningarna men som inte röstade för motionen. Sökningar gav inga trä
 är en ny lista/utbrytning inför valet 2026, enskilda kritiska M-ledamöter, eller något annat. Flaggas
 här för framtida uppföljning snarare än att gissa.
 
-De resterande ~33 protokollen är nedladdade men olästa. Vill du gräva djupare: läs `.txt`-filerna
+Ytterligare genomgångna möten utan egen nyhetspost: 2026-03-12 (SD reserverade sig mot
+måltidspolicyn och SkyZero-finansieringen; Bjärreds vångar-besluten gick igenom utan opposition) och
+2025-09-25 (MP:s motion om trygghetsringning för äldre avslogs, se Miljöpartiets sakfrågor).
+
+De resterande ~29 protokollen är nedladdade men olästa. Vill du gräva djupare: läs `.txt`-filerna
 direkt (snabbare än att öppna PDF:er), sök efter `Votering`/`Voteringsprotokoll`/`reserverar sig` för att
 hitta kontroversiella ärenden, och för in fynden i `data/seed/news.json` eller relevant partis
 `policyPositions` &mdash; för hand, som med all annan data i det här projektet. Fler protokoll (t.ex. 2027
@@ -132,7 +141,7 @@ och framåt) hämtas genom att navigera arkivet ovan och ladda ner på samma sä
 - **Facebook-inlägg saknas.** `SocialPost`-modellen och `data/seed/social.json` finns förberedda, men inga
   poster har seedats ännu &mdash; exakta publiceringsdatum och engagemangssiffror gick inte att verifiera
   tillförlitligt via sökning i denna omgång och kräver manuell insamling (inloggad i Facebook).
-- **~33 av 39 nedladdade protokoll är olästa.** Sex möten (se ovan) är lästa i sin helhet med exakta
+- **~29 av 39 nedladdade protokoll är olästa.** Åtta möten (se ovan) är lästa i sin helhet med exakta
   röstsiffror inarbetade. Övriga nyhetsposter i `data/seed/news.json` bygger fortfarande på kommunens
   egna nyhetssammanfattningar, inte originalprotokoll.
 - **"Den alternativa moderata listan" är oidentifierad.** Nämns i en reservation 2026-05-07 men gick
