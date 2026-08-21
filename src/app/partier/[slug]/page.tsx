@@ -6,6 +6,7 @@ import { getCommitteeMembershipsForParty } from "@/lib/queries/committees";
 import { getPledgesForParty } from "@/lib/queries/pledges";
 import { IssuePositionBlock } from "@/components/IssuePositionBlock";
 import { NewsCard } from "@/components/NewsCard";
+import { PledgeOutcomeBadge } from "@/components/PledgeOutcomeBadge";
 
 const ROLE_LABEL: Record<string, string> = {
   ORDFORANDE: "Ordförande",
@@ -192,12 +193,21 @@ export default async function PartyDetailPage({ params }: { params: { slug: stri
           <div className="card divide-y divide-border-light dark:divide-border-dark">
             {pledges2022.map((pledge) => (
               <div key={pledge.id} className="p-4">
-                <div className="text-xs font-semibold uppercase tracking-wide text-muted-light dark:text-muted-dark">
-                  {pledge.topic}
+                <div className="flex flex-wrap items-center justify-between gap-2">
+                  <div className="text-xs font-semibold uppercase tracking-wide text-muted-light dark:text-muted-dark">
+                    {pledge.topic}
+                  </div>
+                  <PledgeOutcomeBadge status={pledge.outcomeStatus} />
                 </div>
                 <p className="mt-1 text-sm font-medium">{pledge.position}</p>
                 {pledge.motivation && (
                   <p className="mt-1 text-sm text-muted-light dark:text-muted-dark">{pledge.motivation}</p>
+                )}
+                {pledge.outcomeDescription && (
+                  <p className="mt-2 rounded-md bg-canvas-light p-3 text-sm text-ink-light dark:bg-canvas-dark dark:text-ink-dark">
+                    <span className="font-medium">Vad hände: </span>
+                    {pledge.outcomeDescription}
+                  </p>
                 )}
               </div>
             ))}

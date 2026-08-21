@@ -86,12 +86,23 @@ const policyPositionSchema = z.object({
   lastUpdated: z.string(),
 });
 
+const pledgeOutcomeEnum = z.enum([
+  "FULFILLED",
+  "PARTIALLY_FULFILLED",
+  "NOT_FULFILLED",
+  "UNCLEAR",
+  "NOT_VERIFIED",
+]);
+
 const electionPledgeItemSchema = z.object({
   topicSlug: z.string(),
   topic: z.string(),
   position: z.string(),
   motivation: z.string().nullable().optional(),
   sortOrder: z.number().int(),
+  outcomeStatus: pledgeOutcomeEnum.optional(),
+  outcomeDescription: z.string().nullable().optional(),
+  outcomeSourceUrl: z.string().nullable().optional(),
 });
 
 const electionPledgeGroupSchema = z.object({
@@ -385,6 +396,9 @@ async function main() {
           motivation: pledge.motivation ?? null,
           sortOrder: pledge.sortOrder,
           sourceUrl: group.sourceUrl,
+          outcomeStatus: pledge.outcomeStatus ?? "NOT_VERIFIED",
+          outcomeDescription: pledge.outcomeDescription ?? null,
+          outcomeSourceUrl: pledge.outcomeSourceUrl ?? null,
         },
         create: {
           partyId,
@@ -395,6 +409,9 @@ async function main() {
           motivation: pledge.motivation ?? null,
           sortOrder: pledge.sortOrder,
           sourceUrl: group.sourceUrl,
+          outcomeStatus: pledge.outcomeStatus ?? "NOT_VERIFIED",
+          outcomeDescription: pledge.outcomeDescription ?? null,
+          outcomeSourceUrl: pledge.outcomeSourceUrl ?? null,
         },
       });
     }
