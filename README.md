@@ -95,13 +95,19 @@ Detta är den primära källan för riktig röstningsdata (`hur man röstat i ol
 nyhetssammanfattningar.
 
 **Alla 39 kommunfullmäktigeprotokoll från 2022-01-27 till 2026-06-17 är nedladdade** i
-`data/sources/protokoll-kf/` (både originalPDF och en textkonverterad `.txt`-version per möte). Åtta av
+`data/sources/protokoll-kf/` (både originalPDF och en textkonverterad `.txt`-version per möte). Elva av
 dem har lästs i sin helhet och gett upphov till konkreta poster i `data/seed/news.json` med exakta
 röstsiffror:
 
+- 2024-03-14 (§ 32&ndash;35) &mdash; kommunfullmäktige röstade om att *tillåta* de två
+  folkinitiativ-omröstningarna. M, C och KD (och till en början L) röstade för att blockera båda, men fick
+  bara enkel majoritet (24&ndash;20 respektive 22&ndash;23) mot den kvalificerade två tredjedels majoritet
+  som krävs enligt kommunallagen för att stoppa ett giltigt folkinitiativ. I den andra omröstningen bröt
+  sig Sandra Pilemalm (L) loss och röstade med oppositionen &mdash; den tidigaste dokumenterade sprickan
+  mellan L och Alliansen, fem månader före den tidigare kända brytningen i augusti 2024
 - 2024-08-29 (§ 100&ndash;101) &mdash; de två folkomröstningarna hanterades; Sandra Pilemalms (L)
   tilläggsyrkande om skolfinansiering röstades ner 23&ndash;22 samma dag som Alliansen fortfarande var
-  enig &mdash; den dokumenterade första sprickan inför att L senare lämnade det styrande blocket
+  enig i grundbeslutet &mdash; det formella utträdet ur det styrande blocket kom något senare
 - 2025-10-16 (§ 76&ndash;77) &mdash; besluten att stänga Strandskolan/Löddesnässkolan, båda 23&ndash;22
 - 2025-11-13 (§ 88) &mdash; budget 2026, alla fem oppositionspartiers alternativbudgetar avslogs,
   skattesatsen fastställd 23&ndash;21
@@ -123,10 +129,12 @@ skolstängningarna men som inte röstade för motionen. Sökningar gav inga trä
 här för framtida uppföljning snarare än att gissa.
 
 Ytterligare genomgångna möten utan egen nyhetspost: 2026-03-12 (SD reserverade sig mot
-måltidspolicyn och SkyZero-finansieringen; Bjärreds vångar-besluten gick igenom utan opposition) och
-2025-09-25 (MP:s motion om trygghetsringning för äldre avslogs, se Miljöpartiets sakfrågor).
+måltidspolicyn och SkyZero-finansieringen; Bjärreds vångar-besluten gick igenom utan opposition),
+2025-09-25 (MP:s motion om trygghetsringning för äldre avslogs, se Miljöpartiets sakfrågor) och
+2022-11-10 (första mötet i innevarande mandatperiod &mdash; endast rutinärenden: nedläggning av en
+"fritidsbank", uppdaterade arvodesregler och 2023 års budget med en skattesats på 19,64 kr).
 
-De resterande ~29 protokollen är nedladdade men olästa. Vill du gräva djupare: läs `.txt`-filerna
+De resterande ~28 protokollen är nedladdade men olästa. Vill du gräva djupare: läs `.txt`-filerna
 direkt (snabbare än att öppna PDF:er), sök efter `Votering`/`Voteringsprotokoll`/`reserverar sig` för att
 hitta kontroversiella ärenden, och för in fynden i `data/seed/news.json` eller relevant partis
 `policyPositions` &mdash; för hand, som med all annan data i det här projektet. Fler protokoll (t.ex. 2027
@@ -141,7 +149,7 @@ och framåt) hämtas genom att navigera arkivet ovan och ladda ner på samma sä
 - **Facebook-inlägg saknas.** `SocialPost`-modellen och `data/seed/social.json` finns förberedda, men inga
   poster har seedats ännu &mdash; exakta publiceringsdatum och engagemangssiffror gick inte att verifiera
   tillförlitligt via sökning i denna omgång och kräver manuell insamling (inloggad i Facebook).
-- **~29 av 39 nedladdade protokoll är olästa.** Åtta möten (se ovan) är lästa i sin helhet med exakta
+- **~28 av 39 nedladdade protokoll är olästa.** Elva möten (se ovan) är lästa i sin helhet med exakta
   röstsiffror inarbetade. Övriga nyhetsposter i `data/seed/news.json` bygger fortfarande på kommunens
   egna nyhetssammanfattningar, inte originalprotokoll.
 - **"Den alternativa moderata listan" är oidentifierad.** Nämns i en reservation 2026-05-07 men gick

@@ -6,7 +6,7 @@ const HIGHLIGHTS = [
   "Kommunhuset/gymnasiet byggdes trots ett nej i 2024 års folkomröstning — kommunfullmäktige röstade 25–20 för att fortsätta bygget.",
   "Kommunalskatten sänktes till 2026, men bara med 10 öre (19,64 → 19,54 kr) — en fjärdedel av de 40 öre Kristdemokraterna utlovade 2022.",
   "Ingen privatisering av äldreomsorgen skedde, som M, S, C, MP och Fokus alla ville — men revisionen riktade ändå en formell anmärkning mot socialnämnden för kvalitetsbrister 2024.",
-  "Två folkomröstningar hölls faktiskt 2024, trots att de flesta partier sagt nej till fler omröstningar 2022 — men de kom via medborgarnas eget folkinitiativ, inte partipolitik.",
+  "Två folkomröstningar hölls faktiskt 2024 — men inte för att partierna ville: M, C och KD (och till en början L) röstade 2024-03-14 för att blockera dem, men saknade den kvalificerade två tredjedels majoritet som krävs enligt lag. Folkomröstningarna kom via medborgarnas eget folkinitiativ.",
   "S och Fokus Bjärred prioriterade mindre klasser/grupper 2022 — istället stängdes två skolor (Strandskolan, Löddesnässkolan) 2025 och eleverna slogs samman i större enheter.",
 ];
 

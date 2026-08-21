@@ -9,6 +9,16 @@
     "partySlugs": ["m", "l", "c", "kd", "s", "fokus-bjarred", "mp", "sd"]
   },
   {
+    "title": "Kommunfullmäktige tvingas hålla folkomröstningar trots att Alliansen röstar emot",
+    "url": "https://docs.netpublicator.com/api/public/r01696490/document/5f9f70e946c0018ed4d2-e8f9-4832-b908-0fed1ab6639f?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-c072d3fd91109030704",
+    "sourceName": "Lomma kommun, sammanträdesprotokoll KF 2024-03-14 (§ 32–35)",
+    "publishedAt": "2024-03-14",
+    "summary": "Två folkinitiativ (medborgarförslag med tillräckligt många underskrifter) hade lämnats in i december 2023 — ett mot gymnasieskole-/kommunhusbygget, ett för mer resurser till förskoleklasserna på Löddesnässkolan/Pilängskolan. Enligt kommunallagen krävs två tredjedels majoritet i kommunfullmäktige för att stoppa en giltig folkomröstning. M, C och KD (samt i det första ärendet L) röstade för att inte hålla omröstningarna, men fick bara enkel majoritet (24–20 respektive 22–23) — långt under den kvalificerade majoritet som krävs för att blockera. Båda folkomröstningarna genomfördes därför den 9 juni 2024.",
+    "details": "I ärendet om förskoleklasser röstade Sandra Pilemalm (L) för första dokumenterade gången mot resten av Alliansen (M, KD, C) och för att folkomröstningen skulle hållas — tillsammans med S, SD, Fokus Bjärred och MP. Det är den tidigaste dokumenterade sprickan mellan L och det styrande blocket i skolfrågan, fem månader innan den tidigare kända brytningen i augusti 2024.",
+    "sentiment": "NEUTRAL",
+    "partySlugs": ["m", "c", "kd", "l", "s", "fokus-bjarred", "sd", "mp"]
+  },
+  {
     "title": "Kommunfullmäktige hanterar 2024 års folkomröstningar – och Liberalernas skolpengsyrkande röstas ner",
     "url": "https://docs.netpublicator.com/api/public/r01696490/document/ff8fe62de2d98316b4e5-7e10-4bd9-af02-f0facbc09fa0?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-c072d3fd91109030704",
     "sourceName": "Lomma kommun, sammanträdesprotokoll KF 2024-08-29 (§ 100–101)",
