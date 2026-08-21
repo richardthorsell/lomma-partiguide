@@ -9,6 +9,15 @@
     "partySlugs": ["m", "l", "c", "kd", "s", "fokus-bjarred", "mp", "sd"]
   },
   {
+    "title": "Liberalerna lämnar det styrande blocket i Lomma",
+    "url": "https://lomma.se/kommun-och-politik/politik-och-demokrati/kommunal-folkomrostning/resultat-folkomrostning-2024.html",
+    "sourceName": "Lomma kommun / Liberalerna Lomma-Bjärred",
+    "publishedAt": "2024-09-01",
+    "summary": "Efter 2024 års kommunala folkomröstning om förskoleklasserna, där 5 172 Lommabor röstade för att avsätta resurser så att alla skolor kunde fortsätta ta emot förskoleklasser, ville Liberalerna höja skolpengen i linje med resultatet. M, Centerpartiet och Kristdemokraterna gick inte med på det, och Liberalerna lämnade det styrande blocket. Kvar styr M, C och KD som minoritet med 22 av 45 mandat.",
+    "sentiment": "NEUTRAL",
+    "partySlugs": ["l", "m", "c", "kd"]
+  },
+  {
     "title": "Stäng inte fler skolor!",
     "url": "https://socialdemokraternalomma.se/?p=606",
     "sourceName": "Socialdemokraterna i Lomma",
@@ -24,7 +33,7 @@
     "publishedAt": "2025-10-16",
     "summary": "Kommunfullmäktige beslutade om en ny organisation för grundskolan som innebär att Löddesnässkolan i norra kommundelen och Strandskolan i södra kommundelen stängs inför höstterminen 2026, till följd av minskande elevunderlag.",
     "sentiment": "NEUTRAL",
-    "partySlugs": ["m", "l", "c", "kd", "s"]
+    "partySlugs": ["m", "c", "kd", "s"]
   },
   {
     "title": "Beslutat i kommunfullmäktige den 12 mars",

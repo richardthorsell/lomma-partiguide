@@ -3,12 +3,12 @@
   "name": "Liberalerna",
   "shortName": "L",
   "colorHex": "#006AB3",
-  "description": "Liberalt parti och del av den styrande Alliansen i Lomma. Profilerar sig särskilt på skola/mindre klasser och att göra Lomma till Sveriges bästa kommun för barnfamiljer.",
+  "description": "Liberalt parti, tidigare del av den styrande Alliansen i Lomma men i opposition sedan september 2024 efter en brytning med M, C och KD om skolresurser. Profilerar sig särskilt på skola/mindre klasser och att göra Lomma till Sveriges bästa kommun för barnfamiljer.",
   "ideologyTags": ["Liberalism", "Center-höger"],
   "websiteUrl": "https://lomma.liberalerna.se/",
   "facebookUrl": "https://www.facebook.com/lommaliberalerna/",
   "isLocalParty": false,
-  "isCoalitionMember": true,
+  "isCoalitionMember": false,
   "contactEmail": null,
   "contactPhone": null,
   "sortOrder": 5,
@@ -53,6 +53,13 @@
       "issueAreaSlug": "ekonomi-skatt",
       "summary": "Beskriver sig som ett borgerligt, självständigt parti med ansvarsfull ekonomisk politik som prioriterar välfärdens grunder.",
       "details": null,
+      "sourceUrl": "https://lomma.liberalerna.se/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "skola",
+      "summary": "Lämnade den styrande majoriteten i september 2024 efter att M, C och KD inte gick med på att höja skolpengen och skjuta till mer resurser så att alla skolor kunde fortsätta ta emot förskoleklasser, trots utfallet i 2024 års kommunala folkomröstning om förskoleklasserna.",
+      "details": "Vid folkomröstningen röstade 5 172 Lommabor för att kommunen skulle avsätta resurser så att samtliga dåvarande skolor kunde fortsätta ta emot förskoleklasser. Liberalerna hade i förväg lovat att följa utfallet om valdeltagandet översteg 50 procent.",
       "sourceUrl": "https://lomma.liberalerna.se/",
       "lastUpdated": "2026-08-21"
     }
