@@ -1,0 +1,59 @@
+{
+  "slug": "m",
+  "name": "Moderata samlingspartiet",
+  "shortName": "M",
+  "colorHex": "#52BDEC",
+  "description": "Störst i Lomma kommunfullmäktige och ledande parti i den styrande Alliansen. Profilerar sig på ekonomiskt ansvar, goda skolresultat och fortsatt kommunal utveckling.",
+  "ideologyTags": ["Konservativ liberalism", "Marknadsliberal", "Center-höger"],
+  "websiteUrl": "https://moderaterna.se/skane/foreningar/lomma/",
+  "facebookUrl": "https://www.facebook.com/lommabjarredmoderaterna/",
+  "isLocalParty": false,
+  "isCoalitionMember": true,
+  "contactEmail": null,
+  "contactPhone": null,
+  "sortOrder": 1,
+  "mandate2022": {
+    "seats": 19,
+    "voteCount": 6807,
+    "voteSharePct": 41.35,
+    "sourceName": "SVT Nyheter Valresultat / Valmyndigheten",
+    "sourceUrl": "https://valresultat.svt.se/2022/kommunval-1262-lomma.html"
+  },
+  "people": [
+    {
+      "name": "Robert Wenglén",
+      "role": "KOMMUNALRAD",
+      "isNotable": true,
+      "bio": "Kommunstyrelsens ordförande i Lomma kommun."
+    },
+    {
+      "name": "Elin Helmander",
+      "role": "ORDFORANDE",
+      "isNotable": true,
+      "bio": "Ordförande för Moderaterna i Lomma."
+    }
+  ],
+  "policyPositions": [
+    {
+      "issueAreaSlug": "skola",
+      "summary": "Lyfter fram goda skolresultat som en styrka för kommunen och vill fortsätta utveckla skolan i dialog med vårdnadshavare.",
+      "details": null,
+      "sourceUrl": "https://lommabjarred.moderatweb.se/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "aldreomsorg",
+      "summary": "Stödjer träffpunktsgrupper och aktiviteter för äldre (promenader, underhållning, föreläsningar, stödgrupper) via kommunens träffpunkter.",
+      "details": null,
+      "sourceUrl": "https://lommabjarred.moderatweb.se/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "ekonomi-skatt",
+      "summary": "Profilerar sig på frihet, ansvar och fiscal disciplin. Motsätter sig bland annat förslag om ränteavdragsbegränsningar/boränteskatt som man menar fördyrar boende för invånarna.",
+      "details": null,
+      "sourceUrl": "https://lommabjarred.moderatweb.se/",
+      "lastUpdated": "2026-08-21"
+    }
+  ]
+}

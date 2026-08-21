@@ -1,0 +1,46 @@
+{
+  "slug": "mp",
+  "name": "Miljöpartiet de gröna",
+  "shortName": "MP",
+  "colorHex": "#83CF39",
+  "description": "Grönt parti i opposition i Lomma. Profilerar sig på klimatanpassning, energibesparing, hyresrätter och att kollektivtrafik/cykel ska vara förstahandsval.",
+  "ideologyTags": ["Grön politik", "Miljöpartism"],
+  "websiteUrl": "https://www.mp.se/lomma/",
+  "facebookUrl": null,
+  "isLocalParty": false,
+  "isCoalitionMember": false,
+  "contactEmail": null,
+  "contactPhone": null,
+  "sortOrder": 7,
+  "mandate2022": {
+    "seats": 2,
+    "voteCount": 571,
+    "voteSharePct": 3.47,
+    "sourceName": "SVT Nyheter Valresultat / Valmyndigheten",
+    "sourceUrl": "https://valresultat.svt.se/2022/kommunval-1262-lomma.html"
+  },
+  "people": [],
+  "policyPositions": [
+    {
+      "issueAreaSlug": "bostader",
+      "summary": "Vill se fler hyresrätter i kommunen, med motiveringen att behov och önskemål skiftar i livets olika skeenden.",
+      "details": null,
+      "sourceUrl": "https://www.mp.se/lomma/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "miljo-klimat",
+      "summary": "Prioriterar energibesparing och anpassning till pågående klimatförändringar.",
+      "details": null,
+      "sourceUrl": "https://www.mp.se/lomma/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "trafik-infrastruktur",
+      "summary": "Vill att kollektivtrafik och cykel ska vara förstahandsvalet framför bilen, och att kommunens fordonsflotta ska bli fossilfri.",
+      "details": null,
+      "sourceUrl": "https://www.mp.se/lomma/",
+      "lastUpdated": "2026-08-21"
+    }
+  ]
+}

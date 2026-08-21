@@ -1,0 +1,67 @@
+{
+  "slug": "v",
+  "name": "Vänsterpartiet",
+  "shortName": "V",
+  "colorHex": "#DA291C",
+  "description": "Socialistiskt parti utan mandat i innevarande fullmäktige, men aktivt lokalt i Lomma med en egen sajt och tydlig politisk plattform. Fick 1,79 % av rösterna 2022, vilket inte räckte till mandat.",
+  "ideologyTags": ["Socialism", "Vänster"],
+  "websiteUrl": "https://lomma.vansterpartiet.se/",
+  "facebookUrl": null,
+  "isLocalParty": false,
+  "isCoalitionMember": false,
+  "contactEmail": null,
+  "contactPhone": null,
+  "sortOrder": 9,
+  "mandate2022": {
+    "seats": 0,
+    "voteCount": 295,
+    "voteSharePct": 1.79,
+    "sourceName": "SVT Nyheter Valresultat / Valmyndigheten",
+    "sourceUrl": "https://valresultat.svt.se/2022/kommunval-1262-lomma.html"
+  },
+  "people": [],
+  "policyPositions": [
+    {
+      "issueAreaSlug": "skola",
+      "summary": "Vill ha hög personaltäthet och goda arbetsvillkor för personal och elever, och motsätter sig vinstdrivna friskolor till förmån för den kommunala skolan.",
+      "details": null,
+      "sourceUrl": "https://lomma.vansterpartiet.se/var-politik/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "bostader",
+      "summary": "Vill prioritera prisvärda bostäder för unga vuxna och äldre, och att kommunen ska starta ett kommunalt bostadsbolag.",
+      "details": null,
+      "sourceUrl": "https://lomma.vansterpartiet.se/var-politik/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "miljo-klimat",
+      "summary": "Kräver att kommunen antar en koldioxidbudget i linje med Parisavtalet, solceller på nya byggnader, och snabb utbyggnad av förnybar energi.",
+      "details": null,
+      "sourceUrl": "https://lomma.vansterpartiet.se/var-politik/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "trafik-infrastruktur",
+      "summary": "Vill förbättra kollektivtrafiken mellan Bjärred och Lund/Malmö, verka för en framtida spårvagnslinje till en planerad Flädie-station, och bygga säkra, separerade cykelbanor.",
+      "details": null,
+      "sourceUrl": "https://lomma.vansterpartiet.se/var-politik/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "aldreomsorg",
+      "summary": "Motsätter sig vinster i välfärden och vill öka resurserna i äldreomsorgen så att äldres behov och önskemål prioriteras framför bolagsintressen.",
+      "details": null,
+      "sourceUrl": "https://lomma.vansterpartiet.se/var-politik/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "ekonomi-skatt",
+      "summary": "Driver sex timmars arbetsdag med bibehållen lön, med pilotförsök i kvinnodominerade sektorer som äldreomsorgen, och vill att kommunen som arbetsgivare ska föregå med gott exempel på jämställdhet.",
+      "details": null,
+      "sourceUrl": "https://lomma.vansterpartiet.se/var-politik/",
+      "lastUpdated": "2026-08-21"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+[
+  { "slug": "skola", "name": "Skola & utbildning", "sortOrder": 1 },
+  { "slug": "bostader", "name": "Bostäder", "sortOrder": 2 },
+  { "slug": "miljo-klimat", "name": "Miljö & klimat", "sortOrder": 3 },
+  { "slug": "trafik-infrastruktur", "name": "Trafik & infrastruktur", "sortOrder": 4 },
+  { "slug": "aldreomsorg", "name": "Äldreomsorg", "sortOrder": 5 },
+  { "slug": "ekonomi-skatt", "name": "Ekonomi & skatt", "sortOrder": 6 },
+  { "slug": "trygghet", "name": "Trygghet", "sortOrder": 7 }
+]

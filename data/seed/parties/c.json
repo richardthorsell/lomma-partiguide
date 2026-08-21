@@ -1,0 +1,39 @@
+{
+  "slug": "c",
+  "name": "Centerpartiet",
+  "shortName": "C",
+  "colorHex": "#009933",
+  "description": "Centerliberalt parti och del av den styrande Alliansen i Lomma. Lokal, detaljerad politisk plattform för 2026-2030 var inte tillgänglig i denna research-omgång — beskrivningen nedan speglar delvis partiets allmänna profil.",
+  "ideologyTags": ["Centerliberalism", "Decentralisering", "Center-höger"],
+  "websiteUrl": "https://www.centerpartiet.se/lokal/skane/lomma-bjarred/startsida",
+  "facebookUrl": null,
+  "isLocalParty": false,
+  "isCoalitionMember": true,
+  "contactEmail": null,
+  "contactPhone": null,
+  "sortOrder": 6,
+  "mandate2022": {
+    "seats": 2,
+    "voteCount": 619,
+    "voteSharePct": 3.76,
+    "sourceName": "SVT Nyheter Valresultat / Valmyndigheten",
+    "sourceUrl": "https://valresultat.svt.se/2022/kommunval-1262-lomma.html"
+  },
+  "people": [
+    {
+      "name": "Lars-Göran Svensson",
+      "role": "ORDFORANDE",
+      "isNotable": true,
+      "bio": "Ordförande för Centerpartiet Lomma/Bjärred."
+    }
+  ],
+  "policyPositions": [
+    {
+      "issueAreaSlug": "ekonomi-skatt",
+      "summary": "Sidan hänvisar till partiets 'Fokusområden 2026-2030', men den specifika sidan gick inte att nå i research-omgången — behöver verifieras och kompletteras med faktiska lokala ståndpunkter.",
+      "details": null,
+      "sourceUrl": "https://www.centerpartiet.se/lokal/skane/lomma-bjarred/startsida",
+      "lastUpdated": "2026-08-21"
+    }
+  ]
+}

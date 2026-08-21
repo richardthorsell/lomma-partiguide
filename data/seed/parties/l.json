@@ -1,0 +1,60 @@
+{
+  "slug": "l",
+  "name": "Liberalerna",
+  "shortName": "L",
+  "colorHex": "#006AB3",
+  "description": "Liberalt parti och del av den styrande Alliansen i Lomma. Profilerar sig särskilt på skola/mindre klasser och att göra Lomma till Sveriges bästa kommun för barnfamiljer.",
+  "ideologyTags": ["Liberalism", "Center-höger"],
+  "websiteUrl": "https://lomma.liberalerna.se/",
+  "facebookUrl": "https://www.facebook.com/lommaliberalerna/",
+  "isLocalParty": false,
+  "isCoalitionMember": true,
+  "contactEmail": null,
+  "contactPhone": null,
+  "sortOrder": 5,
+  "mandate2022": {
+    "seats": 3,
+    "voteCount": 1039,
+    "voteSharePct": 6.31,
+    "sourceName": "SVT Nyheter Valresultat / Valmyndigheten",
+    "sourceUrl": "https://valresultat.svt.se/2022/kommunval-1262-lomma.html"
+  },
+  "people": [
+    {
+      "name": "Sandra Pilemalm",
+      "role": "GRUPPLEDARE",
+      "isNotable": true,
+      "bio": "Gruppledare och ledamot i kommunstyrelsen och dess arbetsutskott."
+    }
+  ],
+  "policyPositions": [
+    {
+      "issueAreaSlug": "skola",
+      "summary": "Vill ha ett maxtak på 20 elever per klass och mindre barngrupper i förskolan i linje med nationella riktmärken, med individanpassat stöd för alla barn.",
+      "details": null,
+      "sourceUrl": "https://lomma.liberalerna.se/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "aldreomsorg",
+      "summary": "Vill förbättra kvaliteten i äldreomsorgen genom ökade resurser.",
+      "details": null,
+      "sourceUrl": "https://lomma.liberalerna.se/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "trafik-infrastruktur",
+      "summary": "Stödjer prisvärd kollektivtrafik, bland annat sänkta priser på månadskort för att göra vardagen mer tillgänglig.",
+      "details": null,
+      "sourceUrl": "https://lomma.liberalerna.se/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "ekonomi-skatt",
+      "summary": "Beskriver sig som ett borgerligt, självständigt parti med ansvarsfull ekonomisk politik som prioriterar välfärdens grunder.",
+      "details": null,
+      "sourceUrl": "https://lomma.liberalerna.se/",
+      "lastUpdated": "2026-08-21"
+    }
+  ]
+}

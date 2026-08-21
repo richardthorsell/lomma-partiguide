@@ -1,0 +1,39 @@
+{
+  "slug": "kd",
+  "name": "Kristdemokraterna",
+  "shortName": "KD",
+  "colorHex": "#000077",
+  "description": "Kristdemokratiskt parti, minsta parti med mandat i Lomma kommunfullmäktige, del av den styrande Alliansen. Lokal detaljerad politisk plattform var inte tillgänglig i denna research-omgång.",
+  "ideologyTags": ["Kristdemokrati", "Center-höger"],
+  "websiteUrl": "https://kristdemokraterna.se/vart-parti/foretradare/kd-lokalt/skane/lomma",
+  "facebookUrl": "https://www.facebook.com/kdlommabjarred/",
+  "isLocalParty": false,
+  "isCoalitionMember": true,
+  "contactEmail": "christer.philipson@kristdemokraterna.se",
+  "contactPhone": "070-829 49 29",
+  "sortOrder": 8,
+  "mandate2022": {
+    "seats": 1,
+    "voteCount": 447,
+    "voteSharePct": 2.72,
+    "sourceName": "SVT Nyheter Valresultat / Valmyndigheten",
+    "sourceUrl": "https://valresultat.svt.se/2022/kommunval-1262-lomma.html"
+  },
+  "people": [
+    {
+      "name": "Martin Uncyk",
+      "role": "LEDAMOT",
+      "isNotable": true,
+      "bio": "Kretsordförande samt ledamot i kommunfullmäktige."
+    },
+    {
+      "name": "Christer Philipson",
+      "role": "ERSATTARE",
+      "isNotable": true,
+      "bio": "1:e vice kretsordförande och ersättare i kommunfullmäktige.",
+      "contactEmail": "christer.philipson@kristdemokraterna.se",
+      "contactPhone": "070-829 49 29"
+    }
+  ],
+  "policyPositions": []
+}

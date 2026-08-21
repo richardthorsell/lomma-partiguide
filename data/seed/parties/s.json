@@ -1,0 +1,61 @@
+{
+  "slug": "s",
+  "name": "Arbetarepartiet Socialdemokraterna",
+  "shortName": "S",
+  "colorHex": "#ED1B34",
+  "description": "Största oppositionsparti i Lomma. Kritiserar den styrande Alliansens nedskärningar och profilerar sig på att värna skola, kultur/fritid och äldreomsorg.",
+  "ideologyTags": ["Socialdemokrati", "Center-vänster"],
+  "websiteUrl": "https://socialdemokraternalomma.se/",
+  "facebookUrl": "https://www.facebook.com/socialdemokraternalomma/",
+  "isLocalParty": false,
+  "isCoalitionMember": false,
+  "contactEmail": "lomma@socialdemokraterna.se",
+  "contactPhone": "073-341 11 56",
+  "sortOrder": 2,
+  "mandate2022": {
+    "seats": 8,
+    "voteCount": 3061,
+    "voteSharePct": 18.60,
+    "sourceName": "SVT Nyheter Valresultat / Valmyndigheten",
+    "sourceUrl": "https://valresultat.svt.se/2022/kommunval-1262-lomma.html"
+  },
+  "people": [
+    {
+      "name": "Per Bengtsson",
+      "role": "KOMMUNALRAD",
+      "isNotable": true,
+      "bio": "Oppositionsråd samt ordförande för arbetarekommunen i Lomma.",
+      "contactEmail": "lomma@socialdemokraterna.se",
+      "contactPhone": "073-341 11 56"
+    },
+    {
+      "name": "Rune Netterlid",
+      "role": "GRUPPLEDARE",
+      "isNotable": true,
+      "bio": "Gruppledare samt kommunfullmäktiges 2:e vice ordförande."
+    }
+  ],
+  "policyPositions": [
+    {
+      "issueAreaSlug": "skola",
+      "summary": "Motsätter sig skolnedläggningar och har reserverat sig mot beslut att lägga ner Löddesnässkolan och Strandskolan.",
+      "details": null,
+      "sourceUrl": "https://socialdemokraternalomma.se/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "aldreomsorg",
+      "summary": "Vill satsa mer resurser på äldreomsorgen; budgetförslag lyfter fram stora investeringar i skola, förskola och äldreomsorg.",
+      "details": null,
+      "sourceUrl": "https://socialdemokraternalomma.se/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "ekonomi-skatt",
+      "summary": "Ifrågasätter den styrande majoritetens åtstramningar och skattesänkningar, och kritiserar sammanslagningen av kultur- och fritidsnämnden med utbildningsnämnden.",
+      "details": null,
+      "sourceUrl": "https://socialdemokraternalomma.se/",
+      "lastUpdated": "2026-08-21"
+    }
+  ]
+}

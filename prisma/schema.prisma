@@ -1,0 +1,169 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum PersonRole {
+  ORDFORANDE
+  KOMMUNALRAD
+  GRUPPLEDARE
+  LEDAMOT
+  ERSATTARE
+}
+
+enum SocialPlatform {
+  FACEBOOK
+  INSTAGRAM
+  X
+}
+
+enum Sentiment {
+  POSITIVE
+  NEUTRAL
+  NEGATIVE
+}
+
+model Party {
+  id               String   @id @default(cuid())
+  slug             String   @unique
+  name             String
+  shortName        String
+  colorHex         String
+  logoUrl          String?
+  description      String
+  ideologyTags     String[]
+  websiteUrl       String?
+  facebookUrl      String?
+  instagramUrl     String?
+  isLocalParty     Boolean  @default(false)
+  isCoalitionMember Boolean @default(false)
+  contactEmail     String?
+  contactPhone     String?
+  sortOrder        Int      @default(0)
+
+  people           Person[]
+  mandates         Mandate[]
+  policyPositions  PolicyPosition[]
+  newsItems        NewsItemParty[]
+  socialPosts      SocialPost[]
+
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+}
+
+model Person {
+  id        String     @id @default(cuid())
+  partyId   String
+  party     Party      @relation(fields: [partyId], references: [id], onDelete: Cascade)
+  name      String
+  role      PersonRole
+  photoUrl  String?
+  bio       String?
+  contactEmail String?
+  contactPhone String?
+  isNotable Boolean    @default(false)
+
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+}
+
+model ElectionPeriod {
+  id        String     @id @default(cuid())
+  year      Int        @unique
+  termStart DateTime
+  termEnd   DateTime
+  totalSeats Int
+
+  mandates  Mandate[]
+
+  createdAt DateTime   @default(now())
+}
+
+model Mandate {
+  id               String         @id @default(cuid())
+  partyId          String
+  party            Party          @relation(fields: [partyId], references: [id], onDelete: Cascade)
+  electionPeriodId String
+  electionPeriod   ElectionPeriod @relation(fields: [electionPeriodId], references: [id], onDelete: Cascade)
+  seats            Int
+  voteCount        Int?
+  voteSharePct     Decimal?       @db.Decimal(5, 2)
+  sourceName       String
+  sourceUrl        String
+
+  createdAt        DateTime       @default(now())
+
+  @@unique([partyId, electionPeriodId])
+}
+
+model IssueArea {
+  id          String   @id @default(cuid())
+  slug        String   @unique
+  name        String
+  description String?
+  sortOrder   Int      @default(0)
+
+  policyPositions PolicyPosition[]
+
+  createdAt   DateTime @default(now())
+}
+
+model PolicyPosition {
+  id          String    @id @default(cuid())
+  partyId     String
+  party       Party     @relation(fields: [partyId], references: [id], onDelete: Cascade)
+  issueAreaId String
+  issueArea   IssueArea @relation(fields: [issueAreaId], references: [id], onDelete: Cascade)
+  summary     String
+  details     String?
+  sourceUrl   String?
+  lastUpdated DateTime
+
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+
+  @@unique([partyId, issueAreaId])
+}
+
+model NewsItem {
+  id          String          @id @default(cuid())
+  title       String
+  url         String          @unique
+  sourceName  String
+  publishedAt DateTime
+  summary     String
+  sentiment   Sentiment?
+
+  parties     NewsItemParty[]
+
+  createdAt   DateTime        @default(now())
+}
+
+model NewsItemParty {
+  newsItemId String
+  newsItem   NewsItem @relation(fields: [newsItemId], references: [id], onDelete: Cascade)
+  partyId    String
+  party      Party    @relation(fields: [partyId], references: [id], onDelete: Cascade)
+
+  @@id([newsItemId, partyId])
+}
+
+model SocialPost {
+  id              String         @id @default(cuid())
+  partyId         String
+  party           Party          @relation(fields: [partyId], references: [id], onDelete: Cascade)
+  platform        SocialPlatform
+  postUrl         String         @unique
+  publishedAt     DateTime
+  contentExcerpt  String
+  likeCount       Int?
+  commentCount    Int?
+  shareCount      Int?
+  capturedAt      DateTime       @default(now())
+
+  createdAt       DateTime       @default(now())
+}

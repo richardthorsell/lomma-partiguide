@@ -1,0 +1,39 @@
+{
+  "slug": "sd",
+  "name": "Sverigedemokraterna",
+  "shortName": "SD",
+  "colorHex": "#DDDD00",
+  "description": "Nationalkonservativt parti, femte största parti i Lomma kommunfullmäktige. Lokala sidan har begränsat publicerat material utöver den nationella partilinjen kring trygghet, migration och välfärd.",
+  "ideologyTags": ["Nationalkonservatism", "Höger"],
+  "websiteUrl": "https://www.sd.se/lomma/",
+  "facebookUrl": "https://www.facebook.com/sdlomma/",
+  "isLocalParty": false,
+  "isCoalitionMember": false,
+  "contactEmail": null,
+  "contactPhone": null,
+  "sortOrder": 4,
+  "mandate2022": {
+    "seats": 5,
+    "voteCount": 1660,
+    "voteSharePct": 10.08,
+    "sourceName": "SVT Nyheter Valresultat / Valmyndigheten",
+    "sourceUrl": "https://valresultat.svt.se/2022/kommunval-1262-lomma.html"
+  },
+  "people": [],
+  "policyPositions": [
+    {
+      "issueAreaSlug": "trygghet",
+      "summary": "Vill skydda mot organiserad brottslighet, människohandel och terrorism, med strängare straff och skydd för laglydiga medborgare.",
+      "details": null,
+      "sourceUrl": "https://www.sd.se/lomma/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "ekonomi-skatt",
+      "summary": "Vill kraftigt sänka drivmedelspriser och stärka en fungerande välfärd tillgänglig oavsett ekonomiska förutsättningar, med kortare vårdköer och tryggare pensioner.",
+      "details": "Sidan noterar själv att den saknar detaljerade lokala positioner om skola, bostäder, miljö och trafik för Lomma specifikt — innehållet ovan speglar i huvudsak nationell partilinje.",
+      "sourceUrl": "https://www.sd.se/lomma/",
+      "lastUpdated": "2026-08-21"
+    }
+  ]
+}

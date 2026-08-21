@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Politikerna i Lomma går emot resultatet av folkomröstningen – skola och kommunhus ska byggas",
+    "url": "https://www.svt.se/nyheter/lokalt/skane/politikerna-i-lomma-gar-emot-resultatet-av-folkomrostningen-skola-och-kommunhus-ska-byggas",
+    "sourceName": "SVT Nyheter Skåne",
+    "publishedAt": "2024-08-30",
+    "summary": "Trots ett nej i juniomröstningen bland Lommaborna beslutade kommunfullmäktige att gå vidare med att bygga en ny gymnasieskola och kommunhus. Alliansen (M, L, C, KD) stödjer att fortsätta projektet i sin helhet, medan oppositionen (S, Fokus Bjärred, MP, SD) är överens om kommunhuset men motsätter sig att en gymnasieskola ingår.",
+    "sentiment": "NEUTRAL",
+    "partySlugs": ["m", "l", "c", "kd", "s", "fokus-bjarred", "mp", "sd"]
+  },
+  {
+    "title": "Stäng inte fler skolor!",
+    "url": "https://socialdemokraternalomma.se/?p=606",
+    "sourceName": "Socialdemokraterna i Lomma",
+    "publishedAt": "2025-05-21",
+    "summary": "Socialdemokraterna i Lomma kritiserar barn- och utbildningsnämndens förslag att stänga Löddesnässkolan och Strandskolan, och argumenterar att skolstängningar leder till större klasser. Partiet vill istället se mindre klasser och fler lärare.",
+    "sentiment": "NEGATIVE",
+    "partySlugs": ["s"]
+  },
+  {
+    "title": "Beslut om ny organisation i grundskolan",
+    "url": "https://lomma.se/nyhetsarkiv/nyheter/beslutomnyorganisationigrundskolan.3999.html",
+    "sourceName": "Lomma kommun",
+    "publishedAt": "2025-10-16",
+    "summary": "Kommunfullmäktige beslutade om en ny organisation för grundskolan som innebär att Löddesnässkolan i norra kommundelen och Strandskolan i södra kommundelen stängs inför höstterminen 2026, till följd av minskande elevunderlag.",
+    "sentiment": "NEUTRAL",
+    "partySlugs": ["m", "l", "c", "kd", "s"]
+  },
+  {
+    "title": "Beslutat i kommunfullmäktige den 12 mars",
+    "url": "https://lomma.se/nyhetsarkiv/nyheter/beslutatikommunfullmaktigeden12mars.4488.html",
+    "sourceName": "Lomma kommun",
+    "publishedAt": "2026-03-12",
+    "summary": "Kommunfullmäktige antog ett uppdaterat Naturmiljöprogram för perioden 2026–2032, godkände en ny måltidspolicy för kommunens verksamheter, och ställde sig positiv till att bidra till finansieringen av Sysavs koldioxidinfångningsprojekt SkyZero.",
+    "sentiment": "NEUTRAL",
+    "partySlugs": []
+  }
+]
