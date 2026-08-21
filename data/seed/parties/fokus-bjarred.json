@@ -3,13 +3,13 @@
   "name": "Fokus Bjärred",
   "shortName": "FBj",
   "colorHex": "#7A5C99",
-  "description": "Blockoberoende lokalparti, aktivt enbart i Lomma kommun. Startades inför valet 2018 med ambitionen att förändra det politiska klimatet i kommunen. Vill inte bindas av traditionell blockpolitik utan menar att beslut ska fattas utifrån vad som är bäst för Lomma kommun, inte utifrån ideologi bestämd på riksnivå.",
+  "description": "Blockoberoende lokalparti, aktivt enbart i Lomma kommun. Startades inför valet 2018 med ambitionen att förändra det politiska klimatet i kommunen. Vill inte bindas av traditionell blockpolitik utan menar att beslut ska fattas utifrån vad som är bäst för Lomma kommun, och profilerar sig på sunt förnuft och medkänsla snarare än ideologi.",
   "ideologyTags": ["Blockoberoende", "Lokalt fokus"],
-  "websiteUrl": "https://www.fokusbjarred.se/",
+  "websiteUrl": "https://fokuspartiet.se/",
   "facebookUrl": "https://www.facebook.com/fokusbjarred/",
   "isLocalParty": true,
   "isCoalitionMember": false,
-  "contactEmail": null,
+  "contactEmail": "info@fokuspartiet.se",
   "contactPhone": null,
   "sortOrder": 3,
   "mandate2022": {
@@ -22,9 +22,30 @@
   "people": [],
   "policyPositions": [
     {
+      "issueAreaSlug": "skola",
+      "summary": "Vill ha mindre klasser för bästa möjliga förutsättningar för barns lärande, och motsatte sig stängningen av Strandskolan och Löddesnässkolan eftersom man menar att små barn ska gå i skola nära hemmet.",
+      "details": null,
+      "sourceUrl": "https://fokuspartiet.se/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "aldreomsorg",
+      "summary": "Vill att äldre ska kunna åldras med värdighet och få individanpassat stöd. Lyfter att kommunens hemtjänst rankats mycket lågt (plats 280 av 285 kommuner) och att detta måste förbättras.",
+      "details": null,
+      "sourceUrl": "https://fokuspartiet.se/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "bostader",
+      "summary": "Vill se en försiktig, harmonisk utbyggnad som värnar natur- och kulturvärden. Motsätter sig bland annat planerna för Bjärreds Vångar, särskilt höga parkeringshus (17 meter) och 43 stora flerbostadshus (18 meter).",
+      "details": null,
+      "sourceUrl": "https://fokuspartiet.se/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
       "issueAreaSlug": "ekonomi-skatt",
       "summary": "Vill ha en öppen, transparent och demokratisk dialog med kort avstånd mellan medborgare och politiker, och att kommunens bästa ska stå över den egna ideologin i enskilda sakfrågor.",
-      "details": "Partiets specifika ståndpunkter i enskilda sakfrågor (skola, bostäder, miljö osv.) har inte kunnat verifieras mot en fullständig lokal valplattform i denna första research-omgång — behöver kompletteras.",
+      "details": null,
       "sourceUrl": null,
       "lastUpdated": "2026-08-21"
     }
