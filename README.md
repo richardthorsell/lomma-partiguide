@@ -95,10 +95,13 @@ Detta är den primära källan för riktig röstningsdata (`hur man röstat i ol
 nyhetssammanfattningar.
 
 **Alla 39 kommunfullmäktigeprotokoll från 2022-01-27 till 2026-06-17 är nedladdade** i
-`data/sources/protokoll-kf/` (både originalPDF och en textkonverterad `.txt`-version per möte). Elva av
-dem har lästs i sin helhet och gett upphov till konkreta poster i `data/seed/news.json` med exakta
+`data/sources/protokoll-kf/` (både originalPDF och en textkonverterad `.txt`-version per möte). Tretton
+av dem har lästs i sin helhet och gett upphov till konkreta poster i `data/seed/news.json` med exakta
 röstsiffror:
 
+- 2023-09-28 (§ 94) &mdash; detaljplanen för gymnasieskola/kommunhus antogs, 24&ndash;20. Sandra Pilemalm
+  (L) yrkade själv bifall tillsammans med M, C och KD &mdash; ett halvår innan hon för första gången bröt
+  sig loss från Alliansen i skolfrågan
 - 2024-03-14 (§ 32&ndash;35) &mdash; kommunfullmäktige röstade om att *tillåta* de två
   folkinitiativ-omröstningarna. M, C och KD (och till en början L) röstade för att blockera båda, men fick
   bara enkel majoritet (24&ndash;20 respektive 22&ndash;23) mot den kvalificerade två tredjedels majoritet
@@ -121,6 +124,10 @@ röstsiffror:
   (22&ndash;10) ett förslag om att själv skärpa anmärkningen ytterligare
 - 2025-08-28 (§ 53) &mdash; bekräftar samma 23&ndash;22-mönster redan vid minoritetsåterremissen som
   föregick 2025-10-16-beslutet
+- 2025-01-30 &mdash; köpet och nybygget av Piläng-hallen godkändes (29&ndash;5&ndash;11 och 27&ndash;14 i
+  två delvoteringar) genom ett gemensamt yrkande av Wenglén (M), Bengtsson (S) och Ahlström (M) &mdash;
+  ett tidigt exempel på att M och S börjat samarbeta efter L:s uppbrott, med L, Fokus Bjärred och MP som
+  gemensam opposition
 
 **Öppen research-tråd:** Liberalernas reservation i 2026-05-07-mötet nämner en grupp kallad "Den
 alternativa moderata listan" i kommunfullmäktige, vars ledamöter offentligt sagt sig vilja stoppa
@@ -134,7 +141,7 @@ måltidspolicyn och SkyZero-finansieringen; Bjärreds vångar-besluten gick igen
 2022-11-10 (första mötet i innevarande mandatperiod &mdash; endast rutinärenden: nedläggning av en
 "fritidsbank", uppdaterade arvodesregler och 2023 års budget med en skattesats på 19,64 kr).
 
-De resterande ~28 protokollen är nedladdade men olästa. Vill du gräva djupare: läs `.txt`-filerna
+De resterande ~26 protokollen är nedladdade men olästa. Vill du gräva djupare: läs `.txt`-filerna
 direkt (snabbare än att öppna PDF:er), sök efter `Votering`/`Voteringsprotokoll`/`reserverar sig` för att
 hitta kontroversiella ärenden, och för in fynden i `data/seed/news.json` eller relevant partis
 `policyPositions` &mdash; för hand, som med all annan data i det här projektet. Fler protokoll (t.ex. 2027
@@ -149,7 +156,7 @@ och framåt) hämtas genom att navigera arkivet ovan och ladda ner på samma sä
 - **Facebook-inlägg saknas.** `SocialPost`-modellen och `data/seed/social.json` finns förberedda, men inga
   poster har seedats ännu &mdash; exakta publiceringsdatum och engagemangssiffror gick inte att verifiera
   tillförlitligt via sökning i denna omgång och kräver manuell insamling (inloggad i Facebook).
-- **~28 av 39 nedladdade protokoll är olästa.** Elva möten (se ovan) är lästa i sin helhet med exakta
+- **~26 av 39 nedladdade protokoll är olästa.** Tretton möten (se ovan) är lästa i sin helhet med exakta
   röstsiffror inarbetade. Övriga nyhetsposter i `data/seed/news.json` bygger fortfarande på kommunens
   egna nyhetssammanfattningar, inte originalprotokoll.
 - **"Den alternativa moderata listan" är oidentifierad.** Nämns i en reservation 2026-05-07 men gick

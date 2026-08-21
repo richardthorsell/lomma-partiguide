@@ -105,5 +105,25 @@
     "summary": "Kommunfullmäktige antog ett uppdaterat Naturmiljöprogram för perioden 2026–2032, godkände en ny måltidspolicy för kommunens verksamheter, och ställde sig positiv till att bidra till finansieringen av Sysavs koldioxidinfångningsprojekt SkyZero.",
     "sentiment": "NEUTRAL",
     "partySlugs": []
+  },
+  {
+    "title": "Detaljplanen för gymnasieskola/kommunhus antas – ett år före folkomröstningen",
+    "url": "https://docs.netpublicator.com/api/public/r01696490/document/5f9f70e946c0018ed4d2-e8f9-4832-b908-0fed1ab6639f?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-c072d3fd91109030704",
+    "sourceName": "Lomma kommun, sammanträdesprotokoll KF 2023-09-28 (§ 94)",
+    "publishedAt": "2023-09-28",
+    "summary": "Kommunfullmäktige antog detaljplanen för Lomma 34:1 (gymnasieskola/kommunhus) med 24 röster mot 20. Robert Wenglén (M), Jerry Ahlström (M), Sandra Pilemalm (L), Lars-Göran Svensson (C) och Martin Uncyk (KD) yrkade bifall; Per Bengtsson (S), Jenny Morau (Fokus Bjärred), Natalia Engstedt (SD), Ingrid Ascard (MP), Oscar Sedira (SD) och Fredrik Sverkersten (Fokus Bjärred) yrkade avslag men förlorade voteringen.",
+    "details": "Det här beslutet, ett helt år före både folkomröstningen (2024-06-09) och de omtvistade omröstningarna i kommunfullmäktige om att tillåta den (2024-03-14), är den formella markanvändningsgrund som gjorde bygget juridiskt möjligt. Alliansen (M, L, C, KD) stod fortfarande enad här — L:s Sandra Pilemalm yrkade själv bifall tillsammans med M, C och KD, ett helt halvår innan hon för första gången bröt sig loss från Alliansen i skolfrågan (2024-03-14).",
+    "sentiment": "NEUTRAL",
+    "partySlugs": ["m", "l", "c", "kd", "s", "fokus-bjarred", "sd", "mp"]
+  },
+  {
+    "title": "Nytt mönster efter L:s uppbrott: Moderaterna och Socialdemokraterna går ihop om Piläng-hallen",
+    "url": "https://docs.netpublicator.com/api/public/r01696490/document/ef18da57aacd26439eed-8396-4eb2-9f4c-080cc7c5232e?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-b3ba9a7542f17824009",
+    "sourceName": "Lomma kommun, sammanträdesprotokoll KF 2025-01-30",
+    "publishedAt": "2025-01-30",
+    "summary": "Kommunfullmäktige beslutade att köpa mark och riva/nybygga idrottshallen vid Pilängskolan (Blå hallen), finansierat genom ökad upplåning. Robert Wenglén (M), Per Bengtsson (S) och Jerry Ahlström (M) lade ett gemensamt yrkande som röstades igenom i två delvoteringar, 29–5 (11 avstod) respektive 27–14 (4 avstod). Sandra Pilemalm (L), Jenny Morau (Fokus Bjärred) och Ingrid Ascard (MP) yrkade gemensamt avslag och förlorade; Liberalerna och Fokus Bjärred reserverade sig skriftligt, liksom Miljöpartiet. Sverigedemokraterna reserverade sig till förmån för ett eget yrkande.",
+    "details": "Det här är ett tydligt exempel på den nya politiska kartan efter att L lämnade det styrande blocket: M och S går här samman i en gemensam majoritet kring en investeringsfråga, medan L, Fokus Bjärred och MP bildar en ny oppositionsallians mot dem. Mönstret bekräftar att blockpolitiken i Lomma har blivit mer flytande sedan skolresurskonflikten 2024.",
+    "sentiment": "NEUTRAL",
+    "partySlugs": ["m", "s", "l", "fokus-bjarred", "mp", "sd"]
   }
 ]
