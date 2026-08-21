@@ -72,6 +72,32 @@ npm run fetch:sources
 **Actions** på GitHub (`workflow_dispatch`) &mdash; den kör scriptet i molnet och committar resultatet i
 `data/sources/` automatiskt.
 
+## Protokollarkiv (kommunfullmäktige m.fl.)
+
+Lomma kommuns egen sida ["Kallelser, handlingar och protokoll"](https://lomma.se/kommunochpolitik/politikochdemokrati/kallelserhandlingarochprotokoll.1338.html)
+ser tom ut vid en vanlig sidhämtning &mdash; hela dokumentarkivet ligger inbäddat i en `<iframe>` till en
+tredjepartstjänst, **NetPublicator**, som inte syns om man bara hämtar/parsar sidans HTML eller
+tillgänglighetsträd. Den riktiga arkiv-URL:en är:
+
+```
+https://www.netpublicator.com/reader/r01696490
+```
+
+Där finns mappar per organ (Kommunfullmäktige, Kommunstyrelsen, Barn- och utbildningsnämnden,
+Kultur- och fritidsnämnden, Samhällsbyggnadsnämnden, Socialnämnden, Författningssamling, Protokoll -
+Kommunala råd) och under varje mapp en lista av sammanträdesdatum 2022&ndash;2026, som i sin tur länkar
+till kallelser och fullständiga protokoll (inklusive bilagda voteringsprotokoll och skriftliga
+reservationer) som PDF:er via `docs.netpublicator.com` &mdash; helt utan inloggning. Miljö- och
+byggnadsnämnden är undantaget: den kanalen anger istället att handlingar begärs ut via
+miljo-byggnadsnamnd@lomma.se.
+
+Detta är den primära källan för riktig röstningsdata (`hur man röstat i olika frågor`), inte bara
+nyhetssammanfattningar. Ett fullständigt exempel finns redan inarbetat: kommunfullmäktiges möte
+2025-10-16 (§ 76&ndash;77) om att stänga Strandskolan och Löddesnässkolan, med exakta röstsiffror
+(23&ndash;22 i båda ärendena) och namngivna voteringslistor, se `data/seed/news.json`. Vill du gräva
+djupare i fler ärenden: gå till arkivet ovan, hitta rätt möte, ladda ner "Protokoll ... med bilagor" och
+läs in det &mdash; för hand, som med all annan data i det här projektet.
+
 ## Kända begränsningar i v1
 
 - **Ingen automatisk ingestion till databasen.** Allt som visas i appen är hand-kuraterat i `data/seed/`.
@@ -81,14 +107,11 @@ npm run fetch:sources
 - **Facebook-inlägg saknas.** `SocialPost`-modellen och `data/seed/social.json` finns förberedda, men inga
   poster har seedats ännu &mdash; exakta publiceringsdatum och engagemangssiffror gick inte att verifiera
   tillförlitligt via sökning i denna omgång och kräver manuell insamling (inloggad i Facebook).
-- **Inga enskilda omröstningsresultat.** `/namnder` visar vem som sitter var, men inte hur enskilda
-  ledamöter röstat i specifika ärenden. Lomma kommun publicerar **inte** protokoll öppet på webben (bekräftat
-  via kommunens egen diarium-sida) &mdash; handlingar måste begäras ut manuellt via kontaktcenter
-  (info@lomma.se, 040-641 10 00). Vissa beslut finns istället sammanfattade som nyhetsartiklar
-  ("Beslutat i kommunfullmäktige den ...") i `data/seed/news.json`, och enstaka protokollsutdrag som
-  användaren själv haft tillgång till (t.ex. KSAU § 225/2025-10-08 om skolstängningarna) har använts för att
-  berika enskilda nyhetsposters `details`-fält med vilka som yrkade vad. Vill du gräva djupare i specifika
-  ärenden behöver fler protokollsutdrag begäras ut från kommunen och delas in i researchen för hand.
-- **En person utan parti.** En ledamot (Gun Larsson) sitter som politiskt oberoende i flera organ efter att
-  ha lämnat sitt ursprungliga parti; hon har ingen egen partisida men syns i `/namnder`-listorna som
-  "Oberoende".
+- **Bara ett fullständigt genomläst protokoll hittills.** Protokollarkivet (se ovan) är stort &mdash; bara
+  ett möte (2025-10-16) är hittills läst i sin helhet och inarbetat med exakta röstsiffror. Övriga
+  nyhetsposter i `data/seed/news.json` bygger fortfarande på kommunens nyhetssammanfattningar, inte
+  originalprotokoll.
+- **En person utan parti.** En ledamot (Gun Larsson) sitter som politiskt oberoende i flera organ, utan
+  partibeteckning i kommunens förtroendemannaregister. Hon har ingen egen partisida men syns i
+  `/namnder`-listorna som "Oberoende" &mdash; och har visat sig ha en de facto vågmästarroll i minst två
+  hårt omstridda voteringar (se ovan).

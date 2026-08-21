@@ -13,7 +13,7 @@
     "url": "https://lomma.se/kommun-och-politik/politik-och-demokrati/kommunal-folkomrostning/resultat-folkomrostning-2024.html",
     "sourceName": "Lomma kommun / Liberalerna Lomma-Bjärred",
     "publishedAt": "2024-09-01",
-    "summary": "Efter 2024 års kommunala folkomröstning om förskoleklasserna, där 5 172 Lommabor röstade för att avsätta resurser så att alla skolor kunde fortsätta ta emot förskoleklasser, ville Liberalerna höja skolpengen i linje med resultatet. M, Centerpartiet och Kristdemokraterna gick inte med på det, och Liberalerna lämnade det styrande blocket. Kvar styr M, C och KD som minoritet med 22 av 45 mandat.",
+    "summary": "Efter 2024 års kommunala folkomröstning om förskoleklasserna, där 5 172 Lommabor röstade för att avsätta resurser så att alla skolor kunde fortsätta ta emot förskoleklasser, ville Liberalerna höja skolpengen i linje med resultatet. M, Centerpartiet och Kristdemokraterna gick inte med på det, och Liberalerna lämnade det styrande blocket. Kvar styr M, C och KD med 22 av 45 mandat — en formell minoritet som i praktiken beror på stöd från den partipolitiskt oberoende ledamoten Gun Larsson för att nå en majoritet på 23 röster i kontroversiella voteringar (se t.ex. beslutet om skolstängningarna 2025-10-16).",
     "sentiment": "NEUTRAL",
     "partySlugs": ["l", "m", "c", "kd"]
   },
@@ -37,14 +37,14 @@
     "partySlugs": ["s"]
   },
   {
-    "title": "Beslut om ny organisation i grundskolan",
-    "url": "https://lomma.se/nyhetsarkiv/nyheter/beslutomnyorganisationigrundskolan.3999.html",
-    "sourceName": "Lomma kommun",
+    "title": "Kommunfullmäktige röstar 23–22 för att stänga Strandskolan och Löddesnässkolan",
+    "url": "https://docs.netpublicator.com/api/public/r01696490/document/2b867a94e4651853cfa9-7854-4f82-9bf3-f4e717c4e16b?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-a3c5cf4f3d9c8744720",
+    "sourceName": "Lomma kommun, sammanträdesprotokoll KF 2025-10-16 (§ 76–77)",
     "publishedAt": "2025-10-16",
-    "summary": "Kommunfullmäktige beslutade om en ny organisation för grundskolan som innebär att Löddesnässkolan i norra kommundelen och Strandskolan i södra kommundelen stängs inför höstterminen 2026, till följd av minskande elevunderlag.",
-    "details": "Enligt kommunstyrelsens arbetsutskotts protokoll (KSAU § 225, 2025-10-08) yrkade Robert Wenglén (M) bifall till att stänga Strandskolan enligt utredningens alternativ C. Per Bengtsson (S) och den dåvarande Liberalen Sandra Pilemalm yrkade gemensamt avslag och ville i stället genomföra alternativ B, som innebär att samtliga skolor i södra kommundelen får vara kvar. Ordförandens (M:s) förslag vann, och båda reserverade sig skriftligt mot beslutet.",
+    "summary": "Efter nästan fyra timmars sammanträde och två skarpa voteringar beslutade kommunfullmäktige att stänga Strandskolan (södra kommundelen) och Löddesnässkolan (norra kommundelen) till hösten 2026, i linje med barn- och utbildningsnämndens utredningsalternativ C. Båda besluten togs med minsta möjliga marginal: 23 röster mot 22.",
+    "details": "Fredrik Karström (M) yrkade bifall till stängningarna; oppositionen (S, L, MP, SD, Fokus Bjärred) förde fram flera alternativa förslag (B, D och E) som alla innebar att skolorna fick vara kvar, samt yrkanden om att bordlägga båda ärendena till efter valet 2026. Voteringen om att avgöra ärendena samma dag (istället för att bordlägga) vanns med 23 mot 22 röster, och slutomröstningarna om själva stängningarna vanns med exakt samma siffror: 23–22 i båda ärendena. Enligt de bifogade voteringsprotokollen röstade samtliga 19 M-ledamöter, båda C-ledamöterna, KD:s ledamot samt den partipolitiskt oberoende Gun Larsson för stängning — det är just Gun Larssons röst som ger M+C+KD (22 mandat) en majoritet på exakt 23 av 45. Hela oppositionen (S, L, MP, SD, Fokus Bjärred) röstade emot i båda ärendena. Samtliga oppositionspartier reserverade sig skriftligt mot besluten.",
     "sentiment": "NEUTRAL",
-    "partySlugs": ["m", "c", "kd", "s", "fokus-bjarred", "l"]
+    "partySlugs": ["m", "c", "kd", "s", "fokus-bjarred", "l", "mp", "sd"]
   },
   {
     "title": "Beslutat i kommunfullmäktige den 12 mars",
