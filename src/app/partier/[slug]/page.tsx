@@ -3,6 +3,7 @@ import Link from "next/link";
 import { ExternalLink, Scale } from "lucide-react";
 import { getPartyFacts } from "@/lib/queries/parties";
 import { getCommitteeMembershipsForParty } from "@/lib/queries/committees";
+import { getPledgesForParty } from "@/lib/queries/pledges";
 import { IssuePositionBlock } from "@/components/IssuePositionBlock";
 import { NewsCard } from "@/components/NewsCard";
 
@@ -28,6 +29,7 @@ export default async function PartyDetailPage({ params }: { params: { slug: stri
   if (!party) notFound();
 
   const committeeMemberships = await getCommitteeMembershipsForParty(params.slug);
+  const pledges2022 = await getPledgesForParty(params.slug);
   const currentMandate = party.mandates[0];
 
   return (
@@ -170,6 +172,34 @@ export default async function PartyDetailPage({ params }: { params: { slug: stri
                 details={position.details}
                 sourceUrl={position.sourceUrl}
               />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {pledges2022.length > 0 && (
+        <section>
+          <div className="mb-4 flex items-baseline justify-between gap-2">
+            <h2 className="text-lg font-semibold tracking-tight">Valplattform 2022</h2>
+            <Link href="/valkompass-2022" className="text-xs text-muted-light hover:underline dark:text-muted-dark">
+              Jämför alla partier
+            </Link>
+          </div>
+          <p className="mb-3 text-xs text-muted-light dark:text-muted-dark">
+            Partiets svar i SVT:s lokala Valkompass inför valet 2022 &mdash; visar vad partiet gick till val på,
+            inte nödvändigtvis dagens politik.
+          </p>
+          <div className="card divide-y divide-border-light dark:divide-border-dark">
+            {pledges2022.map((pledge) => (
+              <div key={pledge.id} className="p-4">
+                <div className="text-xs font-semibold uppercase tracking-wide text-muted-light dark:text-muted-dark">
+                  {pledge.topic}
+                </div>
+                <p className="mt-1 text-sm font-medium">{pledge.position}</p>
+                {pledge.motivation && (
+                  <p className="mt-1 text-sm text-muted-light dark:text-muted-dark">{pledge.motivation}</p>
+                )}
+              </div>
             ))}
           </div>
         </section>

@@ -86,6 +86,20 @@ const policyPositionSchema = z.object({
   lastUpdated: z.string(),
 });
 
+const electionPledgeItemSchema = z.object({
+  topicSlug: z.string(),
+  topic: z.string(),
+  position: z.string(),
+  motivation: z.string().nullable().optional(),
+  sortOrder: z.number().int(),
+});
+
+const electionPledgeGroupSchema = z.object({
+  partySlug: z.string(),
+  sourceUrl: z.string(),
+  pledges: z.array(electionPledgeItemSchema),
+});
+
 const partySchema = z.object({
   slug: z.string(),
   name: z.string(),
@@ -343,6 +357,45 @@ async function main() {
         where: { committeeId_personId: { committeeId: committeeRow.id, personId } },
         update: { role: membership.role, orderIndex: index },
         create: { committeeId: committeeRow.id, personId, role: membership.role, orderIndex: index },
+      });
+    }
+  }
+
+  console.log("Seeding 2022 election pledges...");
+  const pledgeGroups = readJson<unknown[]>("election-pledges-2022.json").map((g) =>
+    electionPledgeGroupSchema.parse(g)
+  );
+  const pledgeElectionPeriodId = electionPeriodIdByYear.get(2022);
+  if (!pledgeElectionPeriodId) throw new Error("Missing 2022 election period for pledges");
+  for (const group of pledgeGroups) {
+    const partyId = partyIdBySlug.get(group.partySlug);
+    if (!partyId) throw new Error(`Unknown partySlug "${group.partySlug}" referenced by election pledges`);
+    for (const pledge of group.pledges) {
+      await prisma.electionPledge.upsert({
+        where: {
+          partyId_electionPeriodId_topicSlug: {
+            partyId,
+            electionPeriodId: pledgeElectionPeriodId,
+            topicSlug: pledge.topicSlug,
+          },
+        },
+        update: {
+          topic: pledge.topic,
+          position: pledge.position,
+          motivation: pledge.motivation ?? null,
+          sortOrder: pledge.sortOrder,
+          sourceUrl: group.sourceUrl,
+        },
+        create: {
+          partyId,
+          electionPeriodId: pledgeElectionPeriodId,
+          topicSlug: pledge.topicSlug,
+          topic: pledge.topic,
+          position: pledge.position,
+          motivation: pledge.motivation ?? null,
+          sortOrder: pledge.sortOrder,
+          sourceUrl: group.sourceUrl,
+        },
       });
     }
   }

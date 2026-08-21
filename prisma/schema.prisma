@@ -59,6 +59,7 @@ model Party {
   policyPositions  PolicyPosition[]
   newsItems        NewsItemParty[]
   socialPosts      SocialPost[]
+  electionPledges  ElectionPledge[]
 
   createdAt        DateTime @default(now())
   updatedAt        DateTime @updatedAt
@@ -116,8 +117,27 @@ model ElectionPeriod {
   totalSeats Int
 
   mandates  Mandate[]
+  electionPledges ElectionPledge[]
 
   createdAt DateTime   @default(now())
+}
+
+model ElectionPledge {
+  id               String         @id @default(cuid())
+  partyId          String
+  party            Party          @relation(fields: [partyId], references: [id], onDelete: Cascade)
+  electionPeriodId String
+  electionPeriod   ElectionPeriod @relation(fields: [electionPeriodId], references: [id], onDelete: Cascade)
+  topicSlug        String
+  topic            String
+  position         String
+  motivation       String?
+  sortOrder        Int            @default(0)
+  sourceUrl        String
+
+  createdAt        DateTime       @default(now())
+
+  @@unique([partyId, electionPeriodId, topicSlug])
 }
 
 model Mandate {

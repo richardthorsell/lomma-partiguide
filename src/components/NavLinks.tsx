@@ -9,6 +9,7 @@ const NAV_LINKS = [
   { href: "/jamfor", label: "Jämför" },
   { href: "/sakfragor", label: "Sakfrågor" },
   { href: "/namnder", label: "Nämnder" },
+  { href: "/valkompass-2022", label: "Valkompass 2022" },
   { href: "/nyheter", label: "Nyheter" },
   { href: "/om", label: "Om" },
 ];
