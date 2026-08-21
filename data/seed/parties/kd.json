@@ -3,9 +3,9 @@
   "name": "Kristdemokraterna",
   "shortName": "KD",
   "colorHex": "#000077",
-  "description": "Kristdemokratiskt parti, minsta parti med mandat i Lomma kommunfullmäktige. Del av det styrande blocket tillsammans med M och C, som sedan september 2024 styr som minoritet efter att Liberalerna lämnade. Lokal detaljerad politisk plattform var inte tillgänglig i denna research-omgång.",
+  "description": "Kristdemokratiskt parti, minsta parti med mandat i Lomma kommunfullmäktige. Del av det styrande blocket tillsammans med M och C, som sedan september 2024 styr som minoritet efter att Liberalerna lämnade. Profilerar sig på familjecentrerad skolpolitik, värdig äldreomsorg och sänkt kommunalskatt.",
   "ideologyTags": ["Kristdemokrati", "Center-höger"],
-  "websiteUrl": "https://kristdemokraterna.se/vart-parti/foretradare/kd-lokalt/skane/lomma",
+  "websiteUrl": "https://wp.kristdemokraterna.se/lomma/",
   "facebookUrl": "https://www.facebook.com/kdlommabjarred/",
   "isLocalParty": false,
   "isCoalitionMember": true,
@@ -35,5 +35,34 @@
       "contactPhone": "070-829 49 29"
     }
   ],
-  "policyPositions": []
+  "policyPositions": [
+    {
+      "issueAreaSlug": "skola",
+      "summary": "Vill se en skola bland Sveriges tio bästa, med familjecentrerad utbildning som ett prioriterat område.",
+      "details": null,
+      "sourceUrl": "https://wp.kristdemokraterna.se/lomma/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "bostader",
+      "summary": "Vill dämpa byggtakten i kommunen medan pågående projekt färdigställs, snarare än att starta nya storskaliga exploateringar.",
+      "details": null,
+      "sourceUrl": "https://wp.kristdemokraterna.se/lomma/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "aldreomsorg",
+      "summary": "Vill bygga ett nytt äldreboende centralt i Bjärred med ett 'allt under ett tak'-koncept, för värdig omsorg och samlad service för äldre.",
+      "details": null,
+      "sourceUrl": "https://wp.kristdemokraterna.se/lomma/",
+      "lastUpdated": "2026-08-21"
+    },
+    {
+      "issueAreaSlug": "ekonomi-skatt",
+      "summary": "Vill sänka den kommunala skatten med 40 öre per invånare, kombinerat med strikt uppföljning och effektiviseringar i kommunens förvaltningar. Vill även utveckla ett 'Alnarp Science Village' och vara välkomnande mot befintliga och nya företag.",
+      "details": null,
+      "sourceUrl": "https://wp.kristdemokraterna.se/lomma/",
+      "lastUpdated": "2026-08-21"
+    }
+  ]
 }
