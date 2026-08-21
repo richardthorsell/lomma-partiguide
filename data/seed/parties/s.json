@@ -19,22 +19,6 @@
     "sourceName": "SVT Nyheter Valresultat / Valmyndigheten",
     "sourceUrl": "https://valresultat.svt.se/2022/kommunval-1262-lomma.html"
   },
-  "people": [
-    {
-      "name": "Per Bengtsson",
-      "role": "KOMMUNALRAD",
-      "isNotable": true,
-      "bio": "Oppositionsråd samt ordförande för arbetarekommunen i Lomma.",
-      "contactEmail": "lomma@socialdemokraterna.se",
-      "contactPhone": "073-341 11 56"
-    },
-    {
-      "name": "Rune Netterlid",
-      "role": "GRUPPLEDARE",
-      "isNotable": true,
-      "bio": "Gruppledare samt kommunfullmäktiges 2:e vice ordförande."
-    }
-  ],
   "policyPositions": [
     {
       "issueAreaSlug": "skola",

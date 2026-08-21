@@ -19,20 +19,6 @@
     "sourceName": "SVT Nyheter Valresultat / Valmyndigheten",
     "sourceUrl": "https://valresultat.svt.se/2022/kommunval-1262-lomma.html"
   },
-  "people": [
-    {
-      "name": "Robert Wenglén",
-      "role": "KOMMUNALRAD",
-      "isNotable": true,
-      "bio": "Kommunstyrelsens ordförande i Lomma kommun."
-    },
-    {
-      "name": "Elin Helmander",
-      "role": "ORDFORANDE",
-      "isNotable": true,
-      "bio": "Ordförande för Moderaterna i Lomma."
-    }
-  ],
   "policyPositions": [
     {
       "issueAreaSlug": "skola",

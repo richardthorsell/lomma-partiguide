@@ -19,14 +19,6 @@
     "sourceName": "SVT Nyheter Valresultat / Valmyndigheten",
     "sourceUrl": "https://valresultat.svt.se/2022/kommunval-1262-lomma.html"
   },
-  "people": [
-    {
-      "name": "Lars-Göran Svensson",
-      "role": "ORDFORANDE",
-      "isNotable": true,
-      "bio": "Ordförande för Centerpartiet Lomma/Bjärred."
-    }
-  ],
   "policyPositions": [
     {
       "issueAreaSlug": "skola",

@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function OmPage() {
   return (
     <div className="flex flex-col gap-4">
@@ -12,6 +14,16 @@ export default function OmPage() {
           Lomma kommuns officiella sida för mandatfördelning, med Valmyndigheten som ursprunglig källa.
           Partiernas beskrivningar, sakfrågepositioner och nyheter är manuellt sammanställda från respektive
           partis egna webbplatser och lokala nyhetskällor under augusti 2026.
+        </p>
+        <p>
+          Uppgifter om vilka som sitter i kommunfullmäktige, kommunstyrelsen och kommunens nämnder är hämtade
+          direkt från kommunens officiella förtroendemannaregister (Troman) och visas under{" "}
+          <Link href="/namnder" className="underline">
+            Nämnder
+          </Link>
+          . Vi visar däremot inte enskilda omröstningsresultat (hur varje ledamot röstat i specifika ärenden)
+          &mdash; den informationen finns bara i kommunfullmäktiges protokoll som PDF-dokument per möte, och
+          är inte systematiskt sammanställd här ännu.
         </p>
         <p>
           Underlaget är ofullständigt för vissa partier &mdash; där lokal information saknades är det tydligt

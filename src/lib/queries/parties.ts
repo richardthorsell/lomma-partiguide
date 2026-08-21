@@ -19,7 +19,7 @@ export async function getPartyFacts(slug: string) {
     where: { slug },
     include: {
       mandates: { include: { electionPeriod: true }, orderBy: { electionPeriod: { year: "desc" } } },
-      people: { orderBy: { isNotable: "desc" } },
+      people: { where: { isNotable: true } },
       policyPositions: { include: { issueArea: true }, orderBy: { issueArea: { sortOrder: "asc" } } },
       newsItems: { include: { newsItem: true }, orderBy: { newsItem: { publishedAt: "desc" } }, take: 5 },
       socialPosts: { orderBy: { publishedAt: "desc" }, take: 5 },

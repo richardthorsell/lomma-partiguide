@@ -8,6 +8,7 @@ const NAV_LINKS = [
   { href: "/partier", label: "Partier" },
   { href: "/jamfor", label: "Jämför" },
   { href: "/sakfragor", label: "Sakfrågor" },
+  { href: "/namnder", label: "Nämnder" },
   { href: "/nyheter", label: "Nyheter" },
   { href: "/om", label: "Om" },
 ];

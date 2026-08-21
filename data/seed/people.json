@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "robert-wenglen",
+    "name": "Robert Wenglén",
+    "partySlug": "m",
+    "role": "KOMMUNALRAD",
+    "isNotable": true,
+    "bio": "Kommunstyrelsens ordförande i Lomma kommun."
+  },
+  {
+    "slug": "elin-helmander",
+    "name": "Elin Helmander",
+    "partySlug": "m",
+    "role": "ORDFORANDE",
+    "isNotable": true,
+    "bio": "Ordförande för Moderaterna i Lomma (partiföreningen)."
+  },
+  {
+    "slug": "per-bengtsson",
+    "name": "Per Bengtsson",
+    "partySlug": "s",
+    "role": "KOMMUNALRAD",
+    "isNotable": true,
+    "bio": "Oppositionsråd samt ordförande för arbetarekommunen i Lomma.",
+    "contactEmail": "lomma@socialdemokraterna.se",
+    "contactPhone": "073-341 11 56"
+  },
+  {
+    "slug": "rune-netterlid",
+    "name": "Rune Netterlid",
+    "partySlug": "s",
+    "role": "GRUPPLEDARE",
+    "isNotable": true,
+    "bio": "Gruppledare samt kommunfullmäktiges 2:e vice ordförande."
+  },
+  {
+    "slug": "sandra-pilemalm",
+    "name": "Sandra Pilemalm",
+    "partySlug": "fokus-bjarred",
+    "role": "LEDAMOT",
+    "isNotable": true,
+    "bio": "Ledamot i kommunstyrelsen och dess arbetsutskott för Fokus Bjärred. (Rättelse: tidigare felaktigt kopplad till Liberalerna i denna tjänst utifrån en sökträff — kommunens officiella förtroendemannaregister listar henne under Fokus.)"
+  },
+  {
+    "slug": "lars-goran-svensson",
+    "name": "Lars-Göran Svensson",
+    "partySlug": "c",
+    "role": "ORDFORANDE",
+    "isNotable": true,
+    "bio": "Ordförande för Centerpartiet Lomma/Bjärred (partiföreningen) och ledamot i kommunfullmäktige."
+  },
+  {
+    "slug": "martin-uncyk",
+    "name": "Martin Uncyk",
+    "partySlug": "kd",
+    "role": "ORDFORANDE",
+    "isNotable": true,
+    "bio": "Kretsordförande för Kristdemokraterna Lomma samt ledamot i kommunfullmäktige."
+  },
+  {
+    "slug": "christer-philipson",
+    "name": "Christer Philipson",
+    "partySlug": "kd",
+    "role": "ERSATTARE",
+    "isNotable": true,
+    "bio": "1:e vice kretsordförande, ledamot i socialnämnden och ersättare i kommunfullmäktige.",
+    "contactEmail": "christer.philipson@kristdemokraterna.se",
+    "contactPhone": "070-829 49 29"
+  },
+  {
+    "slug": "michelle-vithal-bergstrom",
+    "name": "Michelle Vithal Bergström",
+    "partySlug": "kd",
+    "role": "ERSATTARE",
+    "isNotable": false,
+    "bio": null
+  },
+  {
+    "slug": "ingrid-alberts-ascard",
+    "name": "Ingrid Alberts Ascard",
+    "partySlug": "mp",
+    "role": "ORDFORANDE",
+    "isNotable": true,
+    "bio": "Ordförande för Miljöpartiet de gröna Lomma/Kävlinge, ledamot i kommunfullmäktige samt ersättare i kommunstyrelsen."
+  },
+  {
+    "slug": "viveka-berger-palsson",
+    "name": "Viveka Berger Pålsson",
+    "partySlug": "mp",
+    "role": "LEDAMOT",
+    "isNotable": false,
+    "bio": null
+  },
+  {
+    "slug": "gun-larsson",
+    "name": "Gun Larsson",
+    "partySlug": null,
+    "role": "LEDAMOT",
+    "isNotable": true,
+    "bio": "Sitter som politiskt oberoende (vildmandat) i kommunfullmäktige. Valdes ursprungligen in för Liberalerna 2022, men står i kommunens förtroendemannaregister numera utan partibeteckning."
+  }
+]

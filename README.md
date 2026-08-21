@@ -43,6 +43,11 @@ Allt innehåll (partier, sakfrågor, nyheter) ligger i `data/seed/` som JSON-fil
 - `data/seed/election-periods.json` &mdash; valperioder
 - `data/seed/news.json` &mdash; nyhetsartiklar, kopplade till partier via `partySlugs`
 - `data/seed/social.json` &mdash; Facebook-inlägg (tomt i v1, se nedan)
+- `data/seed/people.json` &mdash; namnkunniga företrädare med bio/kontaktuppgifter (visas på partisidorna).
+  Övriga förtroendevalda skapas automatiskt utifrån `committees.json` och behöver inte läggas till här.
+- `data/seed/committees.json` &mdash; kommunfullmäktige, kommunstyrelsen, kommunstyrelsens arbetsutskott och
+  kommunens sex nämnder, med fullständig sammansättning (namn, parti, roll) hämtad från kommunens officiella
+  förtroendemannaregister (`lomma.tromanpublik.se`). Driver `/namnder`-sidorna.
 
 ## Hämta mer källmaterial
 
@@ -71,8 +76,9 @@ npm run fetch:sources
 - **Facebook-inlägg saknas.** `SocialPost`-modellen och `data/seed/social.json` finns förberedda, men inga
   poster har seedats ännu &mdash; exakta publiceringsdatum och engagemangssiffror gick inte att verifiera
   tillförlitligt via sökning i denna omgång och kräver manuell insamling (inloggad i Facebook).
-- **Ofullständiga sakfrågor för vissa partier.** Fokus Bjärred, Centerpartiet och Kristdemokraterna hade
-  begränsat tillgängligt lokalt källmaterial vid research-tillfället; detta är flaggat direkt i respektive
-  partis JSON-fil (`details`-fältet) och bör kompletteras.
-- **Ingen produktionsdeploy.** Appen är byggd för att kunna deployas till t.ex. Vercel, men själva
-  Vercel-uppsättningen (projekt, env-variabler, domän) är inte gjord.
+- **Inga enskilda omröstningsresultat.** `/namnder` visar vem som sitter var, men inte hur enskilda
+  ledamöter röstat i specifika ärenden &mdash; den informationen finns bara i kommunfullmäktiges protokoll
+  som PDF:er per möte och är inte systematiskt sammanställd här ännu.
+- **En person utan parti.** En ledamot (Gun Larsson) sitter som politiskt oberoende i flera organ efter att
+  ha lämnat sitt ursprungliga parti; hon har ingen egen partisida men syns i `/namnder`-listorna som
+  "Oberoende".

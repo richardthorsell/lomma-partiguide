@@ -26,15 +26,57 @@ const issueAreaSchema = z.object({
   sortOrder: z.number().int(),
 });
 
+const personRoleEnum = z.enum(["ORDFORANDE", "KOMMUNALRAD", "GRUPPLEDARE", "LEDAMOT", "ERSATTARE"]);
+const committeeRoleEnum = z.enum([
+  "ORDFORANDE",
+  "FORSTE_VICE_ORDFORANDE",
+  "ANDRE_VICE_ORDFORANDE",
+  "LEDAMOT",
+  "ERSATTARE",
+  "ADJUNGERAD",
+]);
+
 const personSchema = z.object({
+  slug: z.string(),
   name: z.string(),
-  role: z.enum(["ORDFORANDE", "KOMMUNALRAD", "GRUPPLEDARE", "LEDAMOT", "ERSATTARE"]),
+  partySlug: z.string().nullable().optional(),
+  role: personRoleEnum,
   photoUrl: z.string().nullable().optional(),
   bio: z.string().nullable().optional(),
   contactEmail: z.string().nullable().optional(),
   contactPhone: z.string().nullable().optional(),
   isNotable: z.boolean().optional(),
 });
+
+const committeeMembershipSchema = z.object({
+  name: z.string(),
+  partySlug: z.string().nullable().optional(),
+  role: committeeRoleEnum,
+});
+
+const committeeSchema = z.object({
+  slug: z.string(),
+  name: z.string(),
+  sortOrder: z.number().int(),
+  sourceUrl: z.string().optional(),
+  memberships: z.array(committeeMembershipSchema),
+});
+
+function slugifyName(name: string): string {
+  const accents: Record<string, string> = {
+    å: "a", ä: "a", ö: "o", é: "e", è: "e", ü: "u", ø: "o", ñ: "n",
+    Å: "a", Ä: "a", Ö: "o", É: "e", È: "e", Ü: "u", Ø: "o", Ñ: "n",
+  };
+  return name
+    .split("")
+    .map((ch) => accents[ch] ?? ch)
+    .join("")
+    .normalize("NFD")
+    .replace(new RegExp("[" + String.fromCharCode(0x0300) + "-" + String.fromCharCode(0x036f) + "]", "g"), "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/(^-|-$)/g, "");
+}
 
 const policyPositionSchema = z.object({
   issueAreaSlug: z.string(),
@@ -67,7 +109,6 @@ const partySchema = z.object({
     sourceName: z.string(),
     sourceUrl: z.string(),
   }),
-  people: z.array(personSchema),
   policyPositions: z.array(policyPositionSchema),
 });
 
@@ -203,23 +244,6 @@ async function main() {
       },
     });
 
-    // Replace people wholesale for this party (simplest idempotent approach for v1)
-    await prisma.person.deleteMany({ where: { partyId: partyRow.id } });
-    if (party.people.length > 0) {
-      await prisma.person.createMany({
-        data: party.people.map((p) => ({
-          partyId: partyRow.id,
-          name: p.name,
-          role: p.role,
-          photoUrl: p.photoUrl ?? null,
-          bio: p.bio ?? null,
-          contactEmail: p.contactEmail ?? null,
-          contactPhone: p.contactPhone ?? null,
-          isNotable: p.isNotable ?? false,
-        })),
-      });
-    }
-
     for (const position of party.policyPositions) {
       const issueAreaId = issueAreaIdBySlug.get(position.issueAreaSlug);
       if (!issueAreaId) {
@@ -245,6 +269,79 @@ async function main() {
           sourceUrl: position.sourceUrl ?? null,
           lastUpdated: new Date(position.lastUpdated),
         },
+      });
+    }
+  }
+
+  console.log("Seeding people...");
+  const personIdByName = new Map<string, string>();
+  const people = readJson<unknown[]>("people.json").map((p) => personSchema.parse(p));
+  for (const person of people) {
+    const partyId = person.partySlug ? partyIdBySlug.get(person.partySlug) ?? null : null;
+    if (person.partySlug && !partyId) {
+      throw new Error(`Unknown partySlug "${person.partySlug}" referenced by person "${person.name}"`);
+    }
+    const row = await prisma.person.upsert({
+      where: { slug: person.slug },
+      update: {
+        partyId,
+        name: person.name,
+        role: person.role,
+        photoUrl: person.photoUrl ?? null,
+        bio: person.bio ?? null,
+        contactEmail: person.contactEmail ?? null,
+        contactPhone: person.contactPhone ?? null,
+        isNotable: person.isNotable ?? false,
+      },
+      create: {
+        slug: person.slug,
+        partyId,
+        name: person.name,
+        role: person.role,
+        photoUrl: person.photoUrl ?? null,
+        bio: person.bio ?? null,
+        contactEmail: person.contactEmail ?? null,
+        contactPhone: person.contactPhone ?? null,
+        isNotable: person.isNotable ?? false,
+      },
+    });
+    personIdByName.set(person.name, row.id);
+  }
+
+  console.log("Seeding committees...");
+  const committees = readJson<unknown[]>("committees.json").map((c) => committeeSchema.parse(c));
+  for (const committee of committees) {
+    const committeeRow = await prisma.committee.upsert({
+      where: { slug: committee.slug },
+      update: { name: committee.name, sortOrder: committee.sortOrder },
+      create: { slug: committee.slug, name: committee.name, sortOrder: committee.sortOrder },
+    });
+
+    for (const [index, membership] of committee.memberships.entries()) {
+      let personId = personIdByName.get(membership.name);
+      if (!personId) {
+        // Not already curated in people.json — auto-create a minimal record from the roster data.
+        const partyId = membership.partySlug ? partyIdBySlug.get(membership.partySlug) ?? null : null;
+        if (membership.partySlug && !partyId) {
+          throw new Error(
+            `Unknown partySlug "${membership.partySlug}" referenced by committee membership "${membership.name}" in "${committee.slug}"`
+          );
+        }
+        const defaultRole = membership.role === "ERSATTARE" ? "ERSATTARE" : "LEDAMOT";
+        const slug = slugifyName(membership.name);
+        const row = await prisma.person.upsert({
+          where: { slug },
+          update: { partyId },
+          create: { slug, partyId, name: membership.name, role: defaultRole, isNotable: false },
+        });
+        personId = row.id;
+        personIdByName.set(membership.name, personId);
+      }
+
+      await prisma.committeeMembership.upsert({
+        where: { committeeId_personId: { committeeId: committeeRow.id, personId } },
+        update: { role: membership.role, orderIndex: index },
+        create: { committeeId: committeeRow.id, personId, role: membership.role, orderIndex: index },
       });
     }
   }

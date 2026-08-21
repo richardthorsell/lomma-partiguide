@@ -15,6 +15,15 @@ enum PersonRole {
   ERSATTARE
 }
 
+enum CommitteeRole {
+  ORDFORANDE
+  FORSTE_VICE_ORDFORANDE
+  ANDRE_VICE_ORDFORANDE
+  LEDAMOT
+  ERSATTARE
+  ADJUNGERAD
+}
+
 enum SocialPlatform {
   FACEBOOK
   INSTAGRAM
@@ -57,8 +66,9 @@ model Party {
 
 model Person {
   id        String     @id @default(cuid())
-  partyId   String
-  party     Party      @relation(fields: [partyId], references: [id], onDelete: Cascade)
+  slug      String     @unique
+  partyId   String?
+  party     Party?     @relation(fields: [partyId], references: [id], onDelete: SetNull)
   name      String
   role      PersonRole
   photoUrl  String?
@@ -67,8 +77,35 @@ model Person {
   contactPhone String?
   isNotable Boolean    @default(false)
 
+  committeeMemberships CommitteeMembership[]
+
   createdAt DateTime   @default(now())
   updatedAt DateTime   @updatedAt
+}
+
+model Committee {
+  id        String   @id @default(cuid())
+  slug      String   @unique
+  name      String
+  sortOrder Int      @default(0)
+
+  memberships CommitteeMembership[]
+
+  createdAt DateTime @default(now())
+}
+
+model CommitteeMembership {
+  id          String        @id @default(cuid())
+  committeeId String
+  committee   Committee     @relation(fields: [committeeId], references: [id], onDelete: Cascade)
+  personId    String
+  person      Person        @relation(fields: [personId], references: [id], onDelete: Cascade)
+  role        CommitteeRole
+  orderIndex  Int           @default(0)
+
+  createdAt   DateTime      @default(now())
+
+  @@unique([committeeId, personId])
 }
 
 model ElectionPeriod {

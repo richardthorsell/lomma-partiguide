@@ -19,19 +19,11 @@
     "sourceName": "SVT Nyheter Valresultat / Valmyndigheten",
     "sourceUrl": "https://valresultat.svt.se/2022/kommunval-1262-lomma.html"
   },
-  "people": [
-    {
-      "name": "Sandra Pilemalm",
-      "role": "GRUPPLEDARE",
-      "isNotable": true,
-      "bio": "Gruppledare och ledamot i kommunstyrelsen och dess arbetsutskott."
-    }
-  ],
   "policyPositions": [
     {
       "issueAreaSlug": "skola",
-      "summary": "Vill ha ett maxtak på 20 elever per klass och mindre barngrupper i förskolan i linje med nationella riktmärken, med individanpassat stöd för alla barn.",
-      "details": null,
+      "summary": "Vill ha ett maxtak på 20 elever per klass och mindre barngrupper i förskolan i linje med nationella riktmärken, med individanpassat stöd för alla barn. Lämnade den styrande majoriteten i september 2024 efter att M, C och KD inte gick med på att höja skolpengen i linje med utfallet i 2024 års kommunala folkomröstning om förskoleklasserna.",
+      "details": "Vid folkomröstningen röstade 5 172 Lommabor för att kommunen skulle avsätta resurser så att samtliga dåvarande skolor kunde fortsätta ta emot förskoleklasser. Liberalerna hade i förväg lovat att följa utfallet om valdeltagandet översteg 50 procent.",
       "sourceUrl": "https://lomma.liberalerna.se/",
       "lastUpdated": "2026-08-21"
     },
@@ -53,13 +45,6 @@
       "issueAreaSlug": "ekonomi-skatt",
       "summary": "Beskriver sig som ett borgerligt, självständigt parti med ansvarsfull ekonomisk politik som prioriterar välfärdens grunder.",
       "details": null,
-      "sourceUrl": "https://lomma.liberalerna.se/",
-      "lastUpdated": "2026-08-21"
-    },
-    {
-      "issueAreaSlug": "skola",
-      "summary": "Lämnade den styrande majoriteten i september 2024 efter att M, C och KD inte gick med på att höja skolpengen och skjuta till mer resurser så att alla skolor kunde fortsätta ta emot förskoleklasser, trots utfallet i 2024 års kommunala folkomröstning om förskoleklasserna.",
-      "details": "Vid folkomröstningen röstade 5 172 Lommabor för att kommunen skulle avsätta resurser så att samtliga dåvarande skolor kunde fortsätta ta emot förskoleklasser. Liberalerna hade i förväg lovat att följa utfallet om valdeltagandet översteg 50 procent.",
       "sourceUrl": "https://lomma.liberalerna.se/",
       "lastUpdated": "2026-08-21"
     }

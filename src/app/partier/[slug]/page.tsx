@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { ExternalLink, Scale } from "lucide-react";
 import { getPartyFacts } from "@/lib/queries/parties";
+import { getCommitteeMembershipsForParty } from "@/lib/queries/committees";
 import { IssuePositionBlock } from "@/components/IssuePositionBlock";
 import { NewsCard } from "@/components/NewsCard";
 
@@ -13,10 +14,20 @@ const ROLE_LABEL: Record<string, string> = {
   ERSATTARE: "Ersättare",
 };
 
+const COMMITTEE_ROLE_LABEL: Record<string, string> = {
+  ORDFORANDE: "Ordförande",
+  FORSTE_VICE_ORDFORANDE: "1:e vice ordförande",
+  ANDRE_VICE_ORDFORANDE: "2:e vice ordförande",
+  LEDAMOT: "Ledamot",
+  ERSATTARE: "Ersättare",
+  ADJUNGERAD: "Adjungerad",
+};
+
 export default async function PartyDetailPage({ params }: { params: { slug: string } }) {
   const party = await getPartyFacts(params.slug);
   if (!party) notFound();
 
+  const committeeMemberships = await getCommitteeMembershipsForParty(params.slug);
   const currentMandate = party.mandates[0];
 
   return (
@@ -118,6 +129,31 @@ export default async function PartyDetailPage({ params }: { params: { slug: stri
                 {person.bio && <p className="mt-1.5 text-sm text-muted-light dark:text-muted-dark">{person.bio}</p>}
               </div>
             ))}
+          </div>
+        </section>
+      )}
+
+      {committeeMemberships.length > 0 && (
+        <section>
+          <h2 className="mb-4 text-lg font-semibold tracking-tight">Nämnduppdrag</h2>
+          <div className="card overflow-x-auto">
+            <table className="w-full min-w-[480px] border-collapse text-sm">
+              <tbody>
+                {committeeMemberships.map((m) => (
+                  <tr key={m.id} className="border-b border-border-light last:border-0 dark:border-border-dark">
+                    <td className="p-3">
+                      <Link href={`/namnder/${m.committee.slug}`} className="font-medium hover:underline">
+                        {m.committee.name}
+                      </Link>
+                    </td>
+                    <td className="p-3 text-muted-light dark:text-muted-dark">{m.person.name}</td>
+                    <td className="p-3 text-right text-muted-light dark:text-muted-dark">
+                      {COMMITTEE_ROLE_LABEL[m.role]}
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
           </div>
         </section>
       )}
