@@ -82,8 +82,13 @@ npm run fetch:sources
   poster har seedats ännu &mdash; exakta publiceringsdatum och engagemangssiffror gick inte att verifiera
   tillförlitligt via sökning i denna omgång och kräver manuell insamling (inloggad i Facebook).
 - **Inga enskilda omröstningsresultat.** `/namnder` visar vem som sitter var, men inte hur enskilda
-  ledamöter röstat i specifika ärenden &mdash; den informationen finns bara i kommunfullmäktiges protokoll
-  som PDF:er per möte och är inte systematiskt sammanställd här ännu.
+  ledamöter röstat i specifika ärenden. Lomma kommun publicerar **inte** protokoll öppet på webben (bekräftat
+  via kommunens egen diarium-sida) &mdash; handlingar måste begäras ut manuellt via kontaktcenter
+  (info@lomma.se, 040-641 10 00). Vissa beslut finns istället sammanfattade som nyhetsartiklar
+  ("Beslutat i kommunfullmäktige den ...") i `data/seed/news.json`, och enstaka protokollsutdrag som
+  användaren själv haft tillgång till (t.ex. KSAU § 225/2025-10-08 om skolstängningarna) har använts för att
+  berika enskilda nyhetsposters `details`-fält med vilka som yrkade vad. Vill du gräva djupare i specifika
+  ärenden behöver fler protokollsutdrag begäras ut från kommunen och delas in i researchen för hand.
 - **En person utan parti.** En ledamot (Gun Larsson) sitter som politiskt oberoende i flera organ efter att
   ha lämnat sitt ursprungliga parti; hon har ingen egen partisida men syns i `/namnder`-listorna som
   "Oberoende".

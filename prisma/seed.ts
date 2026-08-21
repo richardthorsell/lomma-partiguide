@@ -118,6 +118,7 @@ const newsItemSchema = z.object({
   sourceName: z.string(),
   publishedAt: z.string(),
   summary: z.string(),
+  details: z.string().nullable().optional(),
   sentiment: z.enum(["POSITIVE", "NEUTRAL", "NEGATIVE"]).nullable().optional(),
   partySlugs: z.array(z.string()),
 });
@@ -356,6 +357,7 @@ async function main() {
         sourceName: item.sourceName,
         publishedAt: new Date(item.publishedAt),
         summary: item.summary,
+        details: item.details ?? null,
         sentiment: item.sentiment ?? null,
       },
       create: {
@@ -364,6 +366,7 @@ async function main() {
         sourceName: item.sourceName,
         publishedAt: new Date(item.publishedAt),
         summary: item.summary,
+        details: item.details ?? null,
         sentiment: item.sentiment ?? null,
       },
     });

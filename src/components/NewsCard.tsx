@@ -4,6 +4,7 @@ type NewsCardProps = {
   sourceName: string;
   publishedAt: Date;
   summary: string;
+  details?: string | null;
   sentiment?: "POSITIVE" | "NEUTRAL" | "NEGATIVE" | null;
   parties: { slug: string; shortName: string; colorHex: string }[];
 };
@@ -20,7 +21,16 @@ const SENTIMENT_LABEL: Record<string, string> = {
   NEGATIVE: "Kritisk ton",
 };
 
-export function NewsCard({ title, url, sourceName, publishedAt, summary, sentiment, parties }: NewsCardProps) {
+export function NewsCard({
+  title,
+  url,
+  sourceName,
+  publishedAt,
+  summary,
+  details,
+  sentiment,
+  parties,
+}: NewsCardProps) {
   return (
     <article className="card p-5">
       <div className="mb-1.5 flex flex-wrap items-center gap-2 text-xs text-muted-light dark:text-muted-dark">
@@ -42,7 +52,12 @@ export function NewsCard({ title, url, sourceName, publishedAt, summary, sentime
           {title}
         </a>
       </h3>
-      <p className="mb-3 text-sm text-muted-light dark:text-muted-dark">{summary}</p>
+      <p className={`text-sm text-muted-light dark:text-muted-dark ${details ? "mb-1.5" : "mb-3"}`}>{summary}</p>
+      {details && (
+        <p className="mb-3 rounded-md bg-canvas-light p-3 text-xs leading-relaxed text-muted-light dark:bg-canvas-dark dark:text-muted-dark">
+          {details}
+        </p>
+      )}
       {parties.length > 0 && (
         <div className="flex flex-wrap gap-1.5">
           {parties.map((party) => (

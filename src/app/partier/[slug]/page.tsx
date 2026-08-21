@@ -187,6 +187,7 @@ export default async function PartyDetailPage({ params }: { params: { slug: stri
                 sourceName={newsItem.sourceName}
                 publishedAt={newsItem.publishedAt}
                 summary={newsItem.summary}
+                details={newsItem.details}
                 sentiment={newsItem.sentiment}
                 parties={[{ slug: party.slug, shortName: party.shortName, colorHex: party.colorHex }]}
               />

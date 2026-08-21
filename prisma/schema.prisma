@@ -173,6 +173,7 @@ model NewsItem {
   sourceName  String
   publishedAt DateTime
   summary     String
+  details     String?
   sentiment   Sentiment?
 
   parties     NewsItemParty[]

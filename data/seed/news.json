@@ -18,6 +18,16 @@
     "partySlugs": ["l", "m", "c", "kd"]
   },
   {
+    "title": "Kommunfullmäktige avslår SD:s motion om att avskaffa utskotten",
+    "url": "https://lomma.se/nyhetsarkiv/nyheter/beslutatikommunfullmaktigeden30januari.3516.html",
+    "sourceName": "Lomma kommun",
+    "publishedAt": "2025-01-30",
+    "summary": "Kommunfullmäktige köpte mark norr om Pilängsanläggningen (inklusive Blå hallen) för att möjliggöra en ny sporthall för skolor och föreningar, för 6,3 miljoner kronor plus rivnings- och planeringskostnader.",
+    "details": "Samma möte avslog kommunfullmäktige en motion från Sverigedemokraterna om att avskaffa kommunens beredande utskott (utom kommunstyrelsens arbetsutskott). SD argumenterade att utskottens sammansättning inte speglar valresultatet och att budgetpåverkande beslut fattas där. Förvaltningen påpekade att utskottens sammansättning regleras av lagen om proportionellt valsätt.",
+    "sentiment": "NEUTRAL",
+    "partySlugs": ["sd"]
+  },
+  {
     "title": "Stäng inte fler skolor!",
     "url": "https://socialdemokraternalomma.se/?p=606",
     "sourceName": "Socialdemokraterna i Lomma",
@@ -32,8 +42,9 @@
     "sourceName": "Lomma kommun",
     "publishedAt": "2025-10-16",
     "summary": "Kommunfullmäktige beslutade om en ny organisation för grundskolan som innebär att Löddesnässkolan i norra kommundelen och Strandskolan i södra kommundelen stängs inför höstterminen 2026, till följd av minskande elevunderlag.",
+    "details": "Enligt kommunstyrelsens arbetsutskotts protokoll (KSAU § 225, 2025-10-08) yrkade Robert Wenglén (M) bifall till att stänga Strandskolan enligt utredningens alternativ C. Per Bengtsson (S) och den dåvarande Liberalen Sandra Pilemalm yrkade gemensamt avslag och ville i stället genomföra alternativ B, som innebär att samtliga skolor i södra kommundelen får vara kvar. Ordförandens (M:s) förslag vann, och båda reserverade sig skriftligt mot beslutet.",
     "sentiment": "NEUTRAL",
-    "partySlugs": ["m", "c", "kd", "s", "fokus-bjarred"]
+    "partySlugs": ["m", "c", "kd", "s", "fokus-bjarred", "l"]
   },
   {
     "title": "Beslutat i kommunfullmäktige den 12 mars",

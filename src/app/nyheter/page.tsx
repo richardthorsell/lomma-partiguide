@@ -57,6 +57,7 @@ export default async function NyheterPage({ searchParams }: { searchParams: { pa
               sourceName={item.sourceName}
               publishedAt={item.publishedAt}
               summary={item.summary}
+              details={item.details}
               sentiment={item.sentiment}
               parties={item.parties.map(({ party }) => ({
                 slug: party.slug,
