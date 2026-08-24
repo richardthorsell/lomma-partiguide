@@ -186,22 +186,30 @@ begärs ut via miljo-byggnadsnamnd@lomma.se, inte publicerade här).
 
 | Nämnd | Protokoll hämtade | Kommentar |
 | --- | --- | --- |
-| Barn- och utbildningsnämnden (BUN) | 25 av 29 | 4 blockerade av nätverkets säkerhetsfilter (se nedan) |
-| Socialnämnden (SN) | 13 av 15 hittade | ~10 ytterligare möten 2023&ndash;2025 saknar publicerat protokoll (endast kallelse) |
+| Barn- och utbildningsnämnden (BUN) | 29 av 29 hittade | Alla ursprungligen "blockerade" dokument hämtades vid en andra försök &mdash; se nedan |
+| Socialnämnden (SN) | 15 av 15 hittade | ~10 ytterligare möten 2023&ndash;2025 saknar publicerat protokoll (endast kallelse) |
 | Kommunstyrelsen (KS) | 17 av 17 | Arkivet går bara tillbaka till 2025-01-22 &mdash; inga KS-protokoll för 2023&ndash;2024 hittades i den publika mappstrukturen |
-| Kultur- och fritidsnämnden (KFN) | 7 av 11 hittade | 4 blockerade av nätverkets säkerhetsfilter |
-| Samhällsbyggnadsnämnden (SBN) | 5 av 6 hittade | Nästan alla möten 2023 t.o.m. augusti 2025 saknar publicerat protokoll (endast kallelse) &mdash; protokoll börjar dyka upp först från 2025-09-01 |
+| Kultur- och fritidsnämnden (KFN) | 11 av 11 hittade | Alla ursprungligen "blockerade" dokument hämtades vid en andra försök &mdash; se nedan |
+| Samhällsbyggnadsnämnden (SBN) | 6 av 6 hittade | Nästan alla möten 2022 t.o.m. augusti 2025 saknar publicerat protokoll (endast kallelse) &mdash; protokoll börjar dyka upp först från 2025-09-01 |
 
 **En genomgående observation:** flera nämnder (särskilt Socialnämnden och
-Samhällsbyggnadsnämnden) publicerade under stora delar av 2023&ndash;2025 bara mötets kallelse
+Samhällsbyggnadsnämnden) publicerade under stora delar av 2022&ndash;2025 bara mötets kallelse
 (dagordning) till den här publika arkivtjänsten, inte det faktiska justerade protokollet med
 beslut/voteringar. Det är alltså en lucka i kommunens egen publicering, inte något vi kan hämta in i
 efterhand. Kommunstyrelsen och kommunfullmäktige verkar däremot ha publicerat protokoll
 konsekvent under hela perioden.
 
-**Nätverksblockering:** ett fåtal specifika dokument (4 i BUN, 4 i KFN, 1 i SBN, 2 i SN, alla från 2025&ndash;2026)
-gav ett `403 Forbidden` från nätverkets Zscaler-säkerhetsfilter vid nedladdning &mdash; bekräftat både via
-`curl` och direkt i webbläsaren, så det är inget fel i URL:erna. Dessa enskilda möten är inte lästa.
+**Kontrollerat specifikt för gamla mandatperioden (före 2023-01-01):** endast Samhällsbyggnadsnämnden
+har en publik 2022-mapp (11 möten, 2022-01-31&ndash;2022-12-12), och den innehåller liksom
+2023&ndash;2024 bara kallelser, inga protokoll. Barn- och utbildningsnämnden, Socialnämnden,
+Kommunstyrelsen och Kultur- och fritidsnämnden saknar helt en 2022-mapp i den publika
+arkivstrukturen &mdash; de fem nämndernas protokollarkiv börjar alla vid eller efter mandatperiodens
+start.
+
+**Om "nätverksblockeringen":** de dokument som tidigare gav `403 Forbidden` från Zscaler visade sig
+vara en tillfällig spärr, inte permanent &mdash; ett nytt nedladdningsförsök (med några sekunders
+mellanrum mellan varje anrop) fick igenom samtliga 11 tidigare blockerade dokument. Alla nämnders
+arkiv är därmed nu kompletta utifrån vad som faktiskt är publicerat.
 
 **Viktiga fynd från nämndprotokollen** (utöver det som redan fanns dokumenterat via
 kommunfullmäktige):
@@ -233,12 +241,13 @@ kommunfullmäktige):
   röstsiffror i `data/seed/news.json`. Merparten av de återstående mötena var rutinärenden (val av
   ledamöter, avsägelser, taxor) utan votering. Nya protokoll tillkommer varje kommunfullmäktigemöte
   &mdash; se `scripts/fetch-sources.ts` för hur arkivet hålls uppdaterat.
-- **Nämndprotokoll (BUN, SN, KS, KFN, SBN) är genomgångna för nuvarande mandatperiod**
-  (2026-08-24), se tabellen och fynden ovan. Täckningen är ojämnare än för kommunfullmäktige: dels
-  för att flera nämnder inte publicerade fullständiga protokoll (bara kallelser) under stora delar av
-  2023&ndash;2025, dels för att ett fåtal enskilda dokument blockerades av nätverkets säkerhetsfilter vid
-  nedladdning. Kommunstyrelsens protokoll före 2025-01-22 hittades inte i den publika arkivstrukturen
-  alls.
+- **Nämndprotokoll (BUN, SN, KS, KFN, SBN) är fullständigt genomgångna utifrån vad som är
+  publicerat** (2026-08-24, uppdaterat efter en andra nedladdningsrunda som fick igenom samtliga
+  tidigare "blockerade" dokument) &mdash; se tabellen och fynden ovan. Täckningen är ändå ojämnare än
+  för kommunfullmäktige, av skäl utanför vår kontroll: flera nämnder publicerade bara kallelser (inte
+  det faktiska protokollet) till den publika arkivtjänsten under stora delar av 2022&ndash;2025, och
+  Kommunstyrelsens protokollarkiv sträcker sig bara tillbaka till 2025-01-22 i den publika
+  mappstrukturen.
 - **"Den alternativa moderata listan" är oidentifierad.** Nämns i en reservation 2026-05-07 men gick
   inte att verifiera vad den är &mdash; se research-tråden ovan.
 - **En person utan parti.** En ledamot (Gun Larsson) sitter som politiskt oberoende i flera organ, utan
