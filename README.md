@@ -94,10 +94,11 @@ miljo-byggnadsnamnd@lomma.se.
 Detta är den primära källan för riktig röstningsdata (`hur man röstat i olika frågor`), inte bara
 nyhetssammanfattningar.
 
-**Alla 39 kommunfullmäktigeprotokoll från 2022-01-27 till 2026-06-17 är nedladdade** i
-`data/sources/protokoll-kf/` (både originalPDF och en textkonverterad `.txt`-version per möte). Tretton
-av dem har lästs i sin helhet och gett upphov till konkreta poster i `data/seed/news.json` med exakta
-röstsiffror:
+**Alla 40 kommunfullmäktigeprotokoll från 2022-01-27 till 2026-06-17 är nedladdade** i
+`data/sources/protokoll-kf/` (både originalPDF och en textkonverterad `.txt`-version per möte — 2025-10-16
+saknades ursprungligen i arkivet trots att den redan citerades som källa, upptäckt och åtgärdat vid en
+fact-check-genomgång). Fjorton av dem har lästs i sin helhet och gett upphov till konkreta poster i
+`data/seed/news.json` med exakta röstsiffror:
 
 - 2023-09-28 (§ 94) &mdash; detaljplanen för gymnasieskola/kommunhus antogs, 24&ndash;20. Sandra Pilemalm
   (L) yrkade själv bifall tillsammans med M, C och KD &mdash; ett halvår innan hon för första gången bröt
@@ -128,6 +129,11 @@ röstsiffror:
   två delvoteringar) genom ett gemensamt yrkande av Wenglén (M), Bengtsson (S) och Ahlström (M) &mdash;
   ett tidigt exempel på att M och S börjat samarbeta efter L:s uppbrott, med L, Fokus Bjärred och MP som
   gemensam opposition
+- 2024-10-24 (§ 121) &mdash; SD, Fokus Bjärred och Sandra Pilemalm (L) yrkade under budgetdebatten att
+  socialnämndens ordförande Susanne Borgelius (M) skulle avgå, med hänvisning till sex års
+  budgetöverskridanden i nämnden. Avslogs 32&ndash;12 (1 avstod) &mdash; ännu ett dokumenterat exempel
+  på att Pilemalm gick emot en M-ledd nämndsordförande redan hösten 2024, före både det formella
+  utträdet ur Alliansen och 2025 års revisionsanmärkning mot samma nämnd
 
 **Öppen research-tråd:** Liberalernas reservation i 2026-05-07-mötet nämner en grupp kallad "Den
 alternativa moderata listan" i kommunfullmäktige, vars ledamöter offentligt sagt sig vilja stoppa
@@ -137,11 +143,14 @@ här för framtida uppföljning snarare än att gissa.
 
 Ytterligare genomgångna möten utan egen nyhetspost: 2026-03-12 (SD reserverade sig mot
 måltidspolicyn och SkyZero-finansieringen; Bjärreds vångar-besluten gick igenom utan opposition),
-2025-09-25 (MP:s motion om trygghetsringning för äldre avslogs, se Miljöpartiets sakfrågor) och
+2025-09-25 (MP:s motion om trygghetsringning för äldre avslogs, se Miljöpartiets sakfrågor),
 2022-11-10 (första mötet i innevarande mandatperiod &mdash; endast rutinärenden: nedläggning av en
-"fritidsbank", uppdaterade arvodesregler och 2023 års budget med en skattesats på 19,64 kr).
+"fritidsbank", uppdaterade arvodesregler och 2023 års budget med en skattesats på 19,64 kr),
+2024-12-05 (Pilemalms återremissyrkande om grundskoleutredningen avslogs utan votering, hon
+reserverade sig), 2023-08-31 och 2024-04-18 (rutinmässiga oppositionsreservationer utan votering,
+inget utöver redan dokumenterade mönster).
 
-De resterande ~26 protokollen är nedladdade men olästa. Vill du gräva djupare: läs `.txt`-filerna
+De resterande ~20 protokollen är nedladdade men olästa. Vill du gräva djupare: läs `.txt`-filerna
 direkt (snabbare än att öppna PDF:er), sök efter `Votering`/`Voteringsprotokoll`/`reserverar sig` för att
 hitta kontroversiella ärenden, och för in fynden i `data/seed/news.json` eller relevant partis
 `policyPositions` &mdash; för hand, som med all annan data i det här projektet. Fler protokoll (t.ex. 2027
@@ -156,9 +165,10 @@ och framåt) hämtas genom att navigera arkivet ovan och ladda ner på samma sä
 - **Facebook-inlägg saknas.** `SocialPost`-modellen och `data/seed/social.json` finns förberedda, men inga
   poster har seedats ännu &mdash; exakta publiceringsdatum och engagemangssiffror gick inte att verifiera
   tillförlitligt via sökning i denna omgång och kräver manuell insamling (inloggad i Facebook).
-- **~26 av 39 nedladdade protokoll är olästa.** Tretton möten (se ovan) är lästa i sin helhet med exakta
-  röstsiffror inarbetade. Övriga nyhetsposter i `data/seed/news.json` bygger fortfarande på kommunens
-  egna nyhetssammanfattningar, inte originalprotokoll.
+- **~20 av 40 nedladdade protokoll är olästa.** Fjorton möten (se ovan) är lästa i sin helhet med exakta
+  röstsiffror inarbetade, ytterligare sex genomgångna utan egen nyhetspost. Övriga nyhetsposter i
+  `data/seed/news.json` bygger fortfarande på kommunens egna nyhetssammanfattningar, inte
+  originalprotokoll.
 - **"Den alternativa moderata listan" är oidentifierad.** Nämns i en reservation 2026-05-07 men gick
   inte att verifiera vad den är &mdash; se research-tråden ovan.
 - **En person utan parti.** En ledamot (Gun Larsson) sitter som politiskt oberoende i flera organ, utan

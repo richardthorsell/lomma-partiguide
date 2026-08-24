@@ -125,5 +125,15 @@
     "details": "Det här är ett tydligt exempel på den nya politiska kartan efter att L lämnade det styrande blocket: M och S går här samman i en gemensam majoritet kring en investeringsfråga, medan L, Fokus Bjärred och MP bildar en ny oppositionsallians mot dem. Mönstret bekräftar att blockpolitiken i Lomma har blivit mer flytande sedan skolresurskonflikten 2024.",
     "sentiment": "NEUTRAL",
     "partySlugs": ["m", "s", "l", "fokus-bjarred", "mp", "sd"]
+  },
+  {
+    "title": "SD, Fokus Bjärred och Liberalerna kräver socialnämndens ordförandes avgång",
+    "url": "https://docs.netpublicator.com/api/public/r01696490/document/f0be7883a48dafc6de3e-7ef9-40f9-aa68-e7eb51782ef5?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-c072d3fd91109030704",
+    "sourceName": "Lomma kommun, sammanträdesprotokoll KF 2024-10-24 (§ 121)",
+    "publishedAt": "2024-10-24",
+    "summary": "Under budgetdebatten för 2025 yrkade Oscar Sedira (SD), Fredrik Sverkersten (Fokus Bjärred) och Sandra Pilemalm (L) att kommunfullmäktige skulle meddela socialnämndens ordförande Susanne Borgelius (M) att förtroendet för henne var förbrukat, med hänvisning till att nämnden inte hållit budget på sex år, och rekommenderade att hon skulle avgå före årsskiftet. Yrkandet avslogs med rösterna 32–12 (1 avstod).",
+    "details": "Detta kom bara några veckor efter att Pilemalm (2024-09-26) ställt en interpellation till Borgelius om äldreomsorgsreformen, som besvarades vid samma möte. Det är ännu ett dokumenterat exempel på att L:s Sandra Pilemalm aktivt gick emot en M-ledd nämndsordförande redan hösten 2024 — tidigare än det formella utträdet ur Alliansen (tidigare tidfäst till september 2024) och nästan ett halvår före den formella revisionsanmärkningen mot socialnämnden för kvalitets- och verksamhetsbrister (2025). Vid samma möte fastställdes även skattesatsen för 2025 till oförändrade 19,64 kronor.",
+    "sentiment": "NEGATIVE",
+    "partySlugs": ["sd", "fokus-bjarred", "l", "m"]
   }
 ]
