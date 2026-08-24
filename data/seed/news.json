@@ -135,5 +135,15 @@
     "details": "Detta kom bara några veckor efter att Pilemalm (2024-09-26) ställt en interpellation till Borgelius om äldreomsorgsreformen, som besvarades vid samma möte. Det är ännu ett dokumenterat exempel på att L:s Sandra Pilemalm aktivt gick emot en M-ledd nämndsordförande redan hösten 2024 — tidigare än det formella utträdet ur Alliansen (tidigare tidfäst till september 2024) och nästan ett halvår före den formella revisionsanmärkningen mot socialnämnden för kvalitets- och verksamhetsbrister (2025). Vid samma möte fastställdes även skattesatsen för 2025 till oförändrade 19,64 kronor.",
     "sentiment": "NEGATIVE",
     "partySlugs": ["sd", "fokus-bjarred", "l", "m"]
+  },
+  {
+    "title": "Fokus Bjärred ifrågasätter gymnasiets ekonomi inför valet",
+    "url": "https://docs.netpublicator.com/api/public/r01696490/document/3a43b4e1c18203e34112-c15f-45bc-85db-d7172c994fe1?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-e3de4379a5459798717",
+    "sourceName": "Lomma kommun, sammanträdesprotokoll KF 2026-06-17 (§ 65)",
+    "publishedAt": "2026-06-17",
+    "summary": "Jenny Morau (Fokus Bjärred) ställde en interpellation till barn- och utbildningsnämndens ordförande Fredrik Karström (M) om Lomma Strands gymnasiums ekonomiska hållbarhet, besvarad vid kommunens sista sammanträde före valet 2026. Kristina Thored (Fokus Bjärred) och Thomas Eneström (S) deltog i debatten.",
+    "details": "Protokollet redovisar bara att interpellationen ställdes och debatterades, inte det sakliga innehållet i svaret (den formella responsen distribueras separat och fångades inte i den tillgängliga textextraktionen) — så det går inte att här avgöra om gymnasiets ekonomi faktiskt är ett problem. Fakta värt att notera: frågan ställs om det stora kommunhus-/gymnasieprojektet som varit tvistigt sedan bygget påbörjades och som en folkomröstning 2024 röstade nej till utan att det stoppade bygget.",
+    "sentiment": "NEUTRAL",
+    "partySlugs": ["fokus-bjarred", "m", "s"]
   }
 ]

@@ -97,8 +97,8 @@ nyhetssammanfattningar.
 **Alla 40 kommunfullmäktigeprotokoll från 2022-01-27 till 2026-06-17 är nedladdade** i
 `data/sources/protokoll-kf/` (både originalPDF och en textkonverterad `.txt`-version per möte — 2025-10-16
 saknades ursprungligen i arkivet trots att den redan citerades som källa, upptäckt och åtgärdat vid en
-fact-check-genomgång). Fjorton av dem har lästs i sin helhet och gett upphov till konkreta poster i
-`data/seed/news.json` med exakta röstsiffror:
+fact-check-genomgång). **Samtliga 40 protokoll är nu genomgångna i sin helhet** (2026-08-24).
+Femton av dem har gett upphov till konkreta poster i `data/seed/news.json` med exakta röstsiffror:
 
 - 2023-09-28 (§ 94) &mdash; detaljplanen för gymnasieskola/kommunhus antogs, 24&ndash;20. Sandra Pilemalm
   (L) yrkade själv bifall tillsammans med M, C och KD &mdash; ett halvår innan hon för första gången bröt
@@ -134,6 +134,10 @@ fact-check-genomgång). Fjorton av dem har lästs i sin helhet och gett upphov t
   budgetöverskridanden i nämnden. Avslogs 32&ndash;12 (1 avstod) &mdash; ännu ett dokumenterat exempel
   på att Pilemalm gick emot en M-ledd nämndsordförande redan hösten 2024, före både det formella
   utträdet ur Alliansen och 2025 års revisionsanmärkning mot samma nämnd
+- 2026-06-17 (§ 65) &mdash; kommunens sista protokollförda möte före valet 2026. Jenny Morau (Fokus
+  Bjärred) interpellerade barn- och utbildningsnämndens ordförande om gymnasiets ekonomiska
+  hållbarhet &mdash; en öppen fråga att följa upp, eftersom det sakliga svarsinnehållet inte fångades i
+  textextraktionen
 
 **Öppen research-tråd:** Liberalernas reservation i 2026-05-07-mötet nämner en grupp kallad "Den
 alternativa moderata listan" i kommunfullmäktige, vars ledamöter offentligt sagt sig vilja stoppa
@@ -150,11 +154,24 @@ måltidspolicyn och SkyZero-finansieringen; Bjärreds vångar-besluten gick igen
 reserverade sig), 2023-08-31 och 2024-04-18 (rutinmässiga oppositionsreservationer utan votering,
 inget utöver redan dokumenterade mönster).
 
-De resterande ~20 protokollen är nedladdade men olästa. Vill du gräva djupare: läs `.txt`-filerna
-direkt (snabbare än att öppna PDF:er), sök efter `Votering`/`Voteringsprotokoll`/`reserverar sig` för att
-hitta kontroversiella ärenden, och för in fynden i `data/seed/news.json` eller relevant partis
-`policyPositions` &mdash; för hand, som med all annan data i det här projektet. Fler protokoll (t.ex. 2027
-och framåt) hämtas genom att navigera arkivet ovan och ladda ner på samma sätt.
+**Samtliga 40 nedladdade protokoll (2022-01-27 till 2026-06-17) är nu genomgångna.** Utöver
+mötena ovan lästes hela den återstående gamla mandatperioden (2022-01-27 till 2022-10-17, samt
+det konstituerande mötet 2022-12-01) och 2023&ndash;2025 års återstående rutinmöten
+(2023-02-02, 2023-03-02, 2023-04-20, 2023-05-11, 2023-06-01, 2023-12-07, 2024-02-01, 2024-05-30,
+2024-09-26, 2025-03-13). Inget av dessa innehöll voteringar eller sakfrågor som konkurrerar med det
+som redan är dokumenterat &mdash; mestadels avsägelser, val av ledamöter, taxor/reglementen och
+motioner som besvarades utan votering. Två undantag värda att notera utan att de fick egna
+nyhetsposter: dels att Sandra Pilemalm (L) redan var en aktiv motionär i den gamla mandatperioden
+(bl.a. en enhälligt bifallen motion om handlingsplan mot hedersrelaterat våld, 2022-01-27), dels att
+Fokus Bjärred tidigt drev frågan om att lokalisera kommunal förvaltning i norra kommundelen
+(2022-01-27, motionen ansågs besvarad utan bifall).
+
+Vill du gräva ännu djupare i redan lästa protokoll, eller granska nya möten när fler tillkommer: läs
+`.txt`-filerna direkt (snabbare än att öppna PDF:er), sök efter
+`Votering`/`Voteringsprotokoll`/`reserverar sig` för att hitta kontroversiella ärenden, och för in fynden i
+`data/seed/news.json` eller relevant partis `policyPositions` &mdash; för hand, som med all annan data i
+det här projektet. Fler protokoll (t.ex. 2027 och framåt) hämtas genom att navigera arkivet ovan och
+ladda ner på samma sätt.
 
 ## Kända begränsningar i v1
 
@@ -165,10 +182,10 @@ och framåt) hämtas genom att navigera arkivet ovan och ladda ner på samma sä
 - **Facebook-inlägg saknas.** `SocialPost`-modellen och `data/seed/social.json` finns förberedda, men inga
   poster har seedats ännu &mdash; exakta publiceringsdatum och engagemangssiffror gick inte att verifiera
   tillförlitligt via sökning i denna omgång och kräver manuell insamling (inloggad i Facebook).
-- **~20 av 40 nedladdade protokoll är olästa.** Fjorton möten (se ovan) är lästa i sin helhet med exakta
-  röstsiffror inarbetade, ytterligare sex genomgångna utan egen nyhetspost. Övriga nyhetsposter i
-  `data/seed/news.json` bygger fortfarande på kommunens egna nyhetssammanfattningar, inte
-  originalprotokoll.
+- **Samtliga 40 nedladdade protokoll är genomgångna** (2026-08-24), femton med egna, exakta
+  röstsiffror i `data/seed/news.json`. Merparten av de återstående mötena var rutinärenden (val av
+  ledamöter, avsägelser, taxor) utan votering. Nya protokoll tillkommer varje kommunfullmäktigemöte
+  &mdash; se `scripts/fetch-sources.ts` för hur arkivet hålls uppdaterat.
 - **"Den alternativa moderata listan" är oidentifierad.** Nämns i en reservation 2026-05-07 men gick
   inte att verifiera vad den är &mdash; se research-tråden ovan.
 - **En person utan parti.** En ledamot (Gun Larsson) sitter som politiskt oberoende i flera organ, utan
