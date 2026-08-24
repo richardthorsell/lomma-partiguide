@@ -173,6 +173,53 @@ Vill du gräva ännu djupare i redan lästa protokoll, eller granska nya möten 
 det här projektet. Fler protokoll (t.ex. 2027 och framåt) hämtas genom att navigera arkivet ovan och
 ladda ner på samma sätt.
 
+### Nämndprotokoll (Barn- och utbildningsnämnden, Socialnämnden, Kommunstyrelsen,
+Kultur- och fritidsnämnden, Samhällsbyggnadsnämnden)
+
+Utöver kommunfullmäktige har arkivet ovan egna mappar per nämnd, med samma
+`docs.netpublicator.com/api/public/r01696490/document/{id}?hash=...`-URL-mönster som
+kommunfullmäktigeprotokollen. Miljö- och byggnadsnämnden är fortsatt undantagen (handlingar
+begärs ut via miljo-byggnadsnamnd@lomma.se, inte publicerade här).
+
+**Nedladdat och genomgånget för nuvarande mandatperiod (2023&ndash;), i
+`data/sources/protokoll-namnder/{bun,sn,ks,kfn,sbn}/`:**
+
+| Nämnd | Protokoll hämtade | Kommentar |
+| --- | --- | --- |
+| Barn- och utbildningsnämnden (BUN) | 25 av 29 | 4 blockerade av nätverkets säkerhetsfilter (se nedan) |
+| Socialnämnden (SN) | 13 av 15 hittade | ~10 ytterligare möten 2023&ndash;2025 saknar publicerat protokoll (endast kallelse) |
+| Kommunstyrelsen (KS) | 17 av 17 | Arkivet går bara tillbaka till 2025-01-22 &mdash; inga KS-protokoll för 2023&ndash;2024 hittades i den publika mappstrukturen |
+| Kultur- och fritidsnämnden (KFN) | 7 av 11 hittade | 4 blockerade av nätverkets säkerhetsfilter |
+| Samhällsbyggnadsnämnden (SBN) | 5 av 6 hittade | Nästan alla möten 2023 t.o.m. augusti 2025 saknar publicerat protokoll (endast kallelse) &mdash; protokoll börjar dyka upp först från 2025-09-01 |
+
+**En genomgående observation:** flera nämnder (särskilt Socialnämnden och
+Samhällsbyggnadsnämnden) publicerade under stora delar av 2023&ndash;2025 bara mötets kallelse
+(dagordning) till den här publika arkivtjänsten, inte det faktiska justerade protokollet med
+beslut/voteringar. Det är alltså en lucka i kommunens egen publicering, inte något vi kan hämta in i
+efterhand. Kommunstyrelsen och kommunfullmäktige verkar däremot ha publicerat protokoll
+konsekvent under hela perioden.
+
+**Nätverksblockering:** ett fåtal specifika dokument (4 i BUN, 4 i KFN, 1 i SBN, 2 i SN, alla från 2025&ndash;2026)
+gav ett `403 Forbidden` från nätverkets Zscaler-säkerhetsfilter vid nedladdning &mdash; bekräftat både via
+`curl` och direkt i webbläsaren, så det är inget fel i URL:erna. Dessa enskilda möten är inte lästa.
+
+**Viktiga fynd från nämndprotokollen** (utöver det som redan fanns dokumenterat via
+kommunfullmäktige):
+
+- **Kommunstyrelsen 2025-06-18 (§ 94&ndash;95):** den ursprungliga rekommendationen att stänga
+  Strandskolan och Löddesnässkolan godkändes av kommunstyrelsen fyra månader före
+  kommunfullmäktiges 23&ndash;22-beslut &mdash; med en ännu snävare marginal, 7&ndash;6 av
+  kommunstyrelsens 13 ledamöter, i båda ärendena.
+- **Kommunstyrelsen 2026-04-22 (§ 52):** samma 7&ndash;6-mönster upprepades när kommunstyrelsen
+  avslog en S-motion om att stoppa åtgärder som försvårar en återöppning av skolorna &mdash; två veckor
+  före den redan dokumenterade 22&ndash;22-omröstningen i kommunfullmäktige om samma fråga.
+  Protokollet bekräftar också att Sandra Pilemalm formellt satt för Fokus Bjärred redan vid det här
+  mötet.
+- **Socialnämnden 2026-05-05 (§ 29, § 34):** lokalförsörjningsplanen 2026&ndash;2035 föreslår att ett nytt
+  äldreboende byggs på platsen där Löddesnässkolans huvudbyggnad står idag &mdash; vilket i praktiken
+  skulle göra en återöppning av skolan omöjlig. Ida Alms (L) invändning röstades ner 6&ndash;5. Samma
+  möte röstade ner Liberalernas egen motion om ett återinfört korttidsboende för äldre, också 6&ndash;5.
+
 ## Kända begränsningar i v1
 
 - **Ingen automatisk ingestion till databasen.** Allt som visas i appen är hand-kuraterat i `data/seed/`.
@@ -182,10 +229,16 @@ ladda ner på samma sätt.
 - **Facebook-inlägg saknas.** `SocialPost`-modellen och `data/seed/social.json` finns förberedda, men inga
   poster har seedats ännu &mdash; exakta publiceringsdatum och engagemangssiffror gick inte att verifiera
   tillförlitligt via sökning i denna omgång och kräver manuell insamling (inloggad i Facebook).
-- **Samtliga 40 nedladdade protokoll är genomgångna** (2026-08-24), femton med egna, exakta
+- **Samtliga 40 kommunfullmäktigeprotokoll är genomgångna** (2026-08-24), femton med egna, exakta
   röstsiffror i `data/seed/news.json`. Merparten av de återstående mötena var rutinärenden (val av
   ledamöter, avsägelser, taxor) utan votering. Nya protokoll tillkommer varje kommunfullmäktigemöte
   &mdash; se `scripts/fetch-sources.ts` för hur arkivet hålls uppdaterat.
+- **Nämndprotokoll (BUN, SN, KS, KFN, SBN) är genomgångna för nuvarande mandatperiod**
+  (2026-08-24), se tabellen och fynden ovan. Täckningen är ojämnare än för kommunfullmäktige: dels
+  för att flera nämnder inte publicerade fullständiga protokoll (bara kallelser) under stora delar av
+  2023&ndash;2025, dels för att ett fåtal enskilda dokument blockerades av nätverkets säkerhetsfilter vid
+  nedladdning. Kommunstyrelsens protokoll före 2025-01-22 hittades inte i den publika arkivstrukturen
+  alls.
 - **"Den alternativa moderata listan" är oidentifierad.** Nämns i en reservation 2026-05-07 men gick
   inte att verifiera vad den är &mdash; se research-tråden ovan.
 - **En person utan parti.** En ledamot (Gun Larsson) sitter som politiskt oberoende i flera organ, utan

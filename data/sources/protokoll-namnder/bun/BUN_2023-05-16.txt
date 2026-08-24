@@ -1,0 +1,817 @@
+                                                             SAMMANTRÄDESPROTOKOLL
+                                                             Sida 1 av 22
+
+                                                             Sammanträdesdatum
+                                                             2023-05-16
+
+BARN- OCH UTBILDNINGSNÄMNDEN
+
+Plats: Lomma kommun, Stora Sessionssalen
+
+Tid: 2023-05-16, klockan 18:30-21:50
+Ajournering: klockan 20:19-20:27, 20:38-20:43
+
+Beslutande:
+Fredrik Karström (M), Ordförande
+Camilla Cronsjö (M) ersätter Lena Wahlgren (M)
+Thomas Eneström (S), 2:e vice ordförande
+Jonna Tingberg (M), Ledamot
+Leslie Qvandrup (M), Ledamot
+Marcus Magnusson (M), Ledamot
+Denise Rydblom (C), Ledamot
+Gun Larsson (L), Ledamot
+Marie Sand (S), Ledamot
+Ulf Richeberg (FB), Ledamot
+Natalia Engstedt (SD), Ledamot
+
+Övriga deltagare:
+Anders Florén (M), Ersättare
+Janina Pettersson (M), Ersättare
+Michelle Vithal Bergström (KD), Ersättare §§ 26–32
+Susanne Pennsäter (FB), Ersättare
+Ingela Hult (SD), Ersättare
+
+Samuel Dahlman, Nämndsekreterare
+Roberto Citterio, Förvaltningschef
+Staffan Friberg, Utredningschef
+Thomas Ladö, Kvalitets- och utvecklingsledare §§ 26–28
+Åsa Melkersson, Verksamhetschef grundskola §§ 26–32
+Thomas Kvist, Verksamhetschef förskola §§ 26–32
+Ragnar Andree, Sveriges lärare
+
+Utses att justera: Thomas Eneström
+
+Justeringens plats och datum: Digital justering, 2023-05-23
+
+Paragraf: § 26 - § 40
+
+Protokollet har justerats av:       Utdragsbestyrkande
+Sekreterare Samuel Dahlman
+Ordförande Fredrik Karström
+Justerande Thomas Eneström
+
+Justerande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN        SAMMANTRÄDESPROTOKOLL
+                                    Sida 2 av 22
+
+                                    Sammanträdesdatum
+                                    2023-05-16
+
+ANSLAG/BEVIS
+
+Protokollet är justerat. Justeringen har tillkännagivits genom anslag
+Beslutande organ: Barn- och utbildningsnämnden
+Sammanträdesdatum: 2023-05-16
+Paragrafer: § 26 - § 40
+Datum när anslaget sätts upp: 2023-05-25
+Datum när anslaget tas ned: 2023-06-16
+Förvaringsplats för protokollet: Kommunhuset i Lomma
+Anslaget har justerats av: Samuel Dahlman
+Anslaget har signerats digitalt
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN                   SAMMANTRÄDESPROTOKOLL
+                                               Sida 3 av 22
+
+                                               Sammanträdesdatum
+                                               2023-05-16
+
+BUN § 26                                       BUN/2023:129
+
+Godkännande av månadsrapport för mars år 2023
+
+Ärendebeskrivning
+Lomma kommuns styr- och kvalitetssystem anger krav för uppföljning av verksamheten. Uppföljningen
+har till syfte att samtliga nämnder regelbundet får en uppföljning av verksamheten, och att
+kommunstyrelsen och kommunfullmäktige löpande får information om vad som händer i
+verksamheten. Uppföljning och rapportering sker löpande under året i form av månadsrapporter på
+nämndnivå, kvartalsrapport och delårsrapport samt årsredovisning. Kommunstyrelsen följer upp
+helheten och nämnderna följer löpande sina verksamheter.
+
+Beslutsunderlag
+- Protokollsutdrag från barn- och utbildningsnämndens arbetsutskott 2023-04-25 § 26
+- Tjänsteskrivelse 2023-04-19 från controller
+- Månadsuppföljning mars 2023 – barn- och utbildningsnämnd
+- Sifferbilaga: Månadsuppföljning mars år 2023
+
+Beslut:
+Barn- och utbildningsnämnden beslutar följande:
+
+    - Barn- och utbildningsnämnden godkänner kvartalsrapporten för mars år 2023.
+
+Protokollsanteckning
+Thomas Eneström (S) har inkommit med följande protokollsanteckning:
+
+    Månadsuppföljningen i mars visar att alla delar av barn- och utbildningsnämndens verksamhet
+    drabbas av prishöjningar och oförutsedda svängningar i antalet barn och elever. Allra störst
+    underskott får gymnasieskolan och så länge kommunen inte har en egen gymnasieskola måste
+    oförutsedda kostnadsökningar i gymnasiet bäras av förskola och grundskola, om de inte
+    kompenseras av kommunfullmäktige. Skola och förskola drabbas av kostnadsökningar i hela
+    landet men i Lomma drabbas de även av gymnasiets underskott.
+
+    Förvaltningen måste planera för en budget i balans vilket bl.a. innebär fler barn i barngrupperna
+    på förskolan, minskade resurser för barn i behov av särskilt stöd och att bemanningen av
+    psykologer reduceras. De sammantagna konsekvenserna kan, enligt förvaltningen, bl.a. bli
+    "ökad risk för incidenter i grupper med utåtagerande elever samt för elever i behov av egenvård.
+    (...) Förändring medför även ökad arbetsbelastning för personal."
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN        SAMMANTRÄDESPROTOKOLL
+                                    Sida 4 av 22
+
+                                    Sammanträdesdatum
+                                    2023-05-16
+
+BUN § 26 (fort.)                    BUN/2023:129
+
+    Socialdemokraterna i Lomma föreslog ett tillskott motsvarande
+    gymnasieskolans prognosticerade underskott vilket avsevärt hade mildrat åtgärderna, men som
+    röstades ner av M, L, C och KD. Socialdemokraterna i Lomma uppmanar förvaltningen att i den
+    vidare planeringen i synnerhet värna de yngre åldrarna och de svagaste eleverna.
+
+_________________________________
+
+Beslutet expedieras till:
+Kommunstyrelsen
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN        SAMMANTRÄDESPROTOKOLL
+                                    Sida 5 av 22
+
+                                    Sammanträdesdatum
+                                    2023-05-16
+
+BUN § 27                            BUN/2023:110
+
+Information om kvalitetsstudie angående ny gymnasieskola
+
+Ärendebeskrivning
+Barn- och utbildningsnämnden har i november 2022 beställt en förstudie om vad som
+kännetecknar hög kvalitet i framtidens gymnasium. Den övergripande frågan som ska besvaras
+är vilka faktorer som ligger till grund för kvalitet i framkant gällande den nya gymnasieskolan i
+Lomma kommun.
+
+Beslutsunderlag
+- Protokollsutdrag från barn- och utbildningsnämndens arbetsutskott 2023-04-25 § 27
+- Tjänsteskrivelse 2023-03-17 från kvalitets- och utvecklingsledare
+- Gymnasieskola i framkant - hur resonerar gymnasieelever om sin gymnasietid, daterad 2023-03-
+
+    17
+
+Beslut:
+Barn- och utbildningsnämnden beslutar följande:
+
+    - Barn- och utbildningsnämndens arbetsutskott har tagit del av informationen.
+
+_________________________________
+
+Beslutet expedieras till:
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN        SAMMANTRÄDESPROTOKOLL
+                                    Sida 6 av 22
+
+                                    Sammanträdesdatum
+                                    2023-05-16
+
+BUN § 28                            BUN/2023:130
+
+Information om rapport avseende rättssäker betygsättning
+
+Ärendebeskrivning
+Ansvaret för en likvärdig betygssättning är fördelat på ett stort antal aktörer. Riksdagen och
+regeringen anger nationella mål och riktlinjer. Skolverket fattar beslut om betygskriterier samt
+producerar stödmaterial i syfte att underlätta en likvärdig betygssättning. Skolinspektionen utövar
+tillsyn över skolornas arbete.
+
+Betygssättning har en avgörande betydelse för elevens framtid. Därför är det viktigt att alla elever,
+oavsett vilken skola de gått i eller vilken lärare som satt betyg, har blivit bedömda utifrån samma
+krav. Att uppnå en likvärdig betygssättning är dock en stor utmaning. Det kräver att ett stort antal
+lärare ska göra en bedömning av elevernas kunskaper utifrån en och samma måttstock.
+
+Skollagen ställer tydliga krav på att huvudmän och skolor ägnar sig åt systematiskt kvalitetsarbete för
+att säkerställa kvalitet och likvärdighet i den utbildning som tillhandahålls.
+
+Barn- och utbildningsnämnden betonar vikten av att analysera utbildningsresultaten på individ,
+grupp och skolnivå. Rektorer och lärare behöver kontinuerligt arbeta med att kartlägga och analysera
+utbildningsresultat i sina ämnen på ämnesträffar och diskutera undervisningsmetoder för att anpassa
+undervisningen utefter eleverna med likvärdighet som mål.
+
+Genom att planera, följa upp, analysera, dokumentera och utveckla utbildningen genereras kunskap
+som synliggör brister i likvärdighet. Systematiskt kvalitetsarbete och utvecklingsarbete är en process
+som ofta avbildas cykliskt med utgångspunkt i frågorna Var är vi? – Vart ska vi? – Hur gör vi? – Hur
+blev det? Tre U:n är centrala i den ständigt pågående cykliska processen: uppföljning, utvärdering
+och utveckling (Hirsh & Olin, 2020; Håkansson, 2017).
+
+Beslutsunderlag
+- Protokollsutdrag från barn- och utbildningsnämndens arbetsutskott 2023-04-25 § 28
+- Hur nämnden arbetar med att säkerställa en rättssäker betygsättning, daterad 2023-04-12
+
+Beslut:
+Barn- och utbildningsnämnden beslutar följande:
+
+    - Barn- och utbildningsnämnden har tagit del av informationen.
+
+_________________________________
+
+Beslutet expedieras till:
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN        SAMMANTRÄDESPROTOKOLL
+                                    Sida 7 av 22
+
+                                    Sammanträdesdatum
+                                    2023-05-16
+
+BUN § 29                            BUN/2023:69
+
+Yttrande gällande nämndsinitiativ från Denise Rydblom (C) avseende rapportering
+av andelen svenskproducerad mat i Lomma kommuns verksamhet
+
+Ärendebeskrivning
+Centerpartiet i Lomma har inkommit med ett nämndsinitiativ. I nämndsinitiativet önskas information
+om andelen svenskproducerad mat i Lomma kommun. Nämndsinitiativet behandlades vid barn- och
+utbildningsnämnden sammanträdet 2023-02-07 (BUN §13/23).
+
+Barn- och utbildningsnämnden beslutade att remittera ärendet till förvaltningen för beredning.
+
+Beslutsunderlag
+- Protokollsutdrag från barn- och utbildningsnämndens arbetsutskott 2023-04-25 § 29
+- Tjänsteskrivelse 2023-04-06 från biträdande kostchef
+- Nämndsinitiativ från Denise Rydblom (C) avseende andelen svenskproducerad mat i Lomma
+
+    kommuns kostverksamhet, inkommet 2023-02-02
+
+Beslut:
+Barn- och utbildningsnämnden beslutar följande:
+
+    - Barn- och utbildningsnämnden uppdrar till förvaltningen att i framtiden redovisa andelen
+         svenskproducerad mat i Lomma kommuns verksamhet i samband med årsbokslut.
+
+_________________________________
+
+Beslutet expedieras till:
+Förvaltningschef
+Controller för barn- och utbildningsnämnden
+Kostchef
+Biträdande kostchef
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN               SAMMANTRÄDESPROTOKOLL
+                                           Sida 8 av 22
+
+                                           Sammanträdesdatum
+                                           2023-05-16
+
+BUN § 30                                   BUN/2023:147
+
+Beslut om avveckling av pedagogisk omsorg
+
+Ärendebeskrivning
+Förskolan i Lomma kommun har under 2023 fler barn inskrivna i verksamheten än vad
+befolkningsprognosen indikerade. Det har medfört en negativ budgetavvikelse baserat på volymer i
+förskolan. Anpassningar behöver göras för att nå budgetram. För att anpassa budgeten utifrån
+tilldelad ram föreslås avveckling av pedagogisk omsorg, vilket skulle leda till en helårseffektivisering
+på cirka 1,6 mnkr.
+
+Genom att avveckla pedagogisk omsorg höjs den generella kvaliteten på undervisning för barn i
+åldern 1 – 5 år i kommunen samt innebär avvecklingen att förvaltningen står bättre rustad inför
+eventuella kommande besparingar i kölvattnet av inflation och aktuellt världsmarknadsläge.
+
+Barn- och utbildningsnämndens arbetsutskott har behandlat ärendet 2023-05-16 § 40.
+
+Beslutsunderlag
+- Protokollsutdrag från barn- och utbildningsnämndens arbetsutskott 2023-05-16 § 40
+- Tjänsteskrivelse 2023-05-04 från verksamhetschef, förskola
+- Riskbedömning och handlingsplan angående förslag om avveckling pedagogisk omsorg år 2023,
+
+    daterad 2023-05-12
+- Barnkonsekvensanalys, daterad 2023-05-02
+
+Beslut:
+Barn- och utbildningsnämnden beslutar följande:
+
+    - Barn- och utbildningsnämnden beslutar att i augusti 2023 avveckla pedagogisk omsorg i
+         kommunal regi.
+
+Reservation
+Natalia Engstedt (SD) reserverar sig mot beslutet.
+
+Protokollsanteckning
+Thomas Eneström (S) har inkommit med följande protokollsanteckning:
+
+    Avvecklingen av pedagogisk omsorg kommer minska valfriheten för kommunens vårdnadshavare
+    vilket Socialdemokraterna beklagar. Eftersom kommunfullmäktige, i och med avvisandet av
+    Socialdemokraternas förslag om kompensation, beslutat att förskolan även måste bära en del av
+    gymnasiets ökade kostnader är åtgärder av denna typ tyvärr nödvändiga.
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN           SAMMANTRÄDESPROTOKOLL
+                                       Sida 9 av 22
+BUN § 30 (fort.)                       Sammanträdesdatum
+                                       2023-05-16
+_________________________________
+                                       BUN/2023:147
+Beslutet expedieras till:
+Chefsgrupp förskola
+Personal inom förskoleverksamheten
+Vårdnadshavare inom pedagogisk omsorg
+
+Justerande                             Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN        SAMMANTRÄDESPROTOKOLL
+                                    Sida 10 av 22
+
+                                    Sammanträdesdatum
+                                    2023-05-16
+
+BUN § 31                            BUN/2023:127
+
+Fastställande av krisledningsplan gällande förvaltningen för utbildning, kost, kultur
+och fritid
+
+Ärendebeskrivning
+Kommunstyrelsen antog en krisledningsplan för Lomma kommun under våren 2014. Socialnämnden
+tog hösten 2014 fram en egen krisledningsplan, som underlag för hur nämnden och förvaltningen ska
+agera i en krissituation. Enligt Lomma kommuns krisledningsplan ska förvaltningens/nämndens plan
+revideras i början av varje mandatperiod.
+
+Föreliggande krisledningsplan är en övergripande plan för förvaltningen för utbildning, kost, kultur
+och fritid. Planen ska hantera extraordinära händelser och övriga typer av kriser och händelser som
+avviker från kommunens normala verksamhet.
+
+Utöver denna plan finns en övergripande plan för Lomma kommun (daterad 2014-02-10) samt
+reglemente för krisledningsnämnd. Ytterligare stöd för krisledningsarbetet finns i form av
+instruktioner och checklistor för den centrala krisledningsorganisationens olika funktioner och ska
+hållas uppdaterade och löpande revideras under ansvar av säkerhetschefen.
+
+Kultur- och fritidsnämnden beslutade 2023-05-15 § 39 att återremittera ärendet till förvaltningen för
+ytterligare beredning.
+
+Beslutsunderlag
+- Protokollsutdrag från barn- och utbildningsnämndens arbetsutskott 2023-04-25 § 30
+- Tjänsteskrivelse 2023-04-05 från verksamhetschef, förskola
+- Krisledningsplan – Förvaltningen för utbildning, kost, kultur och fritid (UKF), daterad 2022-12-15
+
+Beslut:
+Barn- och utbildningsnämnden beslutar följande:
+
+    - Barn- och utbildningsnämnden fastställer krisledningsplan gällande förvaltningen för
+         utbildning, kost, kultur och fritid i enlighet med bilaga.
+
+    Bilaga.
+
+_________________________________
+
+Beslutet expedieras till:
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN                  SAMMANTRÄDESPROTOKOLL
+                                              Sida 11 av 22
+
+                                              Sammanträdesdatum
+                                              2023-05-16
+
+BUN § 32                                      BUN/2023:100
+
+Fastställande av lokalbehovsplan för år 2023
+
+Ärendebeskrivning
+Samhällbyggnadsförvaltningen (SBF) och förvaltningen för utbildning, kost, kultur och fritid (UKF) har
+under år 2022 genomfört en kommungemensam lokalbehovsutredning där verksamhetsperspektiv,
+samhällsbyggnadsperspektiv och kommungemensamt perspektiv beaktas samlat.
+
+Utredningen sammanställer en föreslagen inriktning för utveckling och hänförliga lokalbehov för
+respektive verksamhetstyp. Inriktningen ligger till grund för den strategi som utgör projektets
+övergripande målsättning och ska skapa framtida förutsättningar för Lomma kommun att fatta beslut
+om åtgärder i lokalresurser som beaktar den långsiktiga lokalförsörjningen utan att skapa
+låsningar/motsättningar utifrån framtida prognostiserade lokalbehov.
+
+I samband med uppföljningen av lokalbehovsplanen 2022 presenterade
+samhällsbyggnadsförvaltningen olika lokaliseringsalternativ när det gäller kulturhus, Bjärred, nya
+lokaler för förskolan i Bjärehovsområdet samt för idrottshall i Karstorpsområdet.
+
+I lokalbehovsplan 2023 ges förslag till beslut i de olika projekt som lyfts fram. De beslut nämnden
+fattar överlämnas till kommunstyrelsen som underlag inför kommunfullmäktiges beslut om budget
+2024–2027.
+
+Barn- och utbildningsnämndens arbetsutskott har behandlat ärendet 2023-05-16 § 39.
+
+Beslutsunderlag
+- Protokollsutdrag från barn- och utbildningsnämndens arbetsutskott 2023-05-16 § 39
+- Protokollsutdrag från barn- och utbildningsnämndens arbetsutskott 2023-04-25 § 31
+- Tjänsteskrivelse 2023-05-07 från utredningschef
+- Lokalbehovsplan för barn- och utbildningsnämnden år 2023, daterad 2023-05-07
+- Barnkonsekvensanalys, daterad 2023-05-07
+
+Överläggning
+Thomas Eneström (S) yrkar att barn- och utbildningsnämnden besluta fastställa lokalbehovsplan för
+barn- och utbildningsnämnden för år 2023 i enlighet med förslag med följande ändring:
+
+    I kapitel 2 Förskola, avsnitt 2.1 Nybyggnation, ska formuleringen ”De nya lokalerna är tänkt att
+    ersätta befintliga lokaler i förskolorna Trollet, Äpplegården och Lärkan” ersättas med ”De nya
+    lokalerna är tänkt att ersätta förskolorna Trollet och Äpplegården”.
+
+Thomas Eneström (S) yrkar att barn- och utbildningsnämnden uppdra till förvaltningen att utreda
+möjligheten att ersätta förskolepaviljongerna i Alnarp med en ordinarie förskolebyggnad.
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN        SAMMANTRÄDESPROTOKOLL
+                                    Sida 12 av 22
+
+                                    Sammanträdesdatum
+                                    2023-05-16
+
+BUN § 32 (fort.)                    BUN/2023:100
+
+Propositionsordning
+Ordförande Fredrik Karström (M) ställer proposition på resta yrkanden, varefter nämnden beslutar
+avslå samtliga yrkanden.
+
+Beslut:
+Barn- och utbildningsnämnden beslutar följande:
+
+    - Barn- och utbildningsnämnden fastställer inriktningen i lokalbehovsplanen för år 2023 i
+         enlighet med bilaga.
+
+    Bilaga.
+
+Reservation
+Thomas Eneström (S) och Marie Sand (S) reserverar sig skriftligt mot beslutet.
+
+    Bilaga.
+
+_________________________________
+
+Beslutet expedieras till:
+Kommunstyrelsen
+Samhällsbyggnadsförvaltningen
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN        SAMMANTRÄDESPROTOKOLL
+                                    Sida 13 av 22
+
+                                    Sammanträdesdatum
+                                    2023-05-16
+
+BUN § 33                            BUN/2023:128
+
+Godkännande av utredningsuppdrag gällande organisering av fritidshem och
+skolbibliotek
+
+Ärendebeskrivning
+Som ett led i huvudmannens systematiska kvalitetsarbete genomförs kontinuerlig granskning av
+verksamhetsorganisationens arbete. I det arbetet noterar förvaltningen brister i organiseringen av
+fritidshemsverksamheten. De områden som förvaltningen noterat är fritidshem för elever i
+årskurserna 4–6 samt skolbibliotek.
+
+Barn- och utbildningsnämnden föreslås därför ge förvaltningen i uppdrag att göra en översyn av
+nuvarande organisering.
+
+Beslutsunderlag
+    - Protokollsutdrag från barn- och utbildningsnämndens arbetsutskott 2023-04-25 § 32
+    - Tjänsteskrivelse 2023-04-06 från utredningschef
+
+Beslut:
+Barn- och utbildningsnämnden beslutar följande:
+
+    - Barn- och utbildningsnämnden uppdrar till förvaltningen att göra en översyn av nuvarande
+         organisering av fritidshem för elever i årskurserna 4–6 samt skolbibliotek.
+
+_________________________________
+
+Beslutet expedieras till:
+Kultur- och fritidsnämnden
+Utredningschef
+Förvaltningschef
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN        SAMMANTRÄDESPROTOKOLL
+                                    Sida 14 av 22
+
+                                    Sammanträdesdatum
+                                    2023-05-16
+
+BUN § 34                            BUN/2022:150
+
+Yttrande avseende plan- och genomförandebeskrivning för Lomma 34:1
+
+Ärendebeskrivning
+Kommunstyrelsen har beslutat upprätta detaljplan för rubricerat område,
+samhällsbyggnadsnämnden har 2023-03-13 beslutat att skicka ut planen på granskning.
+
+Detaljplanens syfte är att pröva lämpligheten för kommunhus, gymnasieskola och
+centrumverksamhet samt möjliggöra flytt av transformatorstation inom planområdet.
+
+Planområdet ligger i Lomma och avgränsas i stort av Vinstorpsvägen i norr, Hamntorget i väst,
+Hamngatan och del av Banparken i syd. Den västligaste delen av Vinstorpsskolan ligger inom
+planområdet. Planområdet omfattar ca 1,6 ha.
+
+Planförslaget hålls utställt för granskning under tiden 29 mars till 30 april 2023. Då har nämnden
+möjlighet att inkomma med synpunkter. Nämnden har medgetts uppskov till att komma med
+yttranden i granskningsskedet av detaljplan tills efter att nämndsammanträdet har ägt rum och
+protokollen justerats.
+
+Beslutsunderlag
+- Protokollsutdrag från barn- och utbildningsnämndens arbetsutskott 2023-04-25 § 33
+- Tjänsteskrivelse 2023-04-06 från utredningschef
+- Tjänsteskrivelse 2023-03-28 från planeringsavdelningen
+- Plan- och genomförandebeskrivning, daterad 2023-03-13
+- Samrådsredogörelse, daterad 2023-03-13
+- Bilaga: Plankarta Lomma 34:1 m.fl., daterad 2023-03-13
+
+Beslut:
+Barn- och utbildningsnämnden beslutar följande:
+
+    - Barn- och utbildningsnämnden överlämnar följande yttrande till samhällsbyggnadsnämnden:
+
+         Trafiksäkerhet
+
+         Nämnden betonar att god trafiksäkerhet alltid är angelägen i områden där barn och
+         ungdomar vistas. Förvaltningen ser att förändringen i planområdet kommer att innebära att
+         fler personer kommer att röra sig i och omkring området och att barn- och ungdomar
+         kommer att korsa ytor för olika trafikslag inom och i anslutning till planområdet.
+         Förvaltningen ser därför positivt på att planförfattaren, i särskilt avsnitt (sida 25), noterat
+         frågan om förändringar vad gäller biltrafik, gång- och cykeltrafik, kollektivtrafik samt
+         parkering. Förvaltningen understryker dock betydelsen av att trafiksäkerhetsfrågan ges ett
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN        SAMMANTRÄDESPROTOKOLL
+                                    Sida 15 av 22
+
+                                    Sammanträdesdatum
+                                    2023-05-16
+
+BUN § 34 (fort.)                    BUN/2022:150
+
+         framträdande utrymme i planeringen, särskilt med tanken på antalet olika trafikslag som
+         möts i och i anslutning till planområdet.
+
+         Barnperspektivet
+
+         I planförslaget beaktas barnperspektivet genom att planförfattaren, vid framtagandet av
+         bebyggelse för skola, har haft ett kontinuerligt samarbete med förvaltningen för utbildning
+         kost kultur och fritid (UKF). Förvaltningen rekommenderar dock att fördjupad
+         barnkonsekvensanalys genomförs som en del i det fortsatta planarbetet.
+
+_________________________________
+
+Beslutet expedieras till:
+Samhällsbyggnadsnämnden
+Planeringsavdelningen
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN        SAMMANTRÄDESPROTOKOLL
+                                    Sida 16 av 22
+
+                                    Sammanträdesdatum
+                                    2023-05-16
+
+BUN § 35                            BUN/2023:132
+
+Godkännande av samverkansavtal för gymnasieskola i Skåne
+
+Ärendebeskrivning
+Den 1 juli 2023 träder ändringar i Skollagen (2010:800) i kraft. Ändringarna ställer krav på kommuner
+att samverka inom planering, dimensionering och erbjudande av utbildning (2 kap. 2 b §). I Skåne och
+västra Blekinge finns ett samverkansavtal för gymnasieskola (Dnr LAI 23–001). För att säkerställa att
+lagstiftningens krav följs inom samverkansområdet samt öka förutsättningarna för att rätt utbildning
+på rätt plats med rätt kapacitet ska finnas i samverkansområdet har en bilaga till samverkansavtalet
+tagits fram av Skånes Kommuners politiska styrgrupp för gymnasiesamverkan.
+
+Bilagans syfte är att reglera hur den gemensamma processen för utbud och dimensionering ska
+utformas samt definiera berörda aktörernas funktioner och ansvar.
+
+Beslutsunderlag
+- Protokollsutdrag från barn- och utbildningsnämndens arbetsutskott 2023-04-25 § 34
+- Tjänsteskrivelse 2023-04-21 från utredningschef
+- Skånes kommuner, skrivelse avseende samverkansavtal för gymnasieskola i Skåne, daterad 2023-
+
+    03-15
+- Skånes kommuner, förslag till samverkansavtal för gymnasieskola i Skåne, daterat 2023-02-09
+- Skånes kommuner, sammanträdesprotokoll 2023-04-14 § 3 från styrelsen för Skånes kommuner
+- Gällande samverkansavtal för gymnasieskolan i Skåne, reviderat 2010
+- Skånes kommuner, e-postmeddelande inkommet 2023-04-14
+
+Beslut:
+Barn- och utbildningsnämnden beslutar följande:
+
+    - Barn- och utbildningsnämnden fastställer bilaga 1 till samverkansavtal för gymnasieskola i
+         Skåne i enlighet med bilaga.
+
+    Bilaga.
+
+_________________________________
+
+Beslutet expedieras till:
+Skånes kommuner
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN        SAMMANTRÄDESPROTOKOLL
+                                    Sida 17 av 22
+
+                                    Sammanträdesdatum
+                                    2023-05-16
+
+BUN § 36                            BUN/2023:106
+
+Yttrande gällande motion från Socialdemokraterna (S) avseende barn- och
+utbildningsnämndens reglemente
+
+Ärendebeskrivning
+Arbetarepartiet Socialdemokraterna har väckt en motion i kommunfullmäktige gällande förändring
+av barn- och utbildningsnämndens reglemente. I motionen påtalas att skollagen slår fast alla elevers
+rätt till elevhälsa. Den ska omfatta medicinska, psykologiska, psykosociala och specialpedagogiska
+insatser och främst vara förebyggande och hälsofrämjande. Elevhälsans medicinska insatser innebär
+att kommunen som huvudman för skolan även är vårdgivare.
+
+Vidare konstateras att det i reglementet för barn- och utbildningsnämnden tydliggörs, förutom den
+självklara hänvisningen till skollagen, ansvaret för bland annat kostverksamhet och personuppgifter.
+Det finns ingen hänvisning till nämndens ansvar för elevhälsa eller ansvar som vårdgivare.
+
+Motionären yrkar att kommunfullmäktige uppdrar till kommunstyrelsen att utarbeta ett förslag till
+ändring i barn- och utbildningsnämndens reglemente med innebörden att nämndens ansvar för
+elevhälsan i kommunal förskoleklass, grundskola och grundsärskola inklusive fullgörandet av
+vårdgivaransvaret tydliggörs.
+
+Beslutsunderlag
+- Protokollsutdrag från barn- och utbildningsnämndens arbetsutskott 2023-04-25 § 35
+- Tjänsteskrivelse 2023-03-08 från utredningschef
+- Motion från Thomas Eneström (S) gällande förändring av barn-och utbildningsnämndens
+
+    reglemente, inkommen 2023-03-06
+- Protokollsutdrag från barn- och utbildningsnämnden 2022-12-13 § 142
+- Gällande reglemente för barn- och utbildningsnämnden, fastställt av kommunfullmäktige 2021-
+
+    06-03 § 51
+
+Beslut:
+Barn- och utbildningsnämnden beslutar följande:
+
+    - Barn- och utbildningsnämnden föreslår kommunstyrelsen rekommendera
+         kommunfullmäktige att bifalla motionen.
+
+_________________________________
+
+Beslutet expedieras till:
+Kommunstyrelsen
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN        SAMMANTRÄDESPROTOKOLL
+                                    Sida 18 av 22
+
+                                    Sammanträdesdatum
+                                    2023-05-16
+
+BUN § 37                            BUN/2023:18
+
+Information om planering inför etablering av gymnasieskola i Lomma kommun
+
+Ärendebeskrivning
+Vid barn- och utbildningsnämndens sammanträde informerar förvaltningschef Roberto Citterio om
+följande:
+
+    - Framhävande av kvalitet i gymnasieskolan
+    - Byggnationen av gymnasieskolan
+
+Beslut:
+Barn- och utbildningsnämnden beslutar följande:
+
+    - Barn- och utbildningsnämnden har tagit del av informationen.
+
+_________________________________
+
+Beslutet expedieras till:
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN        SAMMANTRÄDESPROTOKOLL
+                                    Sida 19 av 22
+
+                                    Sammanträdesdatum
+                                    2023-05-16
+
+BUN § 38                            BUN/2023:16
+
+Information från förvaltningen
+
+Ärendebeskrivning
+Vid barn- och utbildningsnämndens sammanträde informerar förvaltningschef Roberto Citterio om:
+
+    - Organisatoriska förändringar
+    - Framtida programutbud
+
+Beslut:
+Barn- och utbildningsnämnden beslutar följande:
+
+    - Barn- och utbildningsnämnden har tagit del av informationen.
+_________________________________
+
+Beslutet expedieras till:
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN        SAMMANTRÄDESPROTOKOLL
+                                    Sida 20 av 22
+
+                                    Sammanträdesdatum
+                                    2023-05-16
+
+BUN § 39                            BUN/2023:19
+
+Anmälan av delegationsbeslut och meddelanden
+
+Ärendebeskrivning
+Beslut fattade med stöd av delegation:
+
+     - Delegationslista 2023-03-07 – 2023-05-10
+
+Föreliggande protokoll från:
+     - Protokoll barn- och utbildningsnämndens arbetsutskott 2023-04-25 §§ 24–37
+     - Protokoll barn- och utbildningsnämndens arbetsutskott 2023-05-16 §§ 38–41
+
+Meddelanden, 2023-03-07 – 2023-05-10:
+    - BUN/2023:72 – Anmälan om elevs frånvaro till nämnd
+    - BUN/2023:72 – Anmälan om elevs frånvaro till nämnd (2)
+    - BUN/2023:72 – Anmälan om elevs frånvaro till nämnd (3)
+    - BUN/2023:72 – Anmälan om elevs frånvaro till nämnd (4)
+    - BUN/2023:72 – Anmälan om elevs frånvaro till nämnd (5)
+    - BUN/2023:72 – Anmälan om elevs frånvaro till nämnd (6)
+    - BUN/2023:112 – E-post från Skolverket – Samordnare för nyanländas lärande, brev till
+         huvudman
+    - BUN/2023:112 – Brev till huvudman och samordnare för nyanländas lärande
+    - BUN/2023:123 – Revisionens grundläggande granskning 2022 – missiv
+    - BUN/2023:123 – Revisionens grundläggande granskning av styrelse och nämnder år 2022
+    - BUN/2023:135 – E-post från Skolverket – Statsbidrag för kvalitetshöjande åtgärder i skolan
+         2023
+    - BUN/2023:138 – Protokollsutdrag KF § 35 2023-04-20, Justering av planerade
+         investeringsutgifter från år 2022 till år 2023
+    - BUN/2023:139 – Protokollsutdrag KF § 36 2023-04-20, Justering av nämndernas budgetar på
+         grund av höjt PO-pålägg för år 2023
+    - BUN/2023:141 – Synpunkter om planerade åtgärder för att få budget i balans
+    - BUN/2023:146 – Protokollsutdrag KS § 73 2023-04-26, Kvartalsrapport januari–mars 2023 för
+         Lomma kommun
+    - BUN/2023:146 – Kvartalsrapport januari–mars 2023 för Lomma kommun
+    - BUN/2023:148 – Protokollsutdrag KS § 75 2023-04-26, Justering av nämndernas
+         budgetramar för 2024–2027 avseende ofördelat sparbeting
+
+Beslut:
+Barn- och utbildningsnämnden beslutar följande:
+
+    - Barn- och utbildningsnämnden godkänner anmälan av delegationsbeslut och meddelanden
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN        SAMMANTRÄDESPROTOKOLL
+                                    Sida 21 av 22
+BUN § 39 (fort.)                    Sammanträdesdatum
+_________________________________   2023-05-16
+Beslutet expedieras till:
+                                    BUN/2023:19
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+BARN- OCH UTBILDNINGSNÄMNDEN        SAMMANTRÄDESPROTOKOLL
+                                    Sida 22 av 22
+
+                                    Sammanträdesdatum
+                                    2023-05-16
+
+BUN § 40                            BUN/2022:166
+
+Revidering av sammanträdesdatum för barn- och utbildningsnämnden 2023
+
+Ärendebeskrivning
+Ordförande Fredrik Karström (M) informerar om att barn- och utbildningsnämndens möte den 13
+juni behöver senareläggas till den 19 juni.
+
+Beslut:
+Barn- och utbildningsnämndens arbetsutskott föreslår barn- och utbildningsnämnden besluta
+följande:
+
+    - Att senarelägga barn- och utbildningsnämndens sammanträde från den 13 juni till den 19
+         juni.
+
+_________________________________
+
+Beslutet expedieras till:
+
+Justerande                          Utdragsbestyrkande
+Protokollet har justerats digitalt
+

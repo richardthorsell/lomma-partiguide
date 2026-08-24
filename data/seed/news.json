@@ -127,6 +127,16 @@
     "partySlugs": ["m", "s", "l", "fokus-bjarred", "mp", "sd"]
   },
   {
+    "title": "Kommunstyrelsen godkänner skolstängningarna med minsta möjliga marginal, 7–6",
+    "url": "https://docs.netpublicator.com/api/public/r01696490/document/f8b043951dcda53e1e3e-1a4a-40cf-a2d7-2041363c5c81?hash=98c1c1e3eef446-fb6ac1c64b228256204-e607d5b9000e8428581",
+    "sourceName": "Lomma kommun, sammanträdesprotokoll Kommunstyrelsen 2025-06-18 (§ 94–95)",
+    "publishedAt": "2025-06-18",
+    "summary": "Fyra månader före kommunfullmäktiges omdiskuterade 23–22-beslut godkände kommunstyrelsen samma förslag att stänga Strandskolan (§94) och Löddesnässkolan (§95) och skicka det vidare till fullmäktige. Båda voteringarna slutade 7–6 — det minsta möjliga övertaget för M+C i kommunstyrelsens 13 ledamöter. Fredrik Sverkersten (Fokus Bjärred) och Per Bengtsson (S) yrkade i första hand att ärendena skulle återremitteras; Sandra Pilemalm (L) yrkade avslag på stängningen och ville byta till ett alternativ som höll skolorna öppna.",
+    "details": "Rösterna följde exakt samma mönster i båda ärendena: Wenglén, Regnéll, Karström/Ahlström, B. Larsson (alla M) samt Henriksson Witt (C) röstade för stängning; Bengtsson, Andersson, Netterlid (alla S), Pilemalm (L) och Sedira (SD) röstade emot. Fredrik Sverkersten (F) reserverade sig till förmån för sitt eget (avslagna) återremissyrkande. Det här är den tidigaste dokumenterade, formella politiska splittringen kring skolstängningarna på nämndnivå — fyra månader innan den redan dokumenterade 23–22-omröstningen i kommunfullmäktige, och med en ännu snävare marginal proportionellt sett (en enda rösts övervikt av 13, mot fullmäktiges en rösts övervikt av 45).",
+    "sentiment": "NEUTRAL",
+    "partySlugs": ["m", "c", "s", "l", "sd", "fokus-bjarred"]
+  },
+  {
     "title": "SD, Fokus Bjärred och Liberalerna kräver socialnämndens ordförandes avgång",
     "url": "https://docs.netpublicator.com/api/public/r01696490/document/f0be7883a48dafc6de3e-7ef9-40f9-aa68-e7eb51782ef5?hash=98c1c1e3eef446-b28a1e3a0c1f8256189-c072d3fd91109030704",
     "sourceName": "Lomma kommun, sammanträdesprotokoll KF 2024-10-24 (§ 121)",
@@ -145,5 +155,25 @@
     "details": "Protokollet redovisar bara att interpellationen ställdes och debatterades, inte det sakliga innehållet i svaret (den formella responsen distribueras separat och fångades inte i den tillgängliga textextraktionen) — så det går inte att här avgöra om gymnasiets ekonomi faktiskt är ett problem. Fakta värt att notera: frågan ställs om det stora kommunhus-/gymnasieprojektet som varit tvistigt sedan bygget påbörjades och som en folkomröstning 2024 röstade nej till utan att det stoppade bygget.",
     "sentiment": "NEUTRAL",
     "partySlugs": ["fokus-bjarred", "m", "s"]
+  },
+  {
+    "title": "Kommunstyrelsen avslår motion om skolåterstart med samma 7–6-marginal — en vecka senare blir det oavgjort i fullmäktige",
+    "url": "https://docs.netpublicator.com/api/public/r01696490/document/c3a38b32358c77c710c2-328a-4e4b-b73e-7a44f6bcb360?hash=98c1c1e3eef446-fb6ac1c64b228256204-625b098452e69539735",
+    "sourceName": "Lomma kommun, sammanträdesprotokoll Kommunstyrelsen 2026-04-22 (§ 52)",
+    "publishedAt": "2026-04-22",
+    "summary": "Per Bengtsson (S), Sandra Pilemalm (numera Fokus Bjärred), Ida Alm (L) och Oscar Sedira (SD) yrkade gemensamt att kommunstyrelsen skulle föreslå fullmäktige bifalla Thomas Eneströms och Per Bengtssons motion om att förbjuda åtgärder som försvårar en återstart av Strandskolan och Löddesnässkolan. Robert Wenglén (M) yrkade i stället att motionen bara skulle anses besvarad (det vill säga avslås i praktiken), och vann voteringen 7–6.",
+    "details": "Det här är kommunstyrelsens behandling av exakt samma motion som två veckor senare, 2026-05-07, slutade 22–22 i kommunfullmäktige och avgjordes av ordförandens utslagsröst (redan dokumenterat på sajten). Samma mönster som skolstängningsbesluten i juni 2025: M+C håller en marginal på en enda röst av kommunstyrelsens 13 ledamöter. Protokollet bekräftar också att Sandra Pilemalm vid det här mötet formellt sitter för Fokus Bjärred (\"Sandra Pilemalm (F)\"), medan Ida Alm är ensam kvar under L:s flagg i kommunstyrelsen.",
+    "sentiment": "NEUTRAL",
+    "partySlugs": ["m", "c", "s", "l", "fokus-bjarred", "sd"]
+  },
+  {
+    "title": "Nytt äldreboende planeras på Löddesnässkolans tomt — Liberalernas invändning röstas ner 6–5",
+    "url": "https://docs.netpublicator.com/api/public/r01696490/document/2873d545c75e558efecd-1b50-47fd-aaf5-004188f43c30?hash=98c1c1e3eef446-a0c184bb68548256273-6a1db08309e99588584",
+    "sourceName": "Lomma kommun, sammanträdesprotokoll Socialnämnden 2026-05-05 (§ 29, § 34)",
+    "publishedAt": "2026-05-05",
+    "summary": "Lokalförsörjningsplanen 2026–2035 rekommenderar att ett nytt särskilt boende (äldreboende) byggs på platsen där Löddesnässkolans huvudbyggnad idag står — den skola som stängdes 2025. Ida Alm (L) yrkade att den meningen skulle strykas ur planen och att boendet istället placeras i Borgeby eller Bjärred, så att möjligheten att återöppna Löddesnässkolan som skola bevaras. Yrkandet röstades ner 6–5. Oscar Sedira (SD) yrkade separat att en alternativ placering skulle utredas ifall styret byter efter valet 2026 — även det avslaget.",
+    "details": "Vid samma möte röstades även Liberalernas egen motion om att återinföra ett sammanhållet korttidsboende för äldre ner, också med 6–5, sedan förvaltningen bedömt att behovet redan täcks av de sex korttidsplatser som successivt öppnats sedan februari 2026. Båda voteringarna knyter direkt an till skolstängningsstriden: om ett äldreboende byggs på Löddesnässkolans tomt blir en återöppning av skolan där, som flera partier (S, Fokus Bjärred, MP, L, SD) drivit krav på efter 2025 års stängningsbeslut, i praktiken omöjlig.",
+    "sentiment": "NEGATIVE",
+    "partySlugs": ["l", "m", "sd"]
   }
 ]
