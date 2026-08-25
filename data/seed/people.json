@@ -58,6 +58,22 @@
     "bio": "Ordförande för Centerpartiet Lomma/Bjärred (partiföreningen) och ledamot i kommunfullmäktige."
   },
   {
+    "slug": "martha-henriksson-witt",
+    "name": "Martha Henriksson Witt",
+    "partySlug": "c",
+    "role": "LEDAMOT",
+    "isNotable": true,
+    "bio": "Ledamot för Centerpartiet i kommunfullmäktige och kommunstyrelsen. Har suttit med i det styrande blockets voteringsmajoritet i flera hårt omstridda ärenden, bland annat kommunstyrelsens 7–6-beslut att godkänna skolstängningarna (2025-06-18, § 94–95) och den senare 7–6-avslagna motionen om att stoppa återöppningshinder (2026-04-22, § 52)."
+  },
+  {
+    "slug": "oscar-sedira",
+    "name": "Oscar Sedira",
+    "partySlug": "sd",
+    "role": "LEDAMOT",
+    "isNotable": true,
+    "bio": "SD:s mest synliga företrädare i de granskade protokollen — ledamot i kommunfullmäktige, kommunstyrelsen och kultur- och fritidsnämnden. Har lagt egna yrkanden i flera stora ärenden (bl.a. skolstängningarna och äldreboendeplaneringen på Löddesnässkolans tomt) och var en av tre partier som 2024-10-24 krävde att socialnämndens ordförande skulle avgå på grund av upprepade budgetöverskridanden."
+  },
+  {
     "slug": "martin-uncyk",
     "name": "Martin Uncyk",
     "partySlug": "kd",
@@ -100,11 +116,27 @@
     "bio": null
   },
   {
+    "slug": "kristina-thored",
+    "name": "Kristina Thored",
+    "partySlug": "fokus-bjarred",
+    "role": "LEDAMOT",
+    "isNotable": true,
+    "bio": "Fokus Bjärreds mest genomgående synliga företrädare i de granskade protokollen, ledamot i kommunfullmäktige. Har reserverat sig eller yrkat i en lång rad ärenden sedan 2022 — bland annat om kommunhuset/gymnasiet, budgetbeslut och äldreomsorgens kvalitetsbrister. Var pådrivande för att folkinitiativ-omröstningarna 2024 skulle tillåtas (2024-03-14) och satt med i den grupp som drev igenom skolstängningsbeslutens motpart i kommunfullmäktige 2025-10-16."
+  },
+  {
+    "slug": "jenny-morau",
+    "name": "Jenny Morau",
+    "partySlug": "fokus-bjarred",
+    "role": "LEDAMOT",
+    "isNotable": true,
+    "bio": "Ledamot i kommunfullmäktige och kultur- och fritidsnämnden för Fokus Bjärred. Interpellerade barn- och utbildningsnämndens ordförande om Lomma Strands gymnasiums ekonomiska hållbarhet (besvarad 2026-06-17, kommunens sista protokollförda möte före valet) och medverkade i den gemensamma motionen med S, L och SD om att stoppa åtgärder som försvårar en återöppning av Strandskolan/Löddesnässkolan (avslogs 7–6 i kommunstyrelsen 2026-04-22)."
+  },
+  {
     "slug": "gun-larsson",
     "name": "Gun Larsson",
     "partySlug": null,
     "role": "LEDAMOT",
     "isNotable": true,
-    "bio": "Sitter som politiskt oberoende (vildmandat) i kommunfullmäktige, kommunstyrelsen, kommunstyrelsens arbetsutskott och flera nämnder, utan partibeteckning i kommunens förtroendemannaregister. Har en de facto vågmästarroll: i de hårt omstridda voteringarna om att stänga Strandskolan och Löddesnässkolan (KF 2025-10-16, § 76–77) röstade hon med det styrande blocket M+C+KD, vilket gav dem majoritet med exakt 23 av 45 röster i båda ärendena — utan hennes röst hade blocket bara haft 22."
+    "bio": "Sitter som politiskt oberoende (vildmandat) i kommunfullmäktige, kommunstyrelsen, kommunstyrelsens arbetsutskott och flera nämnder, utan partibeteckning i kommunens förtroendemannaregister. Har en genomgående de facto vågmästarroll för det styrande blocket M+C+KD: hon var med och gav dem den avgörande rösten redan när kommunstyrelsen först godkände skolstängningarna 7–6 (KS 2025-06-18, § 94–95), i kommunfullmäktiges 23–22-beslut att faktiskt stänga skolorna (KF 2025-10-16, § 76–77), och i kommunstyrelsens senare 7–6-avslag på en motion om att stoppa återöppningshinder (KS 2026-04-22, § 52). I samtliga fall hade blocket bara haft en knapp minoritet eller jämnt läge utan hennes röst."
   }
 ]
