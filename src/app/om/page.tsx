@@ -21,15 +21,37 @@ export default function OmPage() {
           <Link href="/namnder" className="underline">
             Nämnder
           </Link>
-          . Vi visar däremot inte enskilda omröstningsresultat (hur varje ledamot röstat i specifika ärenden)
-          &mdash; den informationen finns bara i kommunfullmäktiges protokoll som PDF-dokument per möte, och
-          är inte systematiskt sammanställd här ännu.
+          .
         </p>
         <p>
-          Underlaget är ofullständigt för vissa partier &mdash; där lokal information saknades är det tydligt
-          markerat i partiets sakfrågor. Facebook-inlägg samlas ännu inte in strukturerat i denna version.
+          Under{" "}
+          <Link href="/nyheter" className="underline">
+            Nyheter
+          </Link>{" "}
+          och{" "}
+          <Link href="/valkompass-2022" className="underline">
+            Vallöften 2022
+          </Link>{" "}
+          redovisar vi konkreta voteringsresultat och enskilda ledamöters röster i utvalda, särskilt
+          omdebatterade ärenden (t.ex. skolstängningar och folkomröstningarna) &mdash; hämtade direkt ur
+          kommunfullmäktiges och nämndernas justerade sammanträdesprotokoll. Det är inte en fullständig,
+          systematisk sammanställning av varje enskild omröstning i varje ärende sedan 2022 &mdash; det
+          skulle kräva att gå igenom tusentals sidor protokoll &mdash; utan ett urval av de ärenden som
+          bedömts mest relevanta för att följa upp partiernas vallöften.
         </p>
-        <p className="text-sm text-muted-light dark:text-muted-dark">Senast uppdaterad: 21 augusti 2026.</p>
+        <p>
+          Underlaget är ofullständigt för vissa partier och sakfrågor &mdash; där information saknas eller
+          inte gått att verifiera är det tydligt markerat (till exempel som &quot;Oklart&quot; eller
+          &quot;Inte verifierat&quot; under Vallöften 2022). Vissa nämnder har själva inte publicerat
+          fullständiga protokoll för hela perioden 2022&ndash;2025, vilket också begränsar vad som går att
+          verifiera. Facebook-inlägg samlas ännu inte in strukturerat i denna version.
+        </p>
+        <p>
+          Researcharbetet &mdash; sökning, läsning av protokoll och sammanställning av data &mdash; har
+          utförts med hjälp av en AI-assistent (Claude, Anthropic) under mänsklig styrning och granskning.
+          Källor anges genomgående så att varje uppgift går att kontrollera mot originalet.
+        </p>
+        <p className="text-sm text-muted-light dark:text-muted-dark">Senast uppdaterad: 25 augusti 2026.</p>
       </div>
     </div>
   );
