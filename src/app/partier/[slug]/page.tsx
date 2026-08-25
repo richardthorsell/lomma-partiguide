@@ -30,8 +30,20 @@ export default async function PartyDetailPage({ params }: { params: { slug: stri
   if (!party) notFound();
 
   const committeeMemberships = await getCommitteeMembershipsForParty(params.slug);
-  const pledges2022 = await getPledgesForParty(params.slug);
+  const pledgesRaw = await getPledgesForParty(params.slug);
+  const pledges2022 = [...pledgesRaw].sort((a, b) => {
+    const aHas = a.outcomeStatus !== "NOT_VERIFIED" ? 0 : 1;
+    const bHas = b.outcomeStatus !== "NOT_VERIFIED" ? 0 : 1;
+    return aHas - bHas;
+  });
   const currentMandate = party.mandates[0];
+
+  const sections = [
+    { id: "namnduppdrag", label: "Nämnduppdrag", show: committeeMemberships.length > 0 },
+    { id: "sakfragor", label: "Sakfrågor", show: party.policyPositions.length > 0 },
+    { id: "valloften", label: "Vallöften 2022", show: pledges2022.length > 0 },
+    { id: "nyheter", label: "Nyheter", show: party.newsItems.length > 0 },
+  ].filter((s) => s.show);
 
   return (
     <div className="flex flex-col gap-10">
@@ -121,6 +133,23 @@ export default async function PartyDetailPage({ params }: { params: { slug: stri
         </Link>
       </section>
 
+      {sections.length > 1 && (
+        <nav
+          aria-label="Hoppa till avsnitt"
+          className="flex flex-wrap gap-1 rounded-full border border-border-light bg-surface-light px-2 py-1.5 dark:border-border-dark dark:bg-surface-dark"
+        >
+          {sections.map((s) => (
+            <a
+              key={s.id}
+              href={`#${s.id}`}
+              className="shrink-0 whitespace-nowrap rounded-full px-3 py-1.5 text-xs font-medium text-muted-light hover:bg-canvas-light hover:text-ink-light dark:text-muted-dark dark:hover:bg-canvas-dark dark:hover:text-ink-dark"
+            >
+              {s.label}
+            </a>
+          ))}
+        </nav>
+      )}
+
       {party.people.length > 0 && (
         <section>
           <h2 className="mb-4 text-lg font-semibold tracking-tight">Namnkunniga företrädare</h2>
@@ -137,7 +166,7 @@ export default async function PartyDetailPage({ params }: { params: { slug: stri
       )}
 
       {committeeMemberships.length > 0 && (
-        <section>
+        <section id="namnduppdrag" className="scroll-mt-16">
           <h2 className="mb-4 text-lg font-semibold tracking-tight">Nämnduppdrag</h2>
           <div className="card overflow-x-auto">
             <table className="w-full min-w-[480px] border-collapse text-sm">
@@ -162,7 +191,7 @@ export default async function PartyDetailPage({ params }: { params: { slug: stri
       )}
 
       {party.policyPositions.length > 0 && (
-        <section>
+        <section id="sakfragor" className="scroll-mt-16">
           <h2 className="mb-4 text-lg font-semibold tracking-tight">Sakfrågor</h2>
           <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
             {party.policyPositions.map((position) => (
@@ -179,7 +208,7 @@ export default async function PartyDetailPage({ params }: { params: { slug: stri
       )}
 
       {pledges2022.length > 0 && (
-        <section>
+        <section id="valloften" className="scroll-mt-16">
           <div className="mb-1 flex flex-wrap items-baseline justify-between gap-2">
             <h2 className="text-lg font-semibold tracking-tight">Vallöften 2022 &mdash; Vad hände?</h2>
             <Link href="/valkompass-2022" className="text-xs text-muted-light hover:underline dark:text-muted-dark">
@@ -206,7 +235,7 @@ export default async function PartyDetailPage({ params }: { params: { slug: stri
       )}
 
       {party.newsItems.length > 0 && (
-        <section>
+        <section id="nyheter" className="scroll-mt-16">
           <h2 className="mb-4 text-lg font-semibold tracking-tight">Relaterade nyheter</h2>
           <div className="flex flex-col gap-3">
             {party.newsItems.map(({ newsItem }) => (
