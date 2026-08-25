@@ -2,7 +2,7 @@ import Link from "next/link";
 import { ArrowDown } from "lucide-react";
 import { PledgeOutcomeBadge } from "@/components/PledgeOutcomeBadge";
 
-type PledgeCardParty = { slug: string; name: string; shortName: string; colorHex: string };
+type PledgeCardParty = { slug: string; name: string; shortName: string; colorHex: string; isCoalitionMember: boolean };
 
 type PledgeCardProps = {
   topic: string;
@@ -28,9 +28,20 @@ export function PledgeCard({ topic, position, motivation, outcomeStatus, outcome
               </span>
             )}
             {party ? (
-              <Link href={`/partier/${party.slug}`} className="text-sm font-medium hover:underline">
-                {party.name}
-              </Link>
+              <div className="flex items-center gap-1.5">
+                <Link href={`/partier/${party.slug}`} className="text-sm font-medium hover:underline">
+                  {party.name}
+                </Link>
+                <span
+                  className={`pill text-[9px] ${
+                    party.isCoalitionMember
+                      ? "bg-emerald-50 text-emerald-700 dark:bg-emerald-500/10 dark:text-emerald-400"
+                      : "bg-surface-light text-muted-light dark:bg-canvas-dark dark:text-muted-dark"
+                  }`}
+                >
+                  {party.isCoalitionMember ? "Styr idag" : "Opposition idag"}
+                </span>
+              </div>
             ) : (
               <span className="text-xs font-semibold uppercase tracking-wide text-muted-light dark:text-muted-dark">
                 {topic}

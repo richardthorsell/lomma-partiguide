@@ -22,6 +22,13 @@ export default async function PledgeTopicPage({ params }: { params: { topic: str
           Vallöften 2022 &mdash; Vad hände? Partiernas svar i SVT:s lokala Valkompass, jämfört med vad som
           faktiskt beslutades i kommunfullmäktige sedan dess.
         </p>
+        <p className="mt-2 max-w-2xl text-xs text-muted-light dark:text-muted-dark">
+          <strong className="text-ink-light dark:text-ink-dark">Styr idag</strong>/
+          <strong className="text-ink-light dark:text-ink-dark">Opposition idag</strong> visar partiets läge just
+          nu &mdash; inte nödvändigtvis under hela perioden sedan 2022 (Liberalerna satt till exempel i det
+          styrande blocket fram till september 2024). Ett parti i opposition saknar oftast egen majoritet och
+          kan därför sällan driva igenom ett löfte helt på egen hand, även om partiet velat.
+        </p>
       </div>
 
       <div className="flex flex-col gap-3">

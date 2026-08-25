@@ -209,15 +209,28 @@ export default async function PartyDetailPage({ params }: { params: { slug: stri
 
       {pledges2022.length > 0 && (
         <section id="valloften" className="scroll-mt-16">
-          <div className="mb-1 flex flex-wrap items-baseline justify-between gap-2">
-            <h2 className="text-lg font-semibold tracking-tight">Vallöften 2022 &mdash; Vad hände?</h2>
+          <div className="mb-1 flex flex-wrap items-center justify-between gap-2">
+            <div className="flex flex-wrap items-center gap-2">
+              <h2 className="text-lg font-semibold tracking-tight">Vallöften 2022 &mdash; Vad hände?</h2>
+              <span
+                className={`pill ${
+                  party.isCoalitionMember
+                    ? "bg-emerald-50 text-emerald-700 dark:bg-emerald-500/10 dark:text-emerald-400"
+                    : "bg-surface-light text-muted-light dark:bg-canvas-dark dark:text-muted-dark"
+                }`}
+              >
+                {party.isCoalitionMember ? "Styr idag" : "Opposition idag"}
+              </span>
+            </div>
             <Link href="/valkompass-2022" className="text-xs text-muted-light hover:underline dark:text-muted-dark">
               Jämför alla partier
             </Link>
           </div>
           <p className="mb-4 text-xs text-muted-light dark:text-muted-dark">
             Partiets svar i SVT:s lokala Valkompass inför valet 2022, ställt mot vad som faktiskt beslutades i
-            kommunfullmäktige sedan dess.
+            kommunfullmäktige sedan dess. {party.isCoalitionMember
+              ? "Som styrande parti har man störst möjlighet att driva igenom sina löften."
+              : "Som oppositionsparti saknar man oftast egen majoritet och kan sällan driva igenom ett löfte helt på egen hand, även om partiet velat."}
           </p>
           <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
             {pledges2022.map((pledge) => (
