@@ -8,6 +8,9 @@ const HIGHLIGHTS = [
   "Ingen privatisering av äldreomsorgen skedde, som M, S, C, MP och Fokus alla ville — men revisionen riktade ändå en formell anmärkning mot socialnämnden för kvalitetsbrister 2024.",
   "Två folkomröstningar hölls faktiskt 2024 — men inte för att partierna ville: M, C och KD (och till en början L) röstade 2024-03-14 för att blockera dem, men saknade den kvalificerade två tredjedels majoritet som krävs enligt lag. Folkomröstningarna kom via medborgarnas eget folkinitiativ.",
   "S och Fokus Bjärred prioriterade mindre klasser/grupper 2022 — istället stängdes två skolor (Strandskolan, Löddesnässkolan) 2025 och eleverna slogs samman i större enheter.",
+  "S, MP och Fokus Bjärred krävde 20 % hyresrätter i nyproduktion 2022 — kommunens riktlinje landade på ett minimikrav om bara 10 %, hälften av kravet.",
+  "M, C, KD och Fokus Bjärred ville låta marknaden/privata aktörer lösa laddinfrastrukturen för elbilar — enligt M Sveriges egen jämförelse (mars 2026) är Lomma en av kommunerna där utbyggnaden inte hållit jämna steg med antalet elbilar.",
+  "En supercykelväg mellan Lomma och Lund invigdes 13 september 2025 — ett konkret genombrott för cykel/kollektivtrafik som nästan alla partier efterfrågade 2022.",
 ];
 
 export default async function Valkompass2022Page() {
