@@ -53,8 +53,8 @@ export function ValAnalysQuiz({ parties }: { parties: PartyOption[] }) {
             <span style={{ color: partyBySlug[top.slug]?.colorHex }}>{partyBySlug[top.slug]?.name}</span>
           </h2>
           <p className="mt-1 text-sm text-muted-light dark:text-muted-dark">
-            Baserat på dina {Object.keys(answers).length} svar, jämfört med partiernas svar i SVT:s lokala
-            Valkompass 2022.
+            Baserat på dina {Object.keys(answers).length} svar, jämfört med partiernas faktiska agerande och
+            ståndpunkter fram till 2026.
           </p>
         </div>
 
@@ -92,12 +92,17 @@ export function ValAnalysQuiz({ parties }: { parties: PartyOption[] }) {
         </div>
 
         <p className="text-xs text-muted-light dark:text-muted-dark">
-          Matchningen bygger på ett urval av 8 sakfrågor ur SVT:s lokala Valkompass 2022 &mdash; partiernas
-          senast kända svar, som kan ha förändrats sedan dess. Läs mer om varje parti under{" "}
+          Matchningen bygger på 8 sakfrågor där partiernas hållning kodats utifrån läget 2026 &mdash;
+          dokumenterade voteringar i kommunfullmäktige/kommunstyrelsen 2024&ndash;2026 där sådana finns,
+          annars partiernas senast kända ståndpunkt från 2022 (ingen omsvängning har hittats). Se{" "}
+          <Link href="/nyheter" className="underline">
+            Nyheter
+          </Link>{" "}
+          och{" "}
           <Link href="/valkompass-2022" className="underline">
             Vallöften 2022 &mdash; Vad hände?
           </Link>{" "}
-          för att se om de faktiskt levt upp till sina svar.
+          för källorna bakom varje fråga.
         </p>
 
         <button
@@ -130,6 +135,7 @@ export function ValAnalysQuiz({ parties }: { parties: PartyOption[] }) {
 
       <div className="card p-6">
         <p className="text-lg font-medium leading-snug">{question.statement}</p>
+        <p className="mt-3 text-xs leading-relaxed text-muted-light dark:text-muted-dark">{question.basis}</p>
       </div>
 
       <div className="flex flex-col gap-2 sm:flex-row">

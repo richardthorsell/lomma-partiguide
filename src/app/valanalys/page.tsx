@@ -16,7 +16,8 @@ export default async function ValanalysPage() {
         <h1 className="text-2xl font-semibold tracking-tight">Valanalys &mdash; hitta ditt parti</h1>
         <p className="mt-2 max-w-2xl text-muted-light dark:text-muted-dark">
           Svara på ett urval sakfrågor och se vilket parti i Lomma kommunfullmäktige som ligger närmast dina
-          åsikter, baserat på partiernas svar i SVT:s lokala Valkompass 2022.
+          åsikter &mdash; baserat på läget 2026: hur partierna faktiskt röstat och agerat, inte bara vad de
+          lovade inför förra valet.
         </p>
       </div>
 
