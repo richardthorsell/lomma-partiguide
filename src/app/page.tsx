@@ -1,9 +1,10 @@
 import Link from "next/link";
-import { Users, Scale, ListChecks, Newspaper, ArrowRight, History } from "lucide-react";
+import { Users, Scale, ListChecks, Newspaper, ArrowRight, History, Compass } from "lucide-react";
 import { getAllParties, getLatestElectionPeriod } from "@/lib/queries/parties";
 import { MandateChart } from "@/components/MandateChart";
 
 const NAV_CARDS = [
+  { href: "/valanalys", icon: Compass, title: "Valanalys — hitta ditt parti", desc: "Svara på 8 frågor och se vilket parti du matchar mest med." },
   { href: "/partier", icon: Users, title: "Partier", desc: "Sök och filtrera bland alla partier." },
   { href: "/jamfor", icon: Scale, title: "Jämför partier", desc: "Ställ partier sida vid sida." },
   { href: "/sakfragor", icon: ListChecks, title: "Sakfrågor", desc: "Se alla partiers ståndpunkt i en fråga." },
